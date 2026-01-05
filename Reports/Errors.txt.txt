@@ -1,0 +1,146 @@
+& "d:/PremJeKalister/Projects_Official/Project_15C (Hlas_Phase3_C)/.venv/Scripts/Activate.ps1"
+(.venv) PS D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)> python main.py
+C:\Users\PremJeKalister\AppData\Local\Programs\Python\Python311\python.exe: can't open file 'D:\\PremJeKalister\\Projects_Official\\Project_15C (Hlas_Phase3_C)\\main.py': [Errno 2] No such file or directory
+(.venv) PS D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)> cd Agentic-Bot
+(.venv) PS D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\Agentic-Bot> python main.py
+2025-12-17 15:44:23,193 - agentic.service_flow - INFO - ServiceSubgraph: compiled with 4 nodes
+2025-12-17 15:44:23,198 - Agentic-Bot.graph - INFO - Graph.nodes_registered: 15 nodes
+2025-12-17 15:44:23,199 - Agentic-Bot.graph - INFO - Graph.edges_configured: autonomous routing enabled
+2025-12-17 15:44:23,392 - agentic.infrastructure.redis_utils - INFO - Agentic Redis connected: redis://localhost:6379/0
+2025-12-17 15:44:23,392 - agentic.infrastructure.session - INFO - Agentic SessionManager initialized (Redis-backed)
+2025-12-17 15:44:23,392 - agentic.handlers.whatsapp - INFO - AgenticWhatsAppHandler initialized
+2025-12-17 15:44:23,432 - __main__ - INFO - Starting server on 0.0.0.0:8000
+D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\.venv\Lib\site-packages\websockets\legacy\__init__.py:6: DeprecationWarning: websockets.legacy is deprecated; see https://websockets.readthedocs.io/en/stable/howto/upgrade.html for upgrade instructions
+  warnings.warn(  # deprecated in 14.0 - 2024-11-09
+D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\.venv\Lib\site-packages\uvicorn\protocols\websockets\websockets_impl.py:17: DeprecationWarning: websockets.server.WebSocketServerProtocol is deprecated
+  from websockets.server import WebSocketServerProtocol
+INFO:     Started server process [23516]
+INFO:     Waiting for application startup.
+2025-12-17 15:44:23,471 - main - INFO - Starting HLAS Agentic Chatbot...
+2025-12-17 15:44:23,483 - agentic.infrastructure.llm - INFO - Agentic Chat LLM initialized (Azure): gpt-4.1-mini
+2025-12-17 15:44:23,498 - agentic.infrastructure.llm - INFO - Agentic Response LLM initialized (Azure): gpt-4.1-mini
+2025-12-17 15:44:23,512 - agentic.infrastructure.llm - INFO - Agentic Embeddings initialized (Azure): text-embedding-3-large
+2025-12-17 15:44:23,512 - agentic.infrastructure.llm - INFO - All agentic LLM models initialized successfully (provider: azure)
+2025-12-17 15:44:23,512 - main - INFO - LLM models initialized
+2025-12-17 15:44:23,548 - agentic.infrastructure.vector_store - INFO - Weaviate client initialized: http://localhost:8080
+2025-12-17 15:44:23,548 - main - INFO - Weaviate client initialized
+2025-12-17 15:44:23,548 - agentic.infrastructure.background_logger - INFO - BackgroundLogger initialized: max_queue=1000, drain_timeout=10.0s, max_retries=3
+2025-12-17 15:44:23,548 - agentic.infrastructure.background_logger - INFO - BackgroundLogger worker started
+2025-12-17 15:44:23,549 - main - INFO - Background logger started
+2025-12-17 15:44:23,549 - agentic.infrastructure.idle_monitor - INFO - IdleMonitor: WhatsApp handler registered
+2025-12-17 15:44:23,549 - main - INFO - Idle monitor started
+2025-12-17 15:44:23,549 - agentic.infrastructure.idle_monitor - INFO - IdleMonitor: Starting (enabled=True, idle_seconds=900, poll_interval=60s)
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit) 
+2025-12-17 15:44:39,702 - Agentic-Bot - INFO - Agentic.chat.start: session=1007 msg='Hi'
+2025-12-17 15:44:39,702 - Agentic-Bot - INFO - Agentic.chat.hi_reset: session=1007
+INFO:     127.0.0.1:53207 - "POST /chat HTTP/1.1" 200 OK
+2025-12-17 15:45:00,249 - Agentic-Bot - INFO - Agentic.chat.start: session=1007 msg='Tell me about Travel Insurance plans'
+2025-12-17 15:45:00,250 - Agentic-Bot.graph - INFO - Graph.compile: initializing agent graph
+2025-12-17 15:45:00,250 - Agentic-Bot.graph - INFO - Graph.checkpointer: using Redis for conversation persistence
+2025-12-17 15:45:00,280 - Agentic-Bot.graph - INFO - Graph.compile: agent graph ready
+2025-12-17 15:45:00,286 - Agentic-Bot.infrastructure.redis_utils - INFO - Agentic Redis connected: redis://localhost:6379/0
+2025-12-17 15:45:00,289 - agentic.pii_masker - INFO - PIIMasker initialized with 7 patterns
+2025-12-17 15:45:00,299 - Agentic-Bot.nodes.memory_nodes - INFO - Memory.compress.start: messages=1, message_tokens=13, summary_tokens=0, total=13, product=None
+2025-12-17 15:45:02,064 - Agentic-Bot.nodes.intent - INFO - Intent.classify: product switch detected: None -> Travel
+2025-12-17 15:45:02,065 - Agentic-Bot.nodes.intent - INFO - Intent.classify: intent=summary product=Travel reason=User is asking for a high-level overview of Travel Insurance plans. phase=None duration=1.764s        
+2025-12-17 15:45:02,065 - Agentic-Bot.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=summary product=Travel phase=info_query -> summary_agent duration=1.765s
+2025-12-17 15:45:02,085 - Agentic-Bot.nodes.agents - INFO - Agentic.agents: executing summary_agent for product=Travel
+2025-12-17 15:45:02,087 - Agentic-Bot.tools.benefits - INFO - BenefitsTool: Loaded benefits_raw.json with 8 products from D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\Agentic-Bot\configs\benefits_raw.json
+2025-12-17 15:45:02,091 - Agentic-Bot.nodes.agents - INFO - Agentic.agents: summary_agent appended continuation for slot=coverage_scope
+2025-12-17 15:45:02,096 - Agentic-Bot.nodes.styler - INFO - Agentic.styler.skip: reason=summary_already_styled draft_len=245 (saving LLM call)  
+2025-12-17 15:45:02,098 - Agentic-Bot - INFO - Agentic.chat.completed: session=1007 intent=summary product=Travel live_agent=False reply_len=245 duration=1.849s
+2025-12-17 15:45:02,152 - Agentic-Bot.infrastructure.mongo_history - ERROR - Agentic Mongo history initialization failed: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+INFO:     127.0.0.1:53307 - "POST /chat HTTP/1.1" 200 OK
+D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\.venv\Lib\site-packages\pymongo\synchronous\topology.py:533: ResourceWarning: Unclosed MongoClient opened at:       
+  File "C:\Users\PremJeKalister\AppData\Local\Programs\Python\Python311\Lib\threading.py", line 995, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\PremJeKalister\AppData\Local\Programs\Python\Python311\Lib\threading.py", line 1038, in _bootstrap_inner
+    self.run()
+  File "C:\Users\PremJeKalister\AppData\Local\Programs\Python\Python311\Lib\threading.py", line 975, in run 
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\PremJeKalister\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 83, in _worker
+    work_item.run()
+  File "C:\Users\PremJeKalister\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\Agentic-Bot\infrastructure\mongo_history.py", line 79, in log_history   
+    _init_if_needed()
+  File "D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\Agentic-Bot\infrastructure\mongo_history.py", line 52, in _init_if_needed
+    _client = MongoClient(MONGO_URI, tz_aware=True)
+  File "D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 882, in __init__
+    self._init_based_on_options(self._seeds, srv_max_hosts, srv_service_name)
+Call MongoClient.close() to safely shut down your client and free up resources.
+  self._condition.notify_all()      
+2025-12-17 15:45:34,552 - Agentic-Bot - INFO - Agentic.chat.start: session=1007 msg='Actually I want Car Insurance plans'
+2025-12-17 15:45:34,562 - Agentic-Bot.nodes.supervisor - INFO - Supervisor.slot_collection_path: pending_slot=coverage_scope msg='Actually I want Car Insurance plans' -> routing to recommendation subgraph
+2025-12-17 15:45:34,562 - Agentic-Bot.nodes.memory_nodes - INFO - Memory.compress.start: messages=3, message_tokens=93, summary_tokens=0, total=93, product=Travel
+2025-12-17 15:45:34,570 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Travel
+2025-12-17 15:45:35,579 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={}
+2025-12-17 15:45:35,584 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.resolve: missing slots ['coverage_scope', 'destination'] -> asking next slot
+2025-12-17 15:45:35,587 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for coverage_scope -> 'I didn't quite catch a valid answer from 'Actually I want Car Insurance plans'. Please reply with one of these options: self, family, group_adults, group_families.  
+
+Who will be covered on this trip? Is it just yourself, your family, a group of adults, ort.nodes.styler - INFO - Agentic.styler.force_style: slot_reask=True draft_len=275 -> styling for better UX
+2025-12-17 15:45:36,365 - Agentic-Bot.nodes.styler - INFO - Agentic.styler: draft_len=275 -> final_len=197
+2025-12-17 15:45:36,367 - Agentic-Bot - INFO - Agentic.chat.completed: session=1007 intent=recommend product=Travel live_agent=False reply_len=197 duration=1.815s
+INFO:     127.0.0.1:53332 - "POST /chat HTTP/1.1" 200 OK
+2025-12-17 16:48:15,236 - Agentic-Bot - INFO - Agentic.chat.start: session=1007 msg='Can you compare gold and platinum plans for a single person in Travel Insurance'
+2025-12-17 16:48:15,248 - Agentic-Bot.nodes.supervisor - INFO - Supervisor.slot_collection_path: pending_slot=coverage_scope msg='Can you compare gold and platinum plans for a sing' -> routing to recommendation subgraph
+2025-12-17 16:48:15,249 - Agentic-Bot.nodes.memory_nodes - INFO - Memory.compress.start: messages=6, message_tokens=246, summary_tokens=0, total=246, product=Travel
+2025-12-17 16:48:15,255 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Travel
+2025-12-17 16:48:16,061 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={}
+2025-12-17 16:48:16,088 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.resolve: missing slots ['coverage_scope', 'destination'] -> asking next slot
+2025-12-17 16:48:16,091 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for coverage_scope -> 'I didn't quite catch a valid answer from 'Can you compare gold and platinum plans for a single person in Travel Insurance'. Please reply with one of these options: self, family, group_adults, group_families.
+
+Who will be covered on this trip? Is it just yourself, your family, a group of adults, or a group of families?' (reask=True)
+2025-12-17 16:48:16,098 - Agentic-Bot.nodes.styler - INFO - Agentic.styler.force_style: slot_reask=True draft_len=319 -> styling for better UX
+2025-12-17 16:48:17,119 - Agentic-Bot.nodes.styler - INFO - Agentic.styler: draft_len=319 -> final_len=266
+2025-12-17 16:48:17,123 - Agentic-Bot - INFO - Agentic.chat.completed: session=1007 intent=recommend product=Travel live_agent=False reply_len=266 duration=1.887s
+INFO:     127.0.0.1:53883 - "POST /chat HTTP/1.1" 200 OK
+2025-12-17 16:51:55,595 - Agentic-Bot - INFO - Agentic.chat.start: session=1007 msg='Single'
+2025-12-17 16:51:55,607 - Agentic-Bot.nodes.supervisor - INFO - Supervisor.slot_collection_path: pending_slot=coverage_scope msg='Single' -> routing to recommendation subgraph   
+2025-12-17 16:51:55,607 - Agentic-Bot.nodes.memory_nodes - INFO - Memory.compress.start: messages=9, message_tokens=409, summary_tokens=0, total=409, product=Travel
+2025-12-17 16:51:55,615 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Travel
+2025-12-17 16:51:56,442 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={}
+2025-12-17 16:51:56,450 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.resolve: missing slots ['coverage_scope', 'destination'] -> asking next slot
+2025-12-17 16:51:56,452 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for coverage_scope -> 'I didn't quite catch a valid answer from 'Single'. Please reply with one of these options: self, family, group_adults, group_families.
+
+Who will be covered on this trip? Is it just yourself, your family, a group of adults, or a group of families?' (reask=True)
+2025-12-17 16:51:56,460 - Agentic-Bot.nodes.styler - INFO - Agentic.styler.force_style: slot_reask=True draft_len=246 -> styling for better UX
+2025-12-17 16:51:57,654 - Agentic-Bot.nodes.styler - INFO - Agentic.styler: draft_len=246 -> final_len=216
+2025-12-17 16:51:57,659 - Agentic-Bot - INFO - Agentic.chat.completed: session=1007 intent=recommend product=Travel live_agent=False reply_len=216 duration=2.064s
+INFO:     127.0.0.1:53017 - "POST /chat HTTP/1.1" 200 OK
+2025-12-17 16:52:14,298 - Agentic-Bot - INFO - Agentic.chat.start: session=1007 msg='Just me'
+2025-12-17 16:52:14,328 - Agentic-Bot.nodes.supervisor - INFO - Supervisor.slot_collection_path: pending_slot=coverage_scope msg='Just me' -> routing to recommendation subgraph  
+2025-12-17 16:52:14,328 - Agentic-Bot.nodes.memory_nodes - INFO - Memory.compress.start: messages=12, message_tokens=542, summary_tokens=0, total=542, product=Travel
+2025-12-17 16:52:14,384 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Travel
+2025-12-17 16:52:15,654 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['coverage_scope=self'] | merged slots={'coverage_scope': 'self'}  
+2025-12-17 16:52:15,664 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.resolve: missing slots ['destination'] -> asking next slot
+2025-12-17 16:52:15,668 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for destination -> 'Which country will you be traveling to?' (reask=False)    
+2025-12-17 16:52:16,687 - Agentic-Bot.nodes.styler - INFO - Agentic.styler: draft_len=39 -> final_len=90
+2025-12-17 16:52:16,693 - Agentic-Bot - INFO - Agentic.chat.completed: session=1007 intent=recommend product=Travel live_agent=False reply_len=90 duration=2.395s
+INFO:     127.0.0.1:53021 - "POST /chat HTTP/1.1" 200 OK
+2025-12-17 16:52:27,911 - Agentic-Bot - INFO - Agentic.chat.start: session=1007 msg='Australia'
+2025-12-17 16:52:27,926 - Agentic-Bot.nodes.supervisor - INFO - Supervisor.slot_collection_path: pending_slot=destination msg='Australia' -> routing to recommendation subgraph   
+2025-12-17 16:52:27,926 - Agentic-Bot.nodes.memory_nodes - INFO - Memory.compress.start: messages=15, message_tokens=592, summary_tokens=0, total=592, product=Travel
+2025-12-17 16:52:27,938 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Travel
+2025-12-17 16:52:28,825 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['destination=Australia'] | merged slots={'coverage_scope': 'self', 'destination': 'Australia'}
+2025-12-17 16:52:28,835 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.resolve: all slots filled -> generating recommendation
+2025-12-17 16:52:28,839 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: generating for product=Travel with slots={'coverage_scope': 'self', 'destination': 'Australia'}
+2025-12-17 16:52:28,839 - Agentic-Bot.tools.recommendation - INFO - Tool.recommendation.start: product=travel slots={'coverage_scope': 'self', 'destination': 'Australia'}        
+2025-12-17 16:52:28,851 - Agentic-Bot.tools.recommendation - ERROR - Tool.recommendation.llm_failed: product=travel duration=0.000s error=LLM not initialized. Call initialize_models() at application startup.
+Traceback (most recent call last):
+  File "D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\Agentic-Bot\tools\recommendation.py", line 254, in _generate_recommendation_text
+    llm = _get_llm()
+          ^^^^^^^^^^
+  File "D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\Agentic-Bot\tools\recommendation.py", line 30, in _get_llm
+    return get_response_llm()
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\Agentic-Bot\infrastructure\llm.py", line 281, in get_response_llm
+    raise RuntimeError(
+RuntimeError: LLM not initialized. Call initialize_models() at application startup.      
+
+2025-12-17 16:52:28,851 - Agentic-Bot.tools.recommendation - INFO - Tool.recommendation.completed: product=travel tier=Gold response_len=0 total_duration=0.012s
+2025-12-17 16:52:28,851 - Agentic-Bot.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: result tier=Gold | text_len=0
+2025-12-17 16:52:28,861 - Agentic-Bot.nodes.styler - INFO - Agentic.styler.skip: reason=recommendation_already_styled draft_len=145 (saving LLM call)
+2025-12-17 16:52:28,864 - Agentic-Bot - INFO - Agentic.chat.completed: session=1007 intent=recommend product=Travel live_agent=False reply_len=145 duration=0.954s
+INFO:     127.0.0.1:55630 - "POST /chat HTTP/1.1" 200 OK

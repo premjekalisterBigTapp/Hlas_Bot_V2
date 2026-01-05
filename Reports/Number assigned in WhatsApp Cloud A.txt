@@ -1,0 +1,6 @@
+Number assigned in WhatsApp Cloud API
+How to start the flow
+
+Weaviate Database
+Embedding?
+

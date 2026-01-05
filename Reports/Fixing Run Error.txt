@@ -1,0 +1,37 @@
+Fixing Run Error
+
+
+
+
+Errors Encountered
+1. Port 8000 Already in Use (Error 10048)
+ERROR: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8000): only one usage of each socket address (protocol/network address/port) is normally permitted
+What this means: Another instance of the application was already running and listening on port 8000, preventing the new instance from starting.
+How I fixed it:
+Ran netstat -ano | findstr :8000 to identify which process was using port 8000
+Found that process ID (PID) 32512 was occupying the port
+Killed that process using: taskkill /PID 32512 /F
+2. Redis Connection Refused (Error 10061)
+RuntimeError: Failed to connect to Redis at redis://localhost:6379/0ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+What this means: The application requires Redis to be running on localhost:6379, but Redis wasn't running. The chatbot uses Redis for:
+Session management (storing conversation state)
+Rate limiting
+Caching
+How I fixed it:
+Checked the docker-compose.yml file and found it defines Redis, MongoDB, and Weaviate services
+Started Docker Desktop: Start-Process "C:\Program Files\Docker\Docker\Docker Desktop.exe"
+Waited for Docker to initialize (15 seconds)
+Verified all containers were running with docker ps, which showed:
+hlas-redis (Redis on port 6379)
+hlas-mongodb (MongoDB on port 27017)
+hlas-weaviate (Weaviate on port 8080)
+Final Solution
+After fixing both issues, I started the chatbot with:
+cd "D:\PremJeKalister\Projects_Official\Project_15C (Hlas_Phase3_C)\Agentic-Bot"& "d:/PremJeKalister/Projects_Official/Project_15C (Hlas_Phase3_C)/.venv/Scripts/Activate.ps1"python main.py
+The application successfully initialized all components:
+✅ Redis connection established
+✅ Session manager initialized
+✅ Azure LLM models (GPT-4.1-mini) loaded
+✅ Weaviate vector store connected
+✅ Server started on http://0.0.0.0:8000
+Root Cause: Docker Desktop wasn't running, which meant none of the required infrastructure services (Redis, MongoDB, Weaviate) were available.
