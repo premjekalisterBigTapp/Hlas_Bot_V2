@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_benefits_1",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "benefits",
+    "source_file": "Hospital_benefits.txt",
+    "chunk_index": 1,
+    "content_length": 1000,
+    "is_empty": false
+  },
+  "content": "For a Single Hospital insurance plan, a Monthly payment type receives a 0% discount.\nFor a Single Hospital insurance plan, an Annual payment type receives a 5% discount.\nFor a Couple Hospital insurance plan, a Monthly payment type receives a 5% discount.\nFor a Couple Hospital insurance plan, an Annual payment type receives a 10% discount.\nUnder the Hospital insurance, the Daily Hospital Cash benefit is provided per day for up to 365 days, with a maximum payable amount of S$100 for the Silver plan, S$200 for the Premier plan, and S$300 for the Titanium plan.\nUnder the Hospital insurance, the Triple Hospital Cash benefit for stays in the Intensive Care Unit (ICU) is provided per day for up to 30 days, with a maximum payable amount of S$300 for the Silver plan, S$600 for the Premier plan, and S$900 for the Titanium plan.\nUnder the Hospital insurance, the Recuperation Benefit is provided per day for up to 30 days, with a maximum payable amount of S$50 for the Silver plan, S$75 for the Prem",
+  "questions": [
+    "How do the discount rates differ between Monthly and Annual payment types for Single Hospital and Couple Hospital insurance plans, and what impact might these discounts have on overall premium costs?",
+    "What are the maximum daily benefit amounts and duration limits for the Daily Hospital Cash benefit across the Silver, Premier, and Titanium plans, and how do these limits affect total claimable amounts?",
+    "In what ways does the Triple Hospital Cash benefit for ICU stays vary by plan type in terms of daily payout and maximum number of payable days, and how does this benefit complement the standard Daily Hospital Cash?",
+    "How is the Recuperation Benefit structured in terms of daily payout and maximum duration, and how might this benefit interact with other hospital cash benefits under the different plan tiers?",
+    "Considering the discount structures, how might choosing an Annual payment type versus a Monthly payment type influence the affordability and value of Single versus Couple Hospital insurance plans?",
+    "What are the implications of the maximum payable amounts for Daily Hospital Cash and Triple Hospital Cash benefits when a hospital stay includes both regular ward and ICU days within the same claim period?",
+    "How does the 0% discount for Monthly payment on Single Hospital plans compare to the 5% discount for Monthly payment on Couple Hospital plans in terms of incentivizing plan selection and payment frequency?",
+    "For a policyholder on the Titanium plan, how do the maximum daily benefits for Daily Hospital Cash and Triple Hospital Cash combine to provide financial support during extended hospital and ICU stays?",
+    "What conditions or limitations might apply to the duration caps of 365 days for Daily Hospital Cash and 30 days for Triple Hospital Cash, and how do these limits affect long-term hospitalization claims?",
+    "How might the Recuperation Benefit's daily payout and maximum duration be utilized following an ICU stay covered by the Triple Hospital Cash benefit, and are there any overlapping exclusions or restrictions?",
+    "In what scenarios would the Annual payment type's 10% discount for Couple Hospital plans provide significant cost savings compared to Monthly payment options, considering typical hospitalization durations and benefit limits?",
+    "How do the benefit structures for the Silver plan differ from the Premier and Titanium plans in terms of daily payouts for hospital and ICU stays, and what financial impact does this have on claimants?",
+    "What documentation or proof might be required to claim the Daily Hospital Cash, Triple Hospital Cash, and Recuperation Benefits, and how do these requirements vary by plan or benefit type?",
+    "How do the maximum payable amounts for the Daily Hospital Cash and Triple Hospital Cash benefits interact if a policyholder is admitted to ICU for part of their hospital stay and a general ward for the remainder?",
+    "Are there any known exclusions or conditions that could affect eligibility for the Recuperation Benefit following a hospital discharge, especially in relation to the other hospital cash benefits?",
+    "How does the payment frequency discount structure influence the choice between Single and Couple Hospital insurance plans for individuals seeking maximum coverage at lower premiums?",
+    "What is the rationale behind providing a higher discount for Annual payments in Couple Hospital plans compared to Single Hospital plans, and how might this affect family coverage decisions?",
+    "How do the maximum benefit limits for the Titanium plan support policyholders with prolonged hospitalizations and ICU stays compared to the Silver and Premier plans, and what financial protections do these limits offer?",
+    "In cases where hospital stays exceed the maximum payable days for Daily Hospital Cash or Triple Hospital Cash benefits, what options or additional coverages might be available to policyholders?",
+    "How might the interplay of discounts, benefit limits, and duration caps influence a policyholder's decision to upgrade from a Silver to a Premier or Titanium Hospital insurance plan?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_policy_89",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "policy",
+    "source_file": "Travel_policy.md",
+    "chunk_index": 89,
+    "content_length": 441,
+    "is_empty": false
+  },
+  "content": "The delay must be verified in writing by the carrier, operator or their handling agents stating the length and reason(s) for the delay.\n\n**Exclusions Applicable to Section 18**\nNo benefit will be payable under Section 18:\n1.  If the delayed baggage shall prove to be lost or damaged and for which loss or damage a claim has been made and admitted under Section 14.\n2.  If a baggage tag is not issued by the airline for Your check-in baggage.",
+  "questions": [
+    "How does the requirement for written verification by the carrier or operator interact with the need to prove baggage delay length and reasons when claiming under Section 18?",
+    "In what scenarios would a claim under Section 18 for delayed baggage be denied due to prior claims made under Section 14 for lost or damaged baggage?",
+    "What documentation must be provided to satisfy the verification requirement for baggage delay, and how does this affect the timing of a claim under Section 18?",
+    "How does the absence of an airline-issued baggage tag for check-in baggage impact the eligibility for benefits under Section 18?",
+    "If baggage is delayed and subsequently lost, how do the exclusions in Section 18 determine whether a claim should be made under Section 14 or Section 18?",
+    "What are the implications of the exclusion that no benefit is payable if a baggage tag is not issued, especially in cases of self-checked or irregular baggage handling?",
+    "How do the exclusions in Section 18 interact with general policy exclusions regarding lost or damaged baggage claims?",
+    "Can a claimant submit simultaneous claims under Section 14 and Section 18 for the same baggage incident, and how do the exclusions affect this possibility?",
+    "What constitutes acceptable written verification from the carrier or operator, and how might disputes over the reason or length of delay affect claim approval under Section 18?",
+    "How does the policy handle situations where the airline issues a baggage tag but it is lost or misplaced by the insured before travel, in relation to Section 18 exclusions?",
+    "If a baggage delay is caused by a third-party handling agent rather than the airline directly, how does the verification requirement apply for Section 18 claims?",
+    "How does the exclusion for baggage tag issuance under Section 18 affect claims for delayed baggage that was not checked in but carried as oversized or special baggage?",
+    "In cases where baggage is delayed due to reasons not covered by the carrier's written verification, how does this impact the claim under Section 18?",
+    "How do the Section 18 exclusions apply if the insured receives a baggage tag but it is for a different flight or itinerary than the one delayed?",
+    "What is the process for resolving conflicts between a claim admitted under Section 14 for lost baggage and a subsequent claim for delay under Section 18 for the same baggage?",
+    "How does the policy define the timing and content requirements for the written verification from the carrier or operator to support a Section 18 claim?",
+    "Are there any exceptions to the exclusion of claims without an airline-issued baggage tag under Section 18, such as for codeshare flights or interline baggage handling?",
+    "How does the exclusion of delayed baggage claims without a baggage tag under Section 18 interact with claims for personal documents or valuables carried in the baggage?",
+    "If the baggage delay is caused by a carrier's handling agent rather than the carrier itself, how does the policy verify and accept the delay for Section 18 claims?",
+    "How do the exclusions under Section 18 affect claims when the baggage is delayed but the insured did not check in the baggage through the airline, such as in cases of hand-carried oversized items?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_policy_102",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "policy",
+    "source_file": "Travel_policy.md",
+    "chunk_index": 102,
+    "content_length": 275,
+    "is_empty": false
+  },
+  "content": "Provided that:\n* (a) written confirmation from the carriers or the handling agents specifying the duration and cause of the delay is obtained.\n\nHowever, the benefit is not payable if a claim has already been made and admitted under either Section 19 or 20 for the same event.",
+  "questions": [
+    "How does the requirement for written confirmation from carriers or handling agents specifying the duration and cause of delay affect the eligibility for delay-related benefits, and what documentation must be submitted to support such a claim?",
+    "In what scenarios would a delay benefit claim be denied due to a prior claim being admitted under Section 19 or 20 for the same event, and how does this exclusion interact with the general policy exclusions?",
+    "If a traveler experiences a delay caused by a carrier but fails to obtain written confirmation from the carrier or handling agent, how does this impact the claim process and potential benefit payout?",
+    "How do the conditions for delay benefits apply when multiple delays occur during a trip, and how does the policy handle overlapping claims under Sections 19, 20, and the delay section?",
+    "What are the implications of the exclusion that prevents payment if a claim has already been admitted under Sections 19 or 20 for the same event, particularly in cases where the delay leads to trip cancellation or curtailment?",
+    "How should a claimant document and prove the cause and duration of a delay to satisfy the policy's written confirmation requirement, and what are acceptable sources for such confirmation?",
+    "In the event of a delay caused by a third party not classified as a carrier or handling agent, how does the policy's requirement for written confirmation affect claim eligibility?",
+    "How does the policy define 'the same event' when determining whether a delay benefit claim is excluded due to a prior claim under Sections 19 or 20?",
+    "What is the process for submitting a delay claim when a prior claim under Section 19 or 20 has been made but subsequently denied, and does this affect the delay benefit eligibility?",
+    "How do the delay benefit conditions interact with general exclusions related to publicly known events or travel alerts that might cause delays?",
+    "If a delay is caused by a carrier but the handling agent refuses to provide written confirmation, what alternative documentation or evidence can be used to support the claim?",
+    "How does the policy handle claims for delay benefits when the delay duration is disputed between the claimant and the carrier or handling agent?",
+    "In cases where a delay leads to additional expenses, how does the requirement for written confirmation and the exclusion related to Sections 19 or 20 claims affect reimbursement for those expenses?",
+    "How does the policy address situations where a delay claim is made but the same event also results in a claim under Section 19 or 20 by a different insured person on the same policy?",
+    "What are the time limits for obtaining and submitting the written confirmation from carriers or handling agents to support a delay claim?",
+    "How does the exclusion of delay benefits when a claim under Sections 19 or 20 has been admitted affect the overall coverage strategy for travelers concerned about trip interruptions?",
+    "In what ways do the requirements and exclusions for delay benefits differ from those for trip cancellation or curtailment benefits under Sections 19 and 20?",
+    "How does the policy ensure that claims for delay benefits are not duplicated or overlap with claims under Sections 19 or 20, and what mechanisms are in place to verify this?",
+    "What role does the written confirmation from carriers or handling agents play in distinguishing between covered delays and delays excluded under the policy's general or section-specific exclusions?",
+    "How are claims handled if the written confirmation indicates a delay duration shorter than the minimum required for benefit eligibility, especially when a claim under Sections 19 or 20 has also been made for the event?"
+  ]
+}

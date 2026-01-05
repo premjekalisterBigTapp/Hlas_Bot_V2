@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_policy_187",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "policy",
+    "source_file": "Travel_policy.md",
+    "chunk_index": 187,
+    "content_length": 733,
+    "is_empty": false
+  },
+  "content": "* (c) the destruction of property by order of any public authority\n21. In any action suit or other proceeding where We allege that by reason of the provisions above any loss destruction or damage is not covered by this insurance the burden of proving that such loss destruction or damage is covered shall be upon You.\n22. Property damage covered under this Policy shall mean physical damage to the substance of property. Physical damage to the substance of property shall not include damage to data or software, in particular any detrimental change in data, software or computer programs that is caused by a deletion, a corruption or a deformation of the original structure. Consequently, the following are excluded from this Policy:",
+  "questions": [
+    "How does the policy define property damage in terms of physical damage versus damage to data or software, and what implications does this have for claims involving computer-related losses?",
+    "In cases where property is destroyed by order of a public authority, how does this exclusion affect the coverage and what burden of proof is placed on the insured to establish coverage?",
+    "When the insurer alleges that a loss is not covered due to specific policy provisions, what is the insured's responsibility in proving that the loss, destruction, or damage is indeed covered?",
+    "How do exclusions related to damage caused by deletion, corruption, or deformation of data or software interact with the general definition of property damage under this policy?",
+    "What types of property damage are explicitly excluded from coverage due to the nature of the damage being to data or software rather than the physical substance of the property?",
+    "In a scenario where physical property is damaged but the data or software associated with it is also corrupted, how does the policy distinguish between covered and excluded damages?",
+    "How does the exclusion of damage caused by orders of public authorities impact claims arising from government-mandated destruction during emergencies or public safety actions?",
+    "What evidence or documentation must the insured provide to overcome the insurer's allegation that a loss is excluded under the policy provisions?",
+    "How does the policy treat losses involving intangible assets such as software or data compared to tangible physical property, and what are the consequences for claims involving cyber incidents?",
+    "If a claim involves both physical damage to property and damage to software or data, how does the policy determine which parts of the claim are covered or excluded?",
+    "What is the significance of the clause stating that physical damage does not include detrimental changes to data or software, and how might this affect claims related to digital devices?",
+    "How does the burden of proof clause influence the resolution of disputes where the insurer denies coverage based on exclusions related to destruction by public authority or data damage?",
+    "In what ways might the exclusion of damage to data or software limit coverage for losses involving modern electronic devices or systems?",
+    "How does the policy's definition of property damage align with or differ from typical definitions in travel insurance, especially regarding digital versus physical assets?",
+    "What are the potential challenges for an insured in proving coverage when the insurer invokes exclusions related to destruction by public authority or data/software damage?",
+    "How might the exclusion of damage caused by deletion, corruption, or deformation of data affect claims arising from ransomware or other cyberattacks during travel?",
+    "What role does the insured's ability to prove coverage play when the insurer cites the destruction of property by public authority as a reason to deny a claim?",
+    "How does the policy address situations where physical property is intact but the software or data it contains is damaged, and what exclusions apply?",
+    "What legal or procedural steps are implied by the clause regarding the burden of proof in disputes over coverage for loss, destruction, or damage?",
+    "How do the exclusions related to data and software damage interact with general policy exclusions, and what precedence do they have in claim adjudication?"
+  ]
+}

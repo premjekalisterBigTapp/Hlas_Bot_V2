@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Early_policy_33",
+  "metadata": {
+    "product_name": "Early",
+    "doc_type": "policy",
+    "source_file": "Early_policy.md",
+    "chunk_index": 33,
+    "content_length": 899,
+    "is_empty": false
+  },
+  "content": "* All Thyroid cancers histologically classified as T1N0M0 (TNM Classification) or below;\n    * All Neuroendocrine tumours histologically classified as T1N0M0 (TNM Classification) or below all pituitary neuroendocrine tumours (PitNET) except Metastatic PitNET and Pituitary Carcinoma;\n    * All tumours of the Urinary Bladder histologically classified as T1N0M0 (TNM Classification) or below;\n    * All Gastro-Intestinal Stromal tumours histologically classified as Stage I or IA according to the latest edition of the AJCC Cancer Staging Manual, or below;\n    * Chronic Lymphocytic Leukaemia less than RAI Stage 3;\n    * All bone marrow malignancies which do not require recurrent blood transfusions, chemotherapy, targeted cancer therapies, bone marrow transplant, haematopoietic stem cell transplant or other major interventionist treatment; and\n    * All tumours in the presence of HIV infection.",
+  "questions": [
+    "How does the classification of thyroid cancers as T1N0M0 or below affect eligibility for coverage, and what implications does this have for treatment requirements and exclusions?",
+    "In what ways are neuroendocrine tumours classified as T1N0M0 or below covered, and how are metastatic PitNET and pituitary carcinoma specifically excluded from coverage?",
+    "What are the coverage conditions for urinary bladder tumours classified as T1N0M0 or below, and how do these relate to the need for major interventions or treatments?",
+    "How does the policy define coverage for Gastro-Intestinal Stromal tumours at Stage I or IA according to the AJCC Cancer Staging Manual, and what documentation or staging criteria must be met to qualify?",
+    "What limitations apply to chronic lymphocytic leukaemia coverage, particularly concerning the RAI staging system and the exclusion of stages 3 and above?",
+    "How are bone marrow malignancies covered when they do not require recurrent blood transfusions, chemotherapy, targeted therapies, bone marrow or stem cell transplants, and what exclusions apply if such treatments are necessary?",
+    "In cases of tumours occurring in the presence of HIV infection, how does the policy address coverage, and are there any specific exclusions or conditions related to the HIV status?",
+    "How do the histological classifications and staging systems (TNM and AJCC) interact with the policy’s coverage criteria for different tumour types, and what are the implications for claims documentation?",
+    "What are the policy’s provisions regarding major interventionist treatments for covered cancers, and how do these treatments affect the eligibility for claims under this section?",
+    "How does the policy treat pituitary neuroendocrine tumours (PitNET) differently from metastatic PitNET and pituitary carcinoma in terms of coverage and exclusions?",
+    "What are the conditions under which chronic lymphocytic leukaemia is covered, and how does the exclusion of RAI Stage 3 and above impact claimants with progressive disease?",
+    "How does the policy address the coverage of bone marrow malignancies in relation to the necessity of recurrent blood transfusions or advanced therapies, and what documentation is required to prove treatment status?",
+    "In the context of tumours present with HIV infection, how does the policy differentiate coverage from general cancer exclusions, and what special considerations apply?",
+    "How do the staging classifications for Gastro-Intestinal Stromal tumours according to the latest AJCC edition influence the timing and validity of claims, especially if staging criteria change during the policy period?",
+    "What are the implications for coverage if a tumour initially classified as T1N0M0 progresses beyond this stage, and how does the policy handle claims related to disease progression?",
+    "How does the policy define and verify the histological classification of tumours for claim approval, and what role do pathology reports and specialist assessments play?",
+    "What exclusions or limitations apply if a covered tumour requires treatments such as chemotherapy or stem cell transplant after initial diagnosis, and how does this affect ongoing coverage?",
+    "How are tumours of the urinary bladder staged and classified for coverage purposes, and what are the consequences if the tumour is found to be above T1N0M0 at diagnosis?",
+    "In cases where multiple tumour types are present, such as a patient with both a neuroendocrine tumour and chronic lymphocytic leukaemia, how does the policy address coverage and exclusions?",
+    "How does the policy’s coverage for early-stage cancers interact with any general policy-wide exclusions related to pre-existing conditions or treatment history?"
+  ]
+}

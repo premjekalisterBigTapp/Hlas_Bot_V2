@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_faq_8",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "faq",
+    "source_file": "Car_FAQs.txt",
+    "chunk_index": 8,
+    "content_length": 359,
+    "is_empty": false
+  },
+  "content": "Q: What is market value? How is this determined?\nA: Market value is the cost of replacing the Insured Vehicle with a vehicle of the same make, model, condition and age of the vehicle at the time of the accident. This may be determined by the latest transactions sourced from newspaper advertisements, online motoring websites, surveyors and motor car dealers.",
+  "questions": [
+    "How is the market value of the insured vehicle determined in the event of a claim, and what sources are used to establish this value?",
+    "In assessing the market value for a vehicle claim, how do factors such as the vehicle's make, model, condition, and age at the time of the accident influence the valuation?",
+    "What role do newspaper advertisements, online motoring websites, surveyors, and motor car dealers play in determining the market value of the insured vehicle?",
+    "If the insured vehicle has unique features or modifications, how might these affect the calculation of market value based on the policy's definition?",
+    "How does the timing of the accident impact the determination of market value, particularly if market prices fluctuate rapidly?",
+    "When multiple sources provide differing valuations for the insured vehicle, how is the final market value decided according to the policy?",
+    "Does the policy consider depreciation or wear and tear separately from market value when settling claims for the insured vehicle?",
+    "In cases where the insured vehicle is rare or has limited comparable sales, how is market value established using the outlined sources?",
+    "How does the policy address situations where the insured vehicle's market value cannot be accurately determined from the usual sources?",
+    "Are there any exclusions or limitations related to the determination of market value that could affect claim payouts under this policy?",
+    "How might the market value determination process differ if the insured vehicle was involved in a total loss versus a partial damage claim?",
+    "What documentation or evidence must the insured provide to support the market value claim based on the policy's criteria?",
+    "How does the policy ensure fairness in market value assessment when the insured vehicle's condition is disputed between parties?",
+    "If the insured vehicle was purchased recently but has depreciated significantly by the time of the accident, how does the market value calculation reflect this?",
+    "Does the policy specify any time frame within which the market value must be assessed following the accident?",
+    "How are discrepancies between the insured's valuation and the insurer's market value determination resolved under the policy terms?",
+    "In what ways might the market value determination be impacted if the insured vehicle was involved in an accident during a period of unusual market conditions, such as a shortage of vehicles?",
+    "How does the policy define the condition of the vehicle for market value purposes, and what standards are applied to assess it?",
+    "Are there any policy provisions that address the use of third-party appraisals or independent valuations in establishing market value?",
+    "How does the market value determination interact with other policy sections, such as depreciation clauses or total loss settlements?"
+  ]
+}

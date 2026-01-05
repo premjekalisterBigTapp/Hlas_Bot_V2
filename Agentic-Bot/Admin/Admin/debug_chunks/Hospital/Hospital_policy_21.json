@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_policy_21",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "policy",
+    "source_file": "Hospital_policy.md",
+    "chunk_index": 21,
+    "content_length": 401,
+    "is_empty": false
+  },
+  "content": "High Dependency Unit or Coronary Care Unit is not considered as Intensive Care Unit.\n\n\"Period of Insurance\" means the period up to and including the Expiry Date of the Policy starting from the Effective Date during which the Policy is effective and has not been cancelled or otherwise terminated and shall only be renewed for monthly or annual period upon payment of the renewal premium as applicable.",
+  "questions": [
+    "How does the policy define the 'Period of Insurance' in terms of its start, end, renewal conditions, and what implications does this have for coverage continuity if the renewal premium is not paid on time?",
+    "In what ways does the exclusion of High Dependency Unit or Coronary Care Unit from being considered as Intensive Care Unit affect claims related to hospital stays requiring intensive care, and how might this interact with general exclusions for hospital benefits?",
+    "If a policyholder is admitted to a Coronary Care Unit during the Period of Insurance but the policy excludes this as Intensive Care Unit, how would this impact the eligibility for Intensive Care Unit benefits and what documentation would be necessary to support a claim?",
+    "How does the requirement that the policy must not be cancelled or otherwise terminated during the Period of Insurance affect claims made for incidents occurring near the Expiry Date or during a renewal period?",
+    "What are the conditions under which the Period of Insurance can be renewed, and how does the timing of premium payment influence the effective coverage period, especially in cases of monthly versus annual renewals?",
+    "Considering that High Dependency Unit or Coronary Care Unit is not considered Intensive Care Unit, how should claims be handled if a patient is transferred between these units during a single hospital admission within the Period of Insurance?",
+    "How does the definition of Period of Insurance interact with claims for events occurring immediately before or after the Expiry Date, particularly if the renewal premium has not yet been received?",
+    "What are the implications for coverage if the policy is cancelled or terminated before the Expiry Date within the Period of Insurance, and how might this affect claims for ongoing treatment or hospitalization?",
+    "In cases where a policyholder requires intensive care but is admitted to a High Dependency Unit instead of an Intensive Care Unit, how does the policy wording affect the benefit payout and what alternative coverages might apply?",
+    "How does the policy’s definition of Period of Insurance affect coverage for multi-trip policies or policies with automatic extensions, especially when renewal premiums are pending?",
+    "If a claim is made for a hospital stay in a Coronary Care Unit during the Period of Insurance, how does the exclusion of this unit as Intensive Care Unit impact the documentation requirements and claim approval process?",
+    "What happens to the Period of Insurance and coverage if the policyholder fails to pay the renewal premium on the due date, and how does this affect claims for incidents occurring during the intended renewal period?",
+    "How does the policy distinguish between cancellation and termination of the policy within the Period of Insurance, and what are the consequences for claims if the policy is terminated due to non-payment or other reasons?",
+    "In the context of the policy, how is the term 'Effective Date' defined relative to the Period of Insurance, and what are the implications for coverage if the policy is backdated or delayed in issuance?",
+    "How does the exclusion of High Dependency Unit or Coronary Care Unit as Intensive Care Unit interact with any general exclusions related to hospital or medical benefits in the policy?",
+    "If a policyholder is admitted to an Intensive Care Unit after being initially treated in a High Dependency Unit during the Period of Insurance, how does the policy handle claims for the entire duration of intensive care treatment?",
+    "What are the policy implications if a claim arises from treatment in a High Dependency Unit or Coronary Care Unit after the Period of Insurance has expired or the policy has been cancelled?",
+    "How does the policy address coverage gaps that might occur between the Expiry Date and the payment of renewal premium, especially if the policyholder requires hospitalization during this interval?",
+    "In what ways might the policyholder’s understanding of the Period of Insurance and unit definitions affect their decision to seek treatment in certain hospital units, and how could this impact claim outcomes?",
+    "How does the policy wording ensure clarity between the definitions of High Dependency Unit, Coronary Care Unit, and Intensive Care Unit to prevent disputes during claims assessment within the Period of Insurance?"
+  ]
+}

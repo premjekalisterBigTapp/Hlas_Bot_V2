@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_benefits_3",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "benefits",
+    "source_file": "Car_benefits.txt",
+    "chunk_index": 3,
+    "content_length": 322,
+    "is_empty": false
+  },
+  "content": " Car Insurance Benefits, towing after an accident is covered up to S$500.\nUnder Other Car Insurance Benefits, authority to repair for minor repairs is provided up to S$300, with the limit applied after the Policy Excess.\nUnder Other Car Insurance Benefits, 24-hour Automobile and Medical Assistance Services are available.",
+  "questions": [
+    "How does the S$500 towing coverage after an accident interact with the policy excess and other car insurance benefits limits?",
+    "What are the conditions and documentation requirements for claiming the S$300 authority to repair for minor repairs, and how does the policy excess affect this limit?",
+    "In what scenarios can the 24-hour Automobile and Medical Assistance Services be accessed, and are there any exclusions or limitations on these services?",
+    "If a towing expense exceeds S$500 after an accident, how is the excess amount handled under the policy terms?",
+    "Does the authority to repair for minor repairs up to S$300 cover parts and labor, and what proof is required to substantiate such claims?",
+    "How do the towing benefits coordinate with other car insurance benefits when multiple services are needed after an accident?",
+    "Are there any age or vehicle type restrictions that affect eligibility for the 24-hour Automobile and Medical Assistance Services?",
+    "How does the policy excess apply when both towing and minor repair benefits are claimed for the same accident?",
+    "What is the definition of a minor repair under the authority to repair benefit, and are there any exclusions for certain types of repairs?",
+    "Can the 24-hour Automobile and Medical Assistance Services be used for non-accident-related car issues, and if so, are there any coverage limits or exclusions?",
+    "If a policyholder uses the authority to repair benefit for minor repairs exceeding S$300, how are additional costs handled and reimbursed?",
+    "Are there any general policy exclusions that override the towing or minor repair benefits, such as claims arising from unauthorized use or illegal activities?",
+    "What documentation must be submitted to claim towing expenses, and is a police or accident report required to validate the claim?",
+    "How does the policy handle claims for towing or minor repairs if the accident occurs outside the insured geographical area or jurisdiction?",
+    "Is the 24-hour Automobile and Medical Assistance Services available to immediate family members or only to the insured vehicle driver, and are there any usage limits?",
+    "In the event of multiple accidents within the same policy period, how are the S$500 towing and S$300 minor repair limits applied or aggregated?",
+    "Does the policy provide any automatic extensions or grace periods for claiming towing or minor repair benefits after an accident?",
+    "How do the car insurance benefits interact with any general policy exclusions related to pre-existing vehicle damage or mechanical failures?",
+    "Are there any sanctions or subrogation clauses that affect the reimbursement of towing or minor repair expenses when a third party is at fault?",
+    "What are the procedures and timing requirements for notifying the insurer to access the 24-hour Automobile and Medical Assistance Services after an accident?"
+  ]
+}

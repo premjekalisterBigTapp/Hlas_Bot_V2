@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_44",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 44,
+    "content_length": 873,
+    "is_empty": false
+  },
+  "content": "24. **Reimbursable Fraud Loss** - Any financial loss that is reimbursable by Your Personal Account, Payment Card company, bank or other financial institution.\n25. **Terrorism** - Any act of terrorism, strike or similar labour action, mutiny, civil commotion assuming the proportions of or amounting to a popular rising, military rising, insurrection, rebellion, revolution, military or usurped power, or any action taken to hinder or defend against these actions; including all amounting to, directly or indirectly caused by, resulting from or in connection with any action taken in controlling, preventing, suppressing, or in any way relating to the above. However, this exclusion shall not apply to Cyberterrorism.\n26. **Theft** - Any physical theft of any of Your possessions including Your Computer System, Your Payments Card, Your Digital Assets or any other property.",
+  "questions": [
+    "How does the policy define reimbursable fraud loss in relation to claims involving personal accounts, payment card companies, banks, or other financial institutions, and what documentation is required to prove such reimbursement eligibility?",
+    "In what ways does the terrorism exclusion apply to acts such as strikes, mutinies, civil commotions, insurrections, and military uprisings, and how does the policy treat claims arising from actions taken to control or suppress these events?",
+    "How is Cyberterrorism treated differently from other forms of terrorism under the policy, and what implications does this distinction have for coverage of losses resulting from cyberattacks?",
+    "What types of theft are excluded under the policy, specifically regarding physical theft of possessions including computer systems, payment cards, and digital assets, and how does this exclusion interact with general policy exclusions?",
+    "If a financial loss is reimbursed by a bank or payment card company, how does this affect the insured’s ability to claim under the reimbursable fraud loss provision, and what timing or reporting requirements must be met?",
+    "How does the terrorism exclusion address indirect or consequential losses resulting from acts of terrorism or related civil unrest, and are there any exceptions or limits to this exclusion?",
+    "In cases where theft involves digital assets or payment cards, what evidence or reports must the insured provide to substantiate the claim, and how does the exclusion impact claims involving cyber-related theft?",
+    "How does the policy distinguish between physical theft and other types of loss such as fraud or cybercrime, and what coverage implications arise from this distinction?",
+    "What is the scope of the terrorism exclusion regarding labour actions like strikes or mutinies, and how might this affect claims for trip cancellation or interruption due to such events?",
+    "How does the policy handle losses caused by actions taken to defend against terrorism or civil commotion, and are these losses covered or excluded under the terrorism clause?",
+    "In the event of a theft involving a payment card, how does the reimbursable fraud loss provision interact with the theft exclusion, and which takes precedence in claim assessment?",
+    "What are the policy implications if a loss is partially reimbursed by a financial institution but also involves elements of theft or terrorism, and how should claims be documented and submitted in such complex scenarios?",
+    "How does the exclusion of terrorism apply to losses occurring during a military or usurped power event, and are there any coverage provisions for insured persons caught in such situations?",
+    "What documentation or proof is required to demonstrate that a financial loss qualifies as reimbursable fraud loss, and how does this requirement affect the timing and validity of claims?",
+    "How does the policy treat losses resulting from civil commotion or popular rising that do not meet the threshold of terrorism, and what exclusions or coverages apply in these borderline cases?",
+    "In cases where theft involves Your Computer System or Digital Assets, how does the policy define these terms, and what exclusions or coverage limits apply to such property?",
+    "How does the terrorism exclusion interact with other general exclusions in the policy, and are there any circumstances where coverage might be reinstated despite the exclusion?",
+    "What are the implications for coverage if a loss is caused by a strike or labour action that escalates into a civil commotion, and how does the policy differentiate between these events?",
+    "How does the policy address losses arising from actions taken to suppress or prevent terrorism, and are there any specific exclusions or exceptions related to such preventive measures?",
+    "In the context of theft exclusion, how does the policy treat losses involving intangible property such as digital assets compared to tangible possessions, and what evidence is required to support such claims?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Maid_policy_89",
+  "metadata": {
+    "product_name": "Maid",
+    "doc_type": "policy",
+    "source_file": "Maid_policy.md",
+    "chunk_index": 89,
+    "content_length": 952,
+    "is_empty": false
+  },
+  "content": "**Short Period rates for 14 months Policy**\n* **Period of Coverage (Not Exceeding):** 30 days\n    * **Premium Refund (% of Annual Premium):** 100%\n* **Period of Coverage (Not Exceeding):** 31 to 90 days\n    * **Premium Refund (% of Annual Premium):** 50%\n* **Period of Coverage (Not Exceeding):** 91 to 120 days\n    * **Premium Refund (% of Annual Premium):** 20%\n* **Period of Coverage (Not Exceeding):** Exceeding 120 days\n    * **Premium Refund (% of Annual Premium):** 0%\n\n**Short Period rates for 26 months Policy**\n* **Period of Coverage (Not Exceeding):** 30 days\n    * **Premium Refund (% of Annual Premium):** 100%\n* **Period of Coverage (Not Exceeding):** 31 to 90 days\n    * **Premium Refund (% of Annual Premium):** 50%\n* **Period of Coverage (Not Exceeding):** 91 to 270 days\n    * **Premium Refund (% of Annual Premium):** 30%\n* **Period of Coverage (Not Exceeding):** Exceeding 270 days\n    * **Premium Refund (% of Annual Premium):** 0%",
+  "questions": [
+    "How does the premium refund percentage differ between a 14-month policy and a 26-month policy when the period of coverage does not exceed 90 days, and what are the specific refund rates for each?",
+    "What is the premium refund percentage for a 14-month policy if the coverage period exceeds 120 days, and how does this compare to the refund for a 26-month policy exceeding 270 days?",
+    "If a policyholder cancels a 14-month policy after 45 days of coverage, what percentage of the annual premium is refundable, and how does this refund percentage change if the same duration applies to a 26-month policy?",
+    "For a 26-month policy with a coverage period of 100 days, what is the applicable premium refund rate, and how does this compare to the refund rate for a 14-month policy with a similar coverage period?",
+    "How are premium refunds calculated for coverage periods that fall exactly on the boundary days (e.g., 30 days, 90 days, 120 days) for both 14-month and 26-month policies?",
+    "What are the refund implications if a policyholder with a 26-month policy cancels coverage after 271 days, and how does this scenario differ from a 14-month policy cancellation after 121 days?",
+    "In what way do the short period rates reflect different refund percentages for mid-range coverage periods (31 to 90 days) between the 14-month and 26-month policies?",
+    "How does the refund policy address coverage periods that exceed the maximum days specified for each policy type, and what refund percentage applies in such cases?",
+    "If a policyholder cancels a 14-month policy after 91 days, what is the refund percentage, and how does this compare to the refund for a 26-month policy canceled after 91 days?",
+    "What is the maximum coverage period allowed for a 14-month policy to still receive any premium refund, and how does this maximum period compare to that of a 26-month policy?",
+    "How do the premium refund percentages for coverage periods between 91 and 120 days in a 14-month policy compare to those for coverage periods between 91 and 270 days in a 26-month policy?",
+    "If a policyholder cancels a 26-month policy after 30 days, what refund percentage applies, and how does this compare to the refund for a 14-month policy canceled at the same coverage duration?",
+    "What refund percentage is applicable for a 14-month policy canceled exactly at 120 days, and how does this boundary condition compare to the 26-month policy refund at 270 days?",
+    "How do the refund percentages change as the coverage period increases from 30 days to the maximum allowed in both 14-month and 26-month policies, and what are the key differences in these scales?",
+    "For a policyholder who cancels coverage after 60 days, how do the refund percentages differ between the 14-month and 26-month policies, and what does this imply about the refund structure?",
+    "What are the refund percentages for coverage periods exceeding 120 days in a 14-month policy versus those exceeding 270 days in a 26-month policy, and what does this indicate about the insurer's refund policy for long coverage durations?",
+    "How does the refund policy treat coverage periods that fall within the 31 to 90 days range for both policy durations, and what are the implications for a policyholder deciding to cancel within this window?",
+    "If a policyholder cancels a 26-month policy after 270 days, what refund percentage applies, and how does this compare to the refund for a 14-month policy canceled after 120 days?",
+    "What is the significance of the 'Not Exceeding' term in the context of premium refund calculations for both 14-month and 26-month policies, especially at the boundary coverage periods?",
+    "How do the short period refund rates incentivize policyholders to cancel earlier within the coverage period for both 14-month and 26-month policies, considering the differences in refund percentages?"
+  ]
+}

@@ -1,0 +1,18 @@
+CHUNK ANALYSIS SUMMARY FOR Home
+==================================================
+
+Total Chunks: 94
+Empty Chunks: 0
+Valid Chunks: 94
+
+BREAKDOWN BY DOCUMENT TYPE:
+------------------------------
+benefits: 7 total, 7 valid, 0 empty
+faq: 7 total, 7 valid, 0 empty
+policy: 80 total, 80 valid, 0 empty
+
+BREAKDOWN BY SOURCE FILE:
+------------------------------
+Home_benefits.txt: 7 total, 7 valid, 0 empty
+Home_FAQs.txt: 7 total, 7 valid, 0 empty
+Home_policy.md: 80 total, 80 valid, 0 empty

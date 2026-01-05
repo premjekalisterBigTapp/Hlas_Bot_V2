@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_policy_157",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "policy",
+    "source_file": "Travel_policy.md",
+    "chunk_index": 157,
+    "content_length": 949,
+    "is_empty": false
+  },
+  "content": "#### Section 44. Flight Delay\nIf Your scheduled Flight is delayed for at least three (3) hours from the departure time specified in the travel itinerary, due to any of the following reasons:\n1.  Strike or other industrial action;\n2.  Riot or civil commotion not assuming the proportions of or amounting to an uprising, military action, or usurped power and was not publicly known or already existing at the time of applying for this insurance;\n3.  Natural Disasters;\n4.  Adverse weather conditions; or\n5.  Mechanical breakdown or derangement or structural defect of that aircraft.\n\nWe shall pay You $100 for each continuous three (3) hour period, up to the Benefit Limit.\n\nProvided that:\n(a) written confirmation from the carrier or the handling agent specifying the duration and cause of the delay is obtained.\n\nHowever, this benefit is not payable if a claim has already been made and admitted under either Section 19, 20 or 21 for the same event.",
+  "questions": [
+    "How does the policy define the minimum delay duration and acceptable causes for a flight delay claim, and what documentation is required to support such a claim?",
+    "In what scenarios would a flight delay caused by riot or civil commotion be excluded from coverage, particularly considering the timing of public knowledge and the scale of the event?",
+    "How does the policy handle payment limits for flight delays, specifically regarding the $100 payment per three-hour period and the overall Benefit Limit?",
+    "What is the interaction between flight delay benefits and claims made under Sections 19, 20, or 21 for the same event, and how does this affect eligibility for multiple claims?",
+    "How do natural disasters and adverse weather conditions qualify as valid reasons for flight delay coverage, and are there any exclusions related to these causes?",
+    "What are the implications if the insured fails to obtain written confirmation from the carrier or handling agent specifying the delay duration and cause?",
+    "How does the policy address flight delays caused by mechanical breakdowns or structural defects, and what evidence is necessary to substantiate such claims?",
+    "Are there any general policy exclusions that might override the flight delay coverage even if the delay meets the specified causes and duration?",
+    "How does the policy distinguish between a riot or civil commotion that is covered versus one that is excluded due to being publicly known or existing at the time of insurance application?",
+    "What happens if the flight delay is less than three hours or caused by reasons not listed in the policy, and how does this affect claim eligibility?",
+    "How does the policy treat continuous three-hour delay periods—does the payment accumulate for each period, and what is the maximum payable amount?",
+    "In cases where a flight delay is caused by multiple factors, such as adverse weather combined with mechanical breakdown, how does the policy determine coverage eligibility?",
+    "How does the policy define the departure time for calculating the delay period, and what documentation is acceptable to verify this time?",
+    "What are the consequences if a claim for flight delay is made without meeting the requirement of written confirmation from the carrier or handling agent?",
+    "How does the policy handle flight delays resulting from industrial action or strikes, and are there any exclusions related to the timing or nature of such events?",
+    "If a claim is made for flight delay and a related claim under Section 19, 20, or 21 is subsequently submitted for the same event, how does the policy resolve potential overlaps or duplications?",
+    "Are there any age or trip-type restrictions affecting eligibility for flight delay benefits under this section?",
+    "How does the policy address delays caused by events that escalate from civil commotion to military action or usurped power, and what impact does this have on coverage?",
+    "What documentation and timing requirements must be met to ensure that a flight delay claim is not denied due to general exclusions or failure to provide proof?",
+    "How does the policy ensure that the flight delay benefit is not payable in cases where the insured has already received compensation under other sections for the same incident?"
+  ]
+}

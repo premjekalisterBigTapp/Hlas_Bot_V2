@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_44",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 44,
+    "content_length": 822,
+    "is_empty": false
+  },
+  "content": "The No Claim Discount (NCD) shall be affected by any late notification or any failure in notification of an accident and/or occurrence by the Policyholder or Authorised Driver in accordance to Sub-Section 1 of Claims Conditions. Your No Claim Discount (NCD) will be reduced by an extra 10% as shown in the following table:\n\n**NCD Table 3**\n* With a current NCD of 50%, upon renewal with non-reporting, the NCD becomes 40%.\n* With a current NCD of 40%, upon renewal with non-reporting, the NCD becomes 30%.\n* With a current NCD of 30%, upon renewal with non-reporting, the NCD becomes 20%.\n* With a current NCD of 20%, upon renewal with non-reporting, the NCD becomes 10%.\n* With a current NCD of 10%, upon renewal with non-reporting, the NCD becomes 0%.\n\n*The Accident NCD to be applied first before the Non-Reporting NCD.",
+  "questions": [
+    "How does late notification or failure to notify an accident or occurrence by the Policyholder or Authorised Driver affect the No Claim Discount (NCD) upon policy renewal, and what is the sequence of applying Accident NCD and Non-Reporting NCD?",
+    "What are the specific reductions in No Claim Discount (NCD) percentages upon renewal if there is non-reporting of an accident, starting from an initial NCD of 50% down to 10%?",
+    "In what way does the policy define the relationship between Accident NCD and Non-Reporting NCD when both are applicable, and which discount is applied first?",
+    "If a Policyholder currently has a 30% NCD but fails to notify an accident as required, what will their NCD be at renewal, and how does this compare to the reduction if only an accident occurred without non-reporting?",
+    "What are the notification requirements under Sub-Section 1 of Claims Conditions that impact the No Claim Discount (NCD), and how does failure to comply influence the NCD reduction?",
+    "How does the policy handle the scenario where an Authorised Driver fails to notify an accident or occurrence, and what impact does this have on the Policyholder’s NCD upon renewal?",
+    "Can the No Claim Discount (NCD) be reduced below zero due to non-reporting, and what is the minimum NCD percentage after successive non-reporting reductions starting from 10%?",
+    "What is the effect on the No Claim Discount (NCD) if an accident is reported late rather than not reported at all, and how does this late notification impact the NCD reduction compared to non-reporting?",
+    "How does the policy ensure that the No Claim Discount (NCD) reduction due to non-reporting is applied consistently across different initial NCD levels, and what table or guideline is used?",
+    "In cases where both an accident has occurred and there is a failure to notify, how does the policy sequence the application of Accident NCD and Non-Reporting NCD, and what is the rationale behind this order?",
+    "What documentation or proof is required to avoid the Non-Reporting NCD reduction, and how does timely notification under Claims Conditions influence the preservation of the NCD?",
+    "How does the policy define an 'occurrence' in the context of notification requirements, and what types of incidents must be reported to prevent NCD reduction?",
+    "If a Policyholder’s current NCD is 20% and they fail to notify an accident, what will be their NCD upon renewal, and how does this compare to the NCD if the accident was reported on time?",
+    "What are the consequences for the No Claim Discount (NCD) if an accident is notified by someone other than the Policyholder or Authorised Driver, and does this affect the NCD reduction for non-reporting?",
+    "How does the policy address the impact on No Claim Discount (NCD) when multiple accidents occur but only some are reported, particularly in relation to the Non-Reporting NCD reduction?",
+    "What is the policy’s approach to applying Non-Reporting NCD reductions when the Policyholder has a current NCD of 10%, and how does this affect their renewal discount?",
+    "How does the policy’s NCD Table 3 illustrate the incremental 10% reduction in NCD due to non-reporting, and what implications does this have for Policyholders aiming to maintain their discount?",
+    "In what ways does the policy differentiate between notification failures by the Policyholder versus the Authorised Driver, and how does this distinction affect the No Claim Discount (NCD) upon renewal?",
+    "How does the policy ensure that the Accident NCD is applied before the Non-Reporting NCD, and what impact does this ordering have on the final NCD calculation at renewal?",
+    "What are the potential cumulative effects on the No Claim Discount (NCD) if a Policyholder repeatedly fails to notify accidents or occurrences over multiple policy periods?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_17",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 17,
+    "content_length": 938,
+    "is_empty": false
+  },
+  "content": "\"Medically Necessary\" means medical treatment, medical procedure, or other medical services: required for the diagnosis or direct treatment of Your medical condition which is/are:\ni. clinically appropriate, in terms of type, frequency, extent, site and duration, and considered effective for Your medical condition;\nii. in accordance with generally accepted standards of medical practice; and\niii. in accordance with the recommendations by the treating Registered Medical Practitioner's specialty society, and established clinical protocols.\n\n\"Online Merchant\" means a Third Party retail business, which operates on a digital platform and registered with a valid business license if any is required according to the jurisdiction of the country within which it is situated and which accepts payment for goods through a secured online payment gateway.\n\n\"Payment Card\" means any credit, debit, charge or store card that is registered to You.",
+  "questions": [
+    "How does the definition of 'Medically Necessary' incorporate clinical appropriateness, accepted medical standards, and specialty society recommendations when determining coverage eligibility for medical treatments?",
+    "In what ways must a medical treatment align with the treating Registered Medical Practitioner's specialty society and established clinical protocols to be considered 'Medically Necessary' under this policy?",
+    "How does the policy define the scope of 'Medically Necessary' treatments in terms of type, frequency, extent, site, and duration for coverage purposes?",
+    "What criteria must an Online Merchant meet regarding business licensing and payment security to be recognized under this policy for transactions involving Payment Cards?",
+    "How does the requirement for an Online Merchant to operate on a digital platform and have a secured online payment gateway affect claims related to online purchases made with a Payment Card?",
+    "What implications does the definition of 'Payment Card' as any credit, debit, charge, or store card registered to You have on the eligibility of claims involving unauthorized transactions?",
+    "How might the policy treat medical procedures that are clinically appropriate but do not follow the treating Registered Medical Practitioner's specialty society recommendations in terms of coverage?",
+    "In cases where a medical service is generally accepted in medical practice but not aligned with established clinical protocols, how does the policy determine if it is 'Medically Necessary'?",
+    "How does the policy's definition of 'Online Merchant' address situations where a digital platform operates without a valid business license in its jurisdiction?",
+    "What documentation or proof might be required to verify that an Online Merchant is registered with a valid business license and uses a secured online payment gateway?",
+    "How does the policy distinguish between different types of Payment Cards registered to the insured when assessing coverage for fraudulent or disputed transactions?",
+    "In what scenarios could a medical treatment be excluded from coverage despite being recommended by a Registered Medical Practitioner if it does not meet the policy's 'Medically Necessary' criteria?",
+    "How does the policy ensure that medical treatments are not only clinically appropriate but also effective for the insured's specific medical condition to qualify as 'Medically Necessary'?",
+    "What are the potential coverage implications if a medical treatment is provided by a practitioner outside the specialty society relevant to the insured's condition?",
+    "How might the policy handle claims involving online purchases from merchants that accept payment through unsecured or non-verified payment gateways?",
+    "What role does the jurisdiction of the Online Merchant play in determining the validity of their business license and subsequent claim eligibility?",
+    "How does the policy's definition of 'Payment Card' impact coverage when multiple cards are registered to the insured and used for different transactions?",
+    "In what ways could the policy's definitions affect claims involving medical treatments that are experimental or not widely accepted in clinical practice?",
+    "How does the policy address the timing and documentation requirements to prove that a medical service meets the 'Medically Necessary' standard?",
+    "What are the consequences for claimants if an Online Merchant fails to meet the policy's criteria of being registered and using a secured payment gateway when purchases are made with a Payment Card?"
+  ]
+}

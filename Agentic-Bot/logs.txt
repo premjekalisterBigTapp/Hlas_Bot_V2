@@ -1,0 +1,434 @@
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-12-02 22:36:08,738 - agentic - INFO - Agentic.chat.start: session=5 msg='hello'
+2025-12-02 22:36:08,745 - agentic.graph - INFO - Graph.compile: initializing agent graph
+2025-12-02 22:36:08,759 - agentic.graph - INFO - Graph.checkpointer: using Redis for conversation persistence
+2025-12-02 22:36:10,402 - agentic.graph - INFO - Graph.compile: agent graph ready
+2025-12-02 22:36:10,410 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=1, message_tokens=6, summary_tokens=0, total=6, product=None
+2025-12-02 22:36:12,458 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:36:12,488 - agentic.nodes.intent - INFO - Intent.classify: intent=greet product=None reason=User said a short greeting 'hello'. phase=None duration=2.076s
+2025-12-02 22:36:12,489 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=greet product=None phase=greeting -> greet_agent duration=2.077s
+2025-12-02 22:36:12,588 - agentic.nodes.agents - INFO - Agentic.agents: executing greet_agent
+2025-12-02 22:36:12,610 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_greeting draft_len=157 (saving LLM call)
+2025-12-02 22:36:12,643 - agentic - INFO - Agentic.chat.completed: session=5 intent=greet product=None live_agent=False reply_len=157 duration=3.906s
+2025-12-02 22:36:14,707 - agentic.infrastructure.mongo_history - INFO - Agentic Mongo history initialized for DB 'hlas', collection 'agentic_conversation_history'
+INFO:     127.0.0.1:49854 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:36:31,595 - agentic - INFO - Agentic.chat.start: session=5 msg='what can you do?'
+2025-12-02 22:36:31,709 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=3, message_tokens=59, summary_tokens=0, total=59, product=None
+2025-12-02 22:36:34,258 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:36:35,869 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:36:36,039 - agentic.nodes.intent - INFO - Intent.classify: intent=capabilities product=None reason=User is asking about the bot's capabilities. phase=greeting duration=1.311s
+2025-12-02 22:36:36,140 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: greeting -> info_query (intent=capabilities)
+2025-12-02 22:36:36,241 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=capabilities product=None phase=info_query -> capabilities_agent duration=4.532s
+2025-12-02 22:36:36,532 - agentic.nodes.agents - INFO - Agentic.agents: executing capabilities_agent for query: what can you do?
+2025-12-02 22:36:40,213 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:36:42,353 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:36:42,456 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=694 -> final_len=663
+2025-12-02 22:36:43,132 - agentic - INFO - Agentic.chat.completed: session=5 intent=capabilities product=None live_agent=False reply_len=663 duration=11.536s
+INFO:     127.0.0.1:58832 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:37:08,600 - agentic - INFO - Agentic.chat.start: session=5 msg='help me pick a plan'
+2025-12-02 22:37:08,649 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=6, message_tokens=418, summary_tokens=0, total=418, product=None
+2025-12-02 22:37:11,483 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:37:13,362 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:37:13,484 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=None reason=User is asking for help to pick a plan, indicating a request for a personalized recommendation. phase=info_query duration=1.763s
+2025-12-02 22:37:13,488 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: info_query -> product_selection (intent=recommend)
+2025-12-02 22:37:13,493 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=None phase=product_selection -> recommendation duration=4.844s
+2025-12-02 22:37:14,624 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:37:17,314 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=None
+2025-12-02 22:37:17,327 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: product unknown, asking clarification.
+2025-12-02 22:37:18,448 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_question draft_len=127 (saving LLM call)
+2025-12-02 22:37:18,575 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=None live_agent=False reply_len=127 duration=9.974s
+INFO:     127.0.0.1:63622 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:37:33,765 - agentic - INFO - Agentic.chat.start: session=5 msg='travel'
+2025-12-02 22:37:33,804 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=8, message_tokens=461, summary_tokens=0, total=461, product=None
+2025-12-02 22:37:35,886 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:37:40,923 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:37:41,176 - agentic.nodes.intent - INFO - Intent.classify: product switch detected: None -> Travel
+2025-12-02 22:37:41,331 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Travel reason=User wants help picking a plan and specified the Travel insurance product. phase=product_selection duration=5.137s
+2025-12-02 22:37:41,774 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: product_selection -> slot_filling (intent=recommend)
+2025-12-02 22:37:41,889 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Travel phase=slot_filling -> recommendation duration=8.084s
+2025-12-02 22:37:41,908 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Travel
+2025-12-02 22:37:44,813 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:37:44,827 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['coverage_scope=self'] | merged slots={'coverage_scope': 'self'}
+2025-12-02 22:37:44,857 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['destination'] for product Travel -> asking next slot
+2025-12-02 22:37:44,883 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for destination -> 'Which country will you be traveling to?'
+2025-12-02 22:37:44,889 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_question draft_len=39 (saving LLM call)
+2025-12-02 22:37:44,892 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Travel live_agent=False reply_len=39 duration=11.128s
+INFO:     127.0.0.1:60393 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:38:13,354 - agentic - INFO - Agentic.chat.start: session=5 msg='idnia'
+2025-12-02 22:38:13,374 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=10, message_tokens=482, summary_tokens=0, total=482, product=Travel
+2025-12-02 22:38:15,867 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:38:17,640 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:38:17,791 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Travel reason=User is providing the travel destination 'idnia' (likely 'India'), continuing the slot-filling for a travel insurance recommendation. phase=slot_filling duration=1.738s
+2025-12-02 22:38:18,067 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Travel phase=slot_filling -> recommendation duration=4.692s
+2025-12-02 22:38:18,087 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Travel
+2025-12-02 22:38:19,807 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:38:19,826 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['destination=idnia'] | merged slots={'coverage_scope': 'self', 'destination': 'idnia'}
+2025-12-02 22:38:20,305 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: all slots filled -> generating recommendation
+2025-12-02 22:38:20,329 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: generating for product=Travel with slots={'coverage_scope': 'self', 'destination': 'idnia'}
+2025-12-02 22:38:20,336 - agentic.tools.recommendation - INFO - Tool.recommendation.start: product=travel slots={'coverage_scope': 'self', 'destination': 'idnia'}
+2025-12-02 22:38:20,338 - agentic.tools.benefits - INFO - BenefitsTool: Loaded benefits_raw.json with 8 products from D:\agentic\configs\benefits_raw.json
+2025-12-02 22:38:25,530 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:38:25,599 - agentic.tools.recommendation - INFO - Tool.recommendation.llm_response: product=travel tier=Gold response_len=739 duration=4.677s
+2025-12-02 22:38:25,637 - agentic.tools.recommendation - INFO - Tool.recommendation.completed: product=travel tier=Gold response_len=739 total_duration=5.301s
+2025-12-02 22:38:25,640 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: result tier=Gold | text_len=739
+2025-12-02 22:38:28,675 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:38:28,731 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=739 -> final_len=652
+2025-12-02 22:38:28,787 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Travel live_agent=False reply_len=652 duration=15.433s
+INFO:     127.0.0.1:50439 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:39:03,115 - agentic - INFO - Agentic.chat.start: session=5 msg='what are the other tiers?'
+2025-12-02 22:39:03,130 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=13, message_tokens=852, summary_tokens=0, total=852, product=Travel
+2025-12-02 22:39:03,146 - agentic.nodes.memory_nodes - INFO - Memory.compress.pruning: summarizing 9 messages, keeping 4 recent
+2025-12-02 22:39:04,931 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:39:05,331 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:39:05,335 - agentic.nodes.memory_nodes - INFO - Memory.summarize.success: summarized 9 messages, summary_len=140, product=Travel
+2025-12-02 22:39:05,336 - agentic.nodes.memory_nodes - INFO - Memory.compress.success: pruned=9 (removed=9, no_id=0), kept=4, old_tokens=852, new_tokens=376, summary_tokens=39
+2025-12-02 22:39:06,653 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:39:06,752 - agentic.nodes.intent - INFO - Intent.classify: intent=summary product=Travel reason=User is asking for a high-level overview of other plan tiers for the Travel product. phase=slot_filling duration=1.545s
+2025-12-02 22:39:06,933 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: slot_filling -> info_query (intent=summary)
+2025-12-02 22:39:06,956 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=summary product=Travel phase=info_query -> summary_agent duration=3.826s
+2025-12-02 22:39:07,086 - agentic.nodes.agents - INFO - Agentic.agents: executing summary_agent for product=Travel
+2025-12-02 22:39:18,979 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:39:28,638 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:39:28,640 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=1342 -> final_len=1304
+2025-12-02 22:39:28,672 - agentic - INFO - Agentic.chat.completed: session=5 intent=summary product=Travel live_agent=False reply_len=1304 duration=25.557s
+INFO:     127.0.0.1:53361 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:43:07,255 - agentic - INFO - Agentic.chat.start: session=5 msg='no problem, i don't have any budget limits. give me a higher tier recommendation'
+2025-12-02 22:43:07,278 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=7, message_tokens=1073, summary_tokens=39, total=1112, product=Travel
+2025-12-02 22:43:09,965 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:43:11,223 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:43:11,226 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Travel reason=User explicitly asks for a higher tier recommendation for travel insurance without budget limits. phase=info_query duration=1.259s
+2025-12-02 22:43:11,227 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: info_query -> slot_filling (intent=recommend)
+2025-12-02 22:43:11,227 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Travel phase=slot_filling -> recommendation duration=3.949s
+2025-12-02 22:43:11,284 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Travel
+2025-12-02 22:43:12,468 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:43:12,484 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={'coverage_scope': 'self', 'destination': 'idnia'}
+2025-12-02 22:43:12,502 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: all slots filled -> generating recommendation
+2025-12-02 22:43:12,579 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: generating for product=Travel with slots={'coverage_scope': 'self', 'destination': 'idnia'}
+2025-12-02 22:43:12,594 - agentic.tools.recommendation - INFO - Tool.recommendation.start: product=travel slots={'coverage_scope': 'self', 'destination': 'idnia'}
+2025-12-02 22:43:22,858 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:43:22,860 - agentic.tools.recommendation - INFO - Tool.recommendation.llm_response: product=travel tier=Gold response_len=726 duration=10.267s
+2025-12-02 22:43:22,861 - agentic.tools.recommendation - INFO - Tool.recommendation.completed: product=travel tier=Gold response_len=726 total_duration=10.269s
+2025-12-02 22:43:22,861 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: result tier=Gold | text_len=726
+2025-12-02 22:43:25,626 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:43:25,628 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=726 -> final_len=551
+2025-12-02 22:43:25,633 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Travel live_agent=False reply_len=551 duration=18.378s
+INFO:     127.0.0.1:57956 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:44:16,516 - agentic - INFO - Agentic.chat.start: session=5 msg='do you have any other insurance products?'
+2025-12-02 22:44:16,549 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=10, message_tokens=1418, summary_tokens=39, total=1457, product=Travel
+2025-12-02 22:44:18,174 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:44:19,119 - httpx - INFO - HTTP Request: POST https://hlasdemoapillm.openai.azure.com/openai/deployments/gpt-4.1-mini/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-02 22:44:19,123 - agentic.nodes.intent - INFO - Intent.classify: intent=info product=None reason=User is asking about availability of other insurance products besides travel. phase=slot_filling duration=0.898s
+2025-12-02 22:44:19,123 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: slot_filling -> info_query (intent=info)
+2025-12-02 22:44:19,125 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=info product=Travel phase=info_query -> info_agent duration=2.574s
+2025-12-02 22:44:19,130 - agentic.nodes.agents - INFO - Agentic.agents: executing info_agent for product=Travel query=do you have any other insurance products?
+2025-12-02 22:44:19,130 - agentic.tools.info - INFO - Tool.info.start: raw_product=Travel resolved_product=travel question_len=41
+2025-12-02 22:44:20,700 - agentic.infrastructure.vector_store - INFO - Agentic Weaviate client connected: http://localhost:8080
+2025-12-02 22:44:24,355 - agentic.tools.info - INFO - Tool.info.weaviate_query: product=travel hits=10 duration=0.412s
+2025-12-02 22:44:27,686 - agentic.tools.info - INFO - Tool.info.llm_response: product=travel answer_len=590 duration=2.739s
+2025-12-02 22:44:27,686 - agentic.tools.info - INFO - Tool.info.completed: product=travel answer_len=590 sources=2 total_duration=8.556s
+2025-12-02 22:44:30,198 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=590 -> final_len=551
+2025-12-02 22:44:30,305 - agentic - INFO - Agentic.chat.completed: session=5 intent=info product=Travel live_agent=False reply_len=551 duration=13.789s
+INFO:     127.0.0.1:53580 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:44:59,923 - agentic - INFO - Agentic.chat.start: session=5 msg='i am suffering from diabetes. what would you recommend?'
+2025-12-02 22:44:59,944 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=13, message_tokens=1732, summary_tokens=39, total=1771, product=Travel
+2025-12-02 22:44:59,974 - agentic.nodes.memory_nodes - INFO - Memory.compress.pruning: summarizing 9 messages, keeping 4 recent
+2025-12-02 22:45:02,736 - agentic.nodes.intent - INFO - Intent.classify: product switch detected: Travel -> Early
+2025-12-02 22:45:02,737 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Early reason=User is asking for a personalized insurance recommendation considering their diabetes condition, which relates to critical illness coverage. phase=info_query duration=1.090s
+2025-12-02 22:45:02,737 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: info_query -> slot_filling (intent=recommend)
+2025-12-02 22:45:02,737 - agentic.nodes.supervisor - INFO - Supervisor.clearing_slots: reason=product_switch old_product=Travel new_product=Early
+2025-12-02 22:45:02,737 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Early phase=slot_filling -> recommendation duration=2.792s
+2025-12-02 22:45:02,754 - agentic.nodes.memory_nodes - INFO - Memory.summarize.success: summarized 9 messages, summary_len=380, product=Travel
+2025-12-02 22:45:02,755 - agentic.nodes.memory_nodes - INFO - Memory.compress.success: pruned=9 (removed=9, no_id=0), kept=4, old_tokens=1732, new_tokens=329, summary_tokens=99
+2025-12-02 22:45:02,775 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Early
+2025-12-02 22:45:03,561 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={}
+2025-12-02 22:45:03,562 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: side_question detected='What would you recommend?'
+2025-12-02 22:45:03,562 - agentic.tools.info - INFO - Tool.info.start: raw_product=Early resolved_product=early question_len=25
+2025-12-02 22:45:05,691 - agentic.tools.info - INFO - Tool.info.weaviate_query: product=early hits=10 duration=0.082s
+2025-12-02 22:45:12,387 - agentic.tools.info - INFO - Tool.info.llm_response: product=early answer_len=1297 duration=6.695s
+2025-12-02 22:45:12,389 - agentic.tools.info - INFO - Tool.info.completed: product=early answer_len=1297 sources=3 total_duration=8.826s
+2025-12-02 22:45:12,419 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['existing_cover', 'dependants'] for product Early -> asking next slot
+2025-12-02 22:45:12,427 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for existing_cover -> '• If you are looking for comprehensive critical illness coverage, *Early Protect360 Plus* offers protection with sum insured options from $50,000 up to $300,000.
+
+• It covers both early and advanced stage critical illnesses with a payout of 100% of the sum insured, providing strong financial support when you need it most.
+
+• Additional benefits include coverage for specific surgeries like pericardiectomy, brain aneurysm surgery, cerebral shunt insertion, keyhole coronary bypass surgery, and heart valve surgeries, all requiring certification from specialists.
+
+• There is also an Extra ICU Benefit that pays up to 20% of the sum insured (maximum $25,000) for ICU stays of 4 or more consecutive days, which does not reduce your critical illness coverage.
+
+• Compared to the previous Early Protect360, this Plus version offers enhanced benefits such as end-stage kidney failure coverage, increased sum insured, and extended renewable coverage up to age 99.
+
+• Choosing a sum insured that fits your financial needs and comfort level is important—consider your current health, family responsibilities, and financial obligations.
+
+• For personalized advice tailored to your situation, or if you have more questions, our team is ready to assist you at (65) 6327 8878—they'll take great care of you.
+
+Now, regarding your recommendation: Do you already have any insurance that pays a lump sum if you’re diagnosed with a critical illness?'
+2025-12-02 22:45:15,220 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=1434 -> final_len=454
+2025-12-02 22:45:15,255 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Early live_agent=False reply_len=454 duration=15.331s
+INFO:     127.0.0.1:53621 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:46:16,252 - agentic - INFO - Agentic.chat.start: session=5 msg='yes'
+2025-12-02 22:46:16,275 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=7, message_tokens=817, summary_tokens=99, total=916, product=Early
+2025-12-02 22:46:19,338 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Early reason=User answered 'yes' to the bot's question about existing critical illness insurance, continuing the personalized recommendation flow for Early Protect360 Plus. phase=product_selection duration=1.319s
+2025-12-02 22:46:19,339 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: product_selection -> slot_filling (intent=recommend)
+2025-12-02 22:46:19,339 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Early phase=slot_filling -> recommendation duration=3.064s
+2025-12-02 22:46:19,358 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Early
+2025-12-02 22:46:20,514 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['existing_cover=yes'] | merged slots={'existing_cover': 'yes'}
+2025-12-02 22:46:20,521 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['dependants'] for product Early -> asking next slot
+2025-12-02 22:46:20,525 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for dependants -> 'Do you have family members who rely on your income or care?'
+2025-12-02 22:46:20,537 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_question draft_len=59 (saving LLM call)
+2025-12-02 22:46:20,541 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Early live_agent=False reply_len=59 duration=4.289s
+INFO:     127.0.0.1:53661 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:46:28,555 - agentic - INFO - Agentic.chat.start: session=5 msg='yes'
+2025-12-02 22:46:28,665 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=9, message_tokens=842, summary_tokens=99, total=941, product=Early
+2025-12-02 22:46:31,273 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Early reason=User is answering a slot-filling question about dependants for a personalized recommendation on Early Protect360 Plus. phase=slot_filling duration=0.880s
+2025-12-02 22:46:31,274 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Early phase=slot_filling -> recommendation duration=2.605s
+2025-12-02 22:46:31,333 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Early
+2025-12-02 22:46:32,503 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['dependants=yes'] | merged slots={'existing_cover': 'yes', 'dependants': 'yes'}
+2025-12-02 22:46:32,523 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: all slots filled -> generating recommendation
+2025-12-02 22:46:32,528 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: generating for product=Early with slots={'existing_cover': 'yes', 'dependants': 'yes'}
+2025-12-02 22:46:32,554 - agentic.tools.recommendation - INFO - Tool.recommendation.start: product=early slots={'existing_cover': 'yes', 'dependants': 'yes'}
+2025-12-02 22:46:35,878 - agentic.tools.recommendation - INFO - Tool.recommendation.early_llm_response: response_len=695 duration=3.309s
+2025-12-02 22:46:35,888 - agentic.tools.recommendation - INFO - Tool.recommendation.completed: product=early tier=None response_len=695 total_duration=3.334s
+2025-12-02 22:46:35,889 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: result tier=None | text_len=695
+2025-12-02 22:46:37,408 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=695 -> final_len=554
+2025-12-02 22:46:37,528 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Early live_agent=False reply_len=554 duration=8.973s
+INFO:     127.0.0.1:53669 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:47:17,927 - agentic - INFO - Agentic.chat.start: session=5 msg='are there any other tiers?'
+2025-12-02 22:47:18,128 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=12, message_tokens=1176, summary_tokens=99, total=1275, product=Early
+2025-12-02 22:47:21,239 - agentic.nodes.intent - INFO - Intent.classify: intent=info product=Early reason=User is asking about other tiers available for the Early product, which is a question about coverage options. phase=slot_filling duration=1.057s
+2025-12-02 22:47:21,247 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: slot_filling -> info_query (intent=info)
+2025-12-02 22:47:21,253 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=info product=Early phase=info_query -> info_agent duration=3.119s
+2025-12-02 22:47:21,266 - agentic.nodes.agents - INFO - Agentic.agents: executing info_agent for product=Early query=are there any other tiers?
+2025-12-02 22:47:21,276 - agentic.tools.info - INFO - Tool.info.start: raw_product=Early resolved_product=early question_len=26
+2025-12-02 22:47:22,921 - agentic.tools.info - INFO - Tool.info.weaviate_query: product=early hits=10 duration=0.232s
+2025-12-02 22:47:26,970 - agentic.tools.info - INFO - Tool.info.llm_response: product=early answer_len=638 duration=4.030s
+2025-12-02 22:47:26,970 - agentic.tools.info - INFO - Tool.info.completed: product=early answer_len=638 sources=2 total_duration=5.694s
+2025-12-02 22:47:29,690 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=638 -> final_len=360
+2025-12-02 22:47:29,826 - agentic - INFO - Agentic.chat.completed: session=5 intent=info product=Early live_agent=False reply_len=360 duration=11.899s
+INFO:     127.0.0.1:53707 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:47:56,826 - agentic - INFO - Agentic.chat.start: session=5 msg='i don;t have any budget limits'
+2025-12-02 22:47:56,908 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=15, message_tokens=1449, summary_tokens=99, total=1548, product=Early
+2025-12-02 22:47:56,920 - agentic.nodes.memory_nodes - INFO - Memory.compress.pruning: summarizing 11 messages, keeping 4 recent
+2025-12-02 22:48:00,521 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Early reason=User indicates no budget limits and likely wants a recommendation for the best sum insured option for Early Protect360 Plus. phase=info_query duration=1.335s
+2025-12-02 22:48:00,534 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: info_query -> slot_filling (intent=recommend)
+2025-12-02 22:48:00,584 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Early phase=slot_filling -> recommendation duration=3.676s
+2025-12-02 22:48:01,771 - agentic.nodes.memory_nodes - INFO - Memory.summarize.success: summarized 11 messages, summary_len=722, product=Early
+2025-12-02 22:48:01,772 - agentic.nodes.memory_nodes - INFO - Memory.compress.success: pruned=11 (removed=11, no_id=0), kept=4, old_tokens=1449, new_tokens=284, summary_tokens=185
+2025-12-02 22:48:01,789 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Early
+2025-12-02 22:48:02,504 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={'existing_cover': 'yes', 'dependants': 'yes'}
+2025-12-02 22:48:02,512 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: all slots filled -> generating recommendation
+2025-12-02 22:48:02,524 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: generating for product=Early with slots={'existing_cover': 'yes', 'dependants': 'yes'}
+2025-12-02 22:48:02,525 - agentic.tools.recommendation - INFO - Tool.recommendation.start: product=early slots={'existing_cover': 'yes', 'dependants': 'yes'}
+2025-12-02 22:48:06,224 - agentic.tools.recommendation - INFO - Tool.recommendation.early_llm_response: response_len=684 duration=3.697s
+2025-12-02 22:48:06,271 - agentic.tools.recommendation - INFO - Tool.recommendation.completed: product=early tier=None response_len=684 total_duration=3.746s
+2025-12-02 22:48:06,310 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: result tier=None | text_len=684
+2025-12-02 22:48:08,358 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=684 -> final_len=473
+2025-12-02 22:48:08,406 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Early live_agent=False reply_len=473 duration=11.581s
+INFO:     127.0.0.1:52004 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:48:31,753 - agentic - INFO - Agentic.chat.start: session=5 msg='give me a recommendaiton for fraud insurance'
+2025-12-02 22:48:31,789 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=7, message_tokens=600, summary_tokens=185, total=785, product=Early
+2025-12-02 22:48:34,847 - agentic.nodes.intent - INFO - Intent.classify: product switch detected: Early -> Fraud
+2025-12-02 22:48:34,868 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Fraud reason=User is asking for a personalized recommendation for fraud insurance. phase=slot_filling duration=0.877s
+2025-12-02 22:48:34,874 - agentic.nodes.supervisor - INFO - Supervisor.clearing_slots: reason=product_switch old_product=Early new_product=Fraud
+2025-12-02 22:48:34,876 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Fraud phase=slot_filling -> recommendation duration=3.087s
+2025-12-02 22:48:34,912 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Fraud
+2025-12-02 22:48:35,647 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={}
+2025-12-02 22:48:35,674 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['purchase_frequency', 'scam_exp'] for product Fraud -> asking next slot
+2025-12-02 22:48:36,622 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for purchase_frequency -> 'How often do you shop online—daily, weekly, or monthly?'
+2025-12-02 22:48:36,631 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_question draft_len=55 (saving LLM call)
+2025-12-02 22:48:36,635 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Fraud live_agent=False reply_len=55 duration=4.882s
+INFO:     127.0.0.1:58620 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:48:47,659 - agentic - INFO - Agentic.chat.start: session=5 msg='daily'
+2025-12-02 22:48:47,751 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=9, message_tokens=625, summary_tokens=185, total=810, product=Fraud
+2025-12-02 22:48:50,634 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Fraud reason=User answered the bot's question about shopping frequency, indicating they want a personalized recommendation for fraud insurance. phase=product_selection duration=0.965s
+2025-12-02 22:48:50,635 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: product_selection -> slot_filling (intent=recommend)
+2025-12-02 22:48:50,635 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Fraud phase=slot_filling -> recommendation duration=2.884s
+2025-12-02 22:48:50,648 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Fraud
+2025-12-02 22:48:51,652 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['purchase_frequency=daily'] | merged slots={'purchase_frequency': 'daily'}
+2025-12-02 22:48:51,658 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['scam_exp'] for product Fraud -> asking next slot
+2025-12-02 22:48:52,484 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for scam_exp -> 'Have you ever experienced or nearly fallen for an online scam?'
+2025-12-02 22:48:52,498 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_question draft_len=62 (saving LLM call)
+2025-12-02 22:48:52,504 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Fraud live_agent=False reply_len=62 duration=4.845s
+INFO:     127.0.0.1:58634 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:48:58,873 - agentic - INFO - Agentic.chat.start: session=5 msg='nope'
+2025-12-02 22:48:58,902 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=11, message_tokens=651, summary_tokens=185, total=836, product=Fraud
+2025-12-02 22:49:01,820 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Fraud reason=User is answering the slot-filling question about scam experience for fraud insurance recommendation. phase=slot_filling duration=1.055s
+2025-12-02 22:49:01,821 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Fraud phase=slot_filling -> recommendation duration=2.919s
+2025-12-02 22:49:01,857 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Fraud
+2025-12-02 22:49:02,870 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['scam_exp=no'] | merged slots={'purchase_frequency': 'daily', 'scam_exp': 'no'}
+2025-12-02 22:49:02,891 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: all slots filled -> generating recommendation
+2025-12-02 22:49:02,907 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: generating for product=Fraud with slots={'purchase_frequency': 'daily', 'scam_exp': 'no'}
+2025-12-02 22:49:02,916 - agentic.tools.recommendation - INFO - Tool.recommendation.start: product=fraud slots={'purchase_frequency': 'daily', 'scam_exp': 'no'}
+2025-12-02 22:49:06,406 - agentic.tools.recommendation - INFO - Tool.recommendation.llm_response: product=fraud tier=Platinum response_len=427 duration=3.490s
+2025-12-02 22:49:06,438 - agentic.tools.recommendation - INFO - Tool.recommendation.completed: product=fraud tier=Platinum response_len=427 total_duration=3.521s
+2025-12-02 22:49:06,438 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: result tier=Platinum | text_len=427
+2025-12-02 22:49:08,297 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=427 -> final_len=612
+2025-12-02 22:49:08,364 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Fraud live_agent=False reply_len=612 duration=9.491s
+INFO:     127.0.0.1:55306 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:51:48,836 - agentic - INFO - Agentic.chat.start: session=5 msg='give me a recommendation for maid insurance'
+2025-12-02 22:51:48,854 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=14, message_tokens=937, summary_tokens=185, total=1122, product=Fraud
+2025-12-02 22:51:48,865 - agentic.nodes.memory_nodes - INFO - Memory.compress.pruning: summarizing 10 messages, keeping 4 recent
+2025-12-02 22:51:52,009 - agentic.nodes.intent - INFO - Intent.classify: product switch detected: Fraud -> Maid
+2025-12-02 22:51:52,010 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Maid reason=User explicitly asks for a recommendation for maid insurance. phase=slot_filling duration=1.065s
+2025-12-02 22:51:52,011 - agentic.nodes.supervisor - INFO - Supervisor.clearing_slots: reason=product_switch old_product=Fraud new_product=Maid
+2025-12-02 22:51:52,012 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Maid phase=slot_filling -> recommendation duration=3.157s
+2025-12-02 22:51:53,413 - agentic.nodes.memory_nodes - INFO - Memory.summarize.success: summarized 10 messages, summary_len=762, product=Fraud
+2025-12-02 22:51:53,414 - agentic.nodes.memory_nodes - INFO - Memory.compress.success: pruned=10 (removed=10, no_id=0), kept=4, old_tokens=937, new_tokens=291, summary_tokens=195
+2025-12-02 22:51:53,426 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Maid
+2025-12-02 22:51:55,535 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={}
+2025-12-02 22:51:55,732 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['duration_of_insurance', 'maid_country', 'coverage_above_mom_minimum', 'add_ons'] for product Maid -> asking next slot
+2025-12-02 22:51:56,587 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for duration_of_insurance -> 'How long would you like the insurance policy to last—14 months or 26 months?'
+2025-12-02 22:51:56,596 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_question draft_len=76 (saving LLM call)
+2025-12-02 22:51:56,600 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Maid live_agent=False reply_len=76 duration=7.765s
+INFO:     127.0.0.1:56982 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:52:04,556 - agentic - INFO - Agentic.chat.start: session=5 msg='3 months'
+2025-12-02 22:52:04,638 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=6, message_tokens=322, summary_tokens=195, total=517, product=Maid
+2025-12-02 22:52:06,887 - agentic.nodes.feedback - INFO - Agentic.feedback: negative feedback detected: The user responded with a duration (3 months) that was not offered as an option (14 or 26 months), indicating the previous answer did not meet their needs or was not helpful.
+2025-12-02 22:52:06,903 - agentic.nodes.feedback - INFO - Agentic.feedback: attempting self-critique/rewrite
+2025-12-02 22:52:08,131 - agentic.nodes.feedback - INFO - Agentic.feedback: rewrite successful, length=232
+2025-12-02 22:52:08,131 - agentic.nodes.supervisor - INFO - Supervisor.negative_feedback: turn=0 triggering self-critique
+2025-12-02 22:52:09,319 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=232 -> final_len=214
+2025-12-02 22:52:09,326 - agentic - INFO - Agentic.chat.completed: session=5 intent=reflect_done product=Maid live_agent=False reply_len=214 duration=4.770s
+INFO:     127.0.0.1:56989 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:52:26,146 - agentic - INFO - Agentic.chat.start: session=5 msg='14 '
+2025-12-02 22:52:26,178 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=9, message_tokens=450, summary_tokens=195, total=645, product=Maid
+2025-12-02 22:52:29,803 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Maid reason=User's message '14' is a direct answer to the duration_of_insurance slot for Maid insurance, continuing the form-filling flow for a personalized recommendation. phase=product_selection duration=1.204s
+2025-12-02 22:52:29,803 - agentic.nodes.supervisor - INFO - Supervisor.phase_transition: product_selection -> slot_filling (intent=recommend)
+2025-12-02 22:52:29,803 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Maid phase=slot_filling -> recommendation duration=3.625s
+2025-12-02 22:52:29,810 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Maid
+2025-12-02 22:52:31,145 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['duration_of_insurance=14'] | merged slots={'duration_of_insurance': '14'}
+2025-12-02 22:52:31,151 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['maid_country', 'coverage_above_mom_minimum', 'add_ons'] for product Maid -> asking next slot
+2025-12-02 22:52:33,950 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for maid_country -> 'Could you please tell me the country of origin of the maid?'
+2025-12-02 22:52:33,965 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_question draft_len=59 (saving LLM call)
+2025-12-02 22:52:33,970 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Maid live_agent=False reply_len=59 duration=7.825s
+INFO:     127.0.0.1:57014 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:52:41,153 - agentic - INFO - Agentic.chat.start: session=5 msg='india'
+2025-12-02 22:52:41,171 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=11, message_tokens=476, summary_tokens=195, total=671, product=Maid
+2025-12-02 22:52:44,492 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Maid reason=User is providing the maid's country of origin, which is a slot needed to recommend a suitable maid insurance plan. phase=slot_filling duration=0.916s
+2025-12-02 22:52:44,493 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Maid phase=slot_filling -> recommendation duration=3.321s
+2025-12-02 22:52:44,503 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Maid
+2025-12-02 22:52:46,626 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['maid_country=india'] | merged slots={'duration_of_insurance': '14', 'maid_country': 'india'}
+2025-12-02 22:52:46,631 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['coverage_above_mom_minimum', 'add_ons'] for product Maid -> asking next slot
+2025-12-02 22:52:47,637 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for coverage_above_mom_minimum -> 'Would you like coverage that goes beyond the MOM minimum of $60,000 medical coverage and a $5,000 security bond?'
+2025-12-02 22:52:47,650 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_question draft_len=112 (saving LLM call)
+2025-12-02 22:52:47,656 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Maid live_agent=False reply_len=112 duration=6.503s
+INFO:     127.0.0.1:57031 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:53:02,155 - agentic - INFO - Agentic.chat.start: session=5 msg='i don't understand what it means?'
+2025-12-02 22:53:02,262 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=13, message_tokens=523, summary_tokens=195, total=718, product=Maid
+2025-12-02 22:53:02,344 - agentic.nodes.memory_nodes - INFO - Memory.compress.pruning: summarizing 9 messages, keeping 4 recent
+2025-12-02 22:53:05,595 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Maid reason=User is responding to a slot-filling question about coverage beyond MOM minimum, indicating they need clarification to continue the recommendation process. phase=slot_filling duration=1.118s
+2025-12-02 22:53:05,643 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Maid phase=slot_filling -> recommendation duration=3.380s
+2025-12-02 22:53:06,902 - agentic.nodes.memory_nodes - INFO - Memory.summarize.success: summarized 9 messages, summary_len=907, product=Maid
+2025-12-02 22:53:06,916 - agentic.nodes.memory_nodes - INFO - Memory.compress.success: pruned=9 (removed=9, no_id=0), kept=4, old_tokens=523, new_tokens=73, summary_tokens=231
+2025-12-02 22:53:07,058 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Maid
+2025-12-02 22:53:08,406 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={'duration_of_insurance': '14', 'maid_country': 'india'}
+2025-12-02 22:53:08,409 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: side_question detected='What does coverage beyond the MOM minimum mean?'
+2025-12-02 22:53:08,411 - agentic.tools.info - INFO - Tool.info.start: raw_product=Maid resolved_product=maid question_len=47
+2025-12-02 22:53:09,832 - agentic.tools.info - INFO - Tool.info.weaviate_query: product=maid hits=10 duration=0.089s
+2025-12-02 22:53:14,426 - agentic.tools.info - INFO - Tool.info.llm_response: product=maid answer_len=999 duration=4.594s
+2025-12-02 22:53:14,427 - agentic.tools.info - INFO - Tool.info.completed: product=maid answer_len=999 sources=2 total_duration=6.017s
+2025-12-02 22:53:14,433 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['coverage_above_mom_minimum', 'add_ons'] for product Maid -> asking next slot
+2025-12-02 22:53:16,445 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for coverage_above_mom_minimum -> 'Coverage beyond the MOM minimum means your maid insurance plan offers protection that exceeds the basic requirements set by the Ministry of Manpower.
+
+• MOM requires a minimum of $60,000 medical coverage and a $5,000 security bond. Maid Protect360 PRO meets and surpasses these standards.
+
+• Our plans—Basic, Enhanced, Premier, and Exclusive—offer increasing levels of benefits beyond MOM’s minimum, such as higher hospital cash payouts, alternative maid services, and waiver of co-payment for hospital and surgical expenses (from Enhanced plan and above).
+
+• Higher tiers like Premier and Exclusive provide more comprehensive protection, including larger family grants and third-party liability coverage.
+
+• Optional add-ons like Waiver of Counter Indemnity and Enhanced Medical Benefits further boost your maid’s coverage for peace of mind.
+
+In short, coverage beyond MOM minimum means your maid is better protected with broader benefits and higher limits, reflecting your care for her well-being.
+
+Now, regarding your recommendation: Would you like your maid insurance coverage to exceed the MOM minimum requirements? (yes/no)'
+2025-12-02 22:53:18,640 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=1129 -> final_len=694
+2025-12-02 22:53:18,651 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Maid live_agent=False reply_len=694 duration=16.496s
+INFO:     127.0.0.1:57045 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:53:43,094 - agentic - INFO - Agentic.chat.start: session=5 msg='yes i want'
+2025-12-02 22:53:43,133 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=7, message_tokens=547, summary_tokens=231, total=778, product=Maid
+2025-12-02 22:53:46,114 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Maid reason=User is responding affirmatively to the question about wanting coverage beyond the MOM minimum, indicating continuation of the recommendation slot-filling process for Maid insurance. phase=slot_filling duration=1.239s
+2025-12-02 22:53:46,114 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Maid phase=slot_filling -> recommendation duration=2.981s
+2025-12-02 22:53:46,128 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Maid
+2025-12-02 22:53:47,401 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['coverage_above_mom_minimum=yes'] | merged slots={'duration_of_insurance': '14', 'maid_country': 'india', 'coverage_above_mom_minimum': 'yes'}
+2025-12-02 22:53:47,407 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['add_ons'] for product Maid -> asking next slot
+2025-12-02 22:53:48,310 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for add_ons -> 'Would you like to include any optional add-on coverages with your Maid insurance plan?'
+2025-12-02 22:53:48,333 - agentic.nodes.styler - INFO - Agentic.styler.skip: reason=short_question draft_len=86 (saving LLM call)
+2025-12-02 22:53:48,347 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Maid live_agent=False reply_len=86 duration=5.253s
+INFO:     127.0.0.1:57067 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:53:52,679 - agentic - INFO - Agentic.chat.start: session=5 msg='what are they?'
+2025-12-02 22:53:52,697 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=9, message_tokens=582, summary_tokens=231, total=813, product=Maid
+2025-12-02 22:53:55,339 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Maid reason=User is responding to the bot's question about optional add-on coverages for Maid insurance, indicating they want information to help choose add-ons, which is part of the recommendation process. phase=slot_filling duration=1.714s
+2025-12-02 22:53:55,362 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Maid phase=slot_filling -> recommendation duration=2.665s
+2025-12-02 22:53:55,406 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Maid
+2025-12-02 22:53:56,384 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={'duration_of_insurance': '14', 'maid_country': 'india', 'coverage_above_mom_minimum': 'yes'}
+2025-12-02 22:53:56,392 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: side_question detected='What are the optional add-on coverages available?'
+2025-12-02 22:53:56,394 - agentic.tools.info - INFO - Tool.info.start: raw_product=Maid resolved_product=maid question_len=49
+2025-12-02 22:53:57,770 - agentic.tools.info - INFO - Tool.info.weaviate_query: product=maid hits=10 duration=0.064s
+2025-12-02 22:54:03,080 - agentic.tools.info - INFO - Tool.info.llm_response: product=maid answer_len=1056 duration=5.308s
+2025-12-02 22:54:03,081 - agentic.tools.info - INFO - Tool.info.completed: product=maid answer_len=1056 sources=3 total_duration=6.687s
+2025-12-02 22:54:03,086 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: missing slots ['add_ons'] for product Maid -> asking next slot
+2025-12-02 22:54:04,875 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ask_next_slot: asking for add_ons -> 'The optional add-on coverages available for Maid Protect360 PRO are:
+
+• *Waiver of Counter Indemnity*
+  - Relieves your liability if MOM demands security bond payment
+  - Has an excess of $250
+  - Premium is $54.50 (with GST)
+
+• *Enhanced Medical Benefits*
+  Includes additional coverage such as:
+  - $10,000 per year for Additional Hospital and Surgical Expenses
+  - $10,000 coverage for Critical Illness (Major Cancers, Heart Attack, Stroke, CABP, Kidney Failure)
+  - $500 per year reimbursement for Mobility Aid equipment (wheelchairs, crutches) prescribed by a certified doctor
+  - Free Medical Tele-Consultation up to 3 times annually for both Employer and Helper
+
+Premium rates for Enhanced Medical Benefits vary by maid’s age and policy duration:
+• Age 50 and below:
+  - 14 months policy: $81.80
+  - 26 months policy: $105.80
+• Age 51 and above:
+  - 14 months policy: $239.80
+  - 26 months policy: $411.00
+
+These add-ons are *optional* and can boost your maid’s insurance coverage beyond the standard plan benefits.
+
+Now, regarding your recommendation: Would you like to include any optional add-ons like Waiver of Counter Indemnity or Enhanced Medical Benefits in your Maid Protect360 PRO plan?'
+2025-12-02 22:54:08,288 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=1236 -> final_len=778
+2025-12-02 22:54:08,294 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Maid live_agent=False reply_len=778 duration=15.615s
+INFO:     127.0.0.1:57067 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:54:16,988 - agentic - INFO - Agentic.chat.start: session=5 msg='yes'
+2025-12-02 22:54:17,055 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=12, message_tokens=1102, summary_tokens=231, total=1333, product=Maid
+2025-12-02 22:54:20,226 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Maid reason=User responded 'yes' to the question about including optional add-ons for Maid Protect360 PRO, indicating continuation of the recommendation flow. phase=slot_filling duration=1.025s
+2025-12-02 22:54:20,226 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Maid phase=slot_filling -> recommendation duration=3.168s
+2025-12-02 22:54:20,239 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Maid
+2025-12-02 22:54:21,164 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=['add_ons=required'] | merged slots={'duration_of_insurance': '14', 'maid_country': 'india', 'coverage_above_mom_minimum': 'yes', 'add_ons': 'required'}
+2025-12-02 22:54:21,169 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: all slots filled -> generating recommendation
+2025-12-02 22:54:21,175 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: generating for product=Maid with slots={'duration_of_insurance': '14', 'maid_country': 'india', 'coverage_above_mom_minimum': 'yes', 'add_ons': 'required'}
+2025-12-02 22:54:21,175 - agentic.tools.recommendation - INFO - Tool.recommendation.start: product=maid slots={'duration_of_insurance': '14', 'maid_country': 'india', 'coverage_above_mom_minimum': 'yes', 'add_ons': 'required'}
+2025-12-02 22:54:28,156 - agentic.tools.recommendation - INFO - Tool.recommendation.llm_response: product=maid tier=Premier response_len=725 duration=6.981s
+2025-12-02 22:54:28,164 - agentic.tools.recommendation - INFO - Tool.recommendation.completed: product=maid tier=Premier response_len=725 total_duration=6.989s
+2025-12-02 22:54:28,170 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: result tier=Premier | text_len=725
+2025-12-02 22:54:31,667 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=725 -> final_len=618
+2025-12-02 22:54:31,672 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Maid live_agent=False reply_len=618 duration=14.683s
+INFO:     127.0.0.1:49958 - "POST /agent-chat HTTP/1.1" 200 OK
+2025-12-02 22:56:09,994 - agentic - INFO - Agentic.chat.start: session=5 msg='why did you recommend me a premier plan?'
+2025-12-02 22:56:10,190 - agentic.nodes.memory_nodes - INFO - Memory.compress.start: messages=15, message_tokens=1463, summary_tokens=231, total=1694, product=Maid
+2025-12-02 22:56:10,228 - agentic.nodes.memory_nodes - INFO - Memory.compress.pruning: summarizing 11 messages, keeping 4 recent
+2025-12-02 22:56:14,931 - agentic.nodes.intent - INFO - Intent.classify: intent=recommend product=Maid reason=User is asking for the rationale behind the recommended Premier plan for maid insurance, which relates to the personalized plan suggestion given earlier. phase=slot_filling duration=2.320s
+2025-12-02 22:56:14,931 - agentic.nodes.supervisor - INFO - Supervisor.routing: turn=0 intent=recommend product=Maid phase=slot_filling -> recommendation duration=4.737s
+2025-12-02 22:56:14,950 - agentic.nodes.memory_nodes - INFO - Memory.summarize.success: summarized 11 messages, summary_len=679, product=Maid
+2025-12-02 22:56:14,951 - agentic.nodes.memory_nodes - INFO - Memory.compress.success: pruned=11 (removed=11, no_id=0), kept=4, old_tokens=1463, new_tokens=366, summary_tokens=174
+2025-12-02 22:56:14,976 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.ensure_product: detected product=Maid
+2025-12-02 22:56:16,235 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: extracted updates=[] | merged slots={'duration_of_insurance': '14', 'maid_country': 'india', 'coverage_above_mom_minimum': 'yes', 'add_ons': 'required'}
+2025-12-02 22:56:16,236 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.extract_slots: side_question detected='why did you recommend me a premier plan?'
+2025-12-02 22:56:16,236 - agentic.tools.info - INFO - Tool.info.start: raw_product=Maid resolved_product=maid question_len=40
+2025-12-02 22:56:17,506 - agentic.tools.info - INFO - Tool.info.weaviate_query: product=maid hits=10 duration=0.054s
+2025-12-02 22:56:23,022 - agentic.tools.info - INFO - Tool.info.llm_response: product=maid answer_len=1426 duration=5.515s
+2025-12-02 22:56:23,040 - agentic.tools.info - INFO - Tool.info.completed: product=maid answer_len=1426 sources=2 total_duration=6.803s
+2025-12-02 22:56:23,063 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.manager: all slots filled -> generating recommendation
+2025-12-02 22:56:23,071 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: generating for product=Maid with slots={'duration_of_insurance': '14', 'maid_country': 'india', 'coverage_above_mom_minimum': 'yes', 'add_ons': 'required'}
+2025-12-02 22:56:23,071 - agentic.tools.recommendation - INFO - Tool.recommendation.start: product=maid slots={'duration_of_insurance': '14', 'maid_country': 'india', 'coverage_above_mom_minimum': 'yes', 'add_ons': 'required'}
+2025-12-02 22:56:28,710 - agentic.tools.recommendation - INFO - Tool.recommendation.llm_response: product=maid tier=Premier response_len=731 duration=5.640s
+2025-12-02 22:56:28,713 - agentic.tools.recommendation - INFO - Tool.recommendation.completed: product=maid tier=Premier response_len=731 total_duration=5.643s
+2025-12-02 22:56:28,719 - agentic.nodes.rec_subgraph - INFO - RecSubgraph.generate_rec: result tier=Premier | text_len=731
+2025-12-02 22:56:31,686 - agentic.nodes.styler - INFO - Agentic.styler: draft_len=731 -> final_len=708
+2025-12-02 22:56:31,690 - agentic - INFO - Agentic.chat.completed: session=5 intent=recommend product=Maid live_agent=False reply_len=708 duration=21.696s
+INFO:     127.0.0.1:50148 - "POST /agent-chat HTTP/1.1" 200 OK

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_18",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 18,
+    "content_length": 783,
+    "is_empty": false
+  },
+  "content": "\"Payment Card\" means any credit, debit, charge or store card that is registered to You.\n\n\"Period of Insurance\" means the period commencing from the Effective Date and ending on the Expiry Date during which this Policy is effective and has not been cancelled or otherwise terminated and shall only be extended upon payment of the premium.\n\n\"Permanent Disablement\" means a disability falling under one of the items of disablement listed in the scale of compensation in this Policy under Section 1, which was caused by an Accident, as long as the disability lasts for twelve (12) consecutive months from the date of the Accident and at the expiry of that period,Our appointed Registered Medical Practitioner confirms that the disability is not going to improve after twelve (12) months.",
+  "questions": [
+    "How does the definition of 'Payment Card' affect the eligibility of claims related to purchases made with cards not registered to the insured?",
+    "In what scenarios would the 'Period of Insurance' be extended, and what are the implications of premium payment timing on coverage continuity?",
+    "How does the policy define the start and end of coverage within the 'Period of Insurance,' and what conditions could lead to cancellation or termination before the Expiry Date?",
+    "What are the criteria for a disability to qualify as 'Permanent Disablement' under Section 1, and how does the requirement of a 12-month consecutive duration impact claim approval?",
+    "How does the involvement of the appointed Registered Medical Practitioner influence the confirmation of Permanent Disablement, and what documentation is required to support this?",
+    "If a disability improves before the 12-month period but worsens afterward, how does the policy treat such cases in relation to Permanent Disablement?",
+    "How does the policy handle claims for disabilities caused by accidents occurring outside the Period of Insurance?",
+    "What is the significance of the disability falling under the specific items listed in the scale of compensation for Permanent Disablement claims?",
+    "How does the policy address situations where the insured has multiple disabilities from a single accident, and how are these evaluated under the Permanent Disablement definition?",
+    "In cases where the policy is cancelled mid-term, how does this affect claims for accidents that occurred before cancellation but disabilities manifest after?",
+    "How does the policy differentiate between temporary and permanent disabilities in terms of claim eligibility and compensation?",
+    "What documentation or medical evidence is required to prove that a disability is not going to improve after twelve months according to the policy?",
+    "How does the policy treat disabilities resulting from accidents that occur just before the Period of Insurance begins or after it ends?",
+    "What role does the scale of compensation under Section 1 play in determining the amount payable for Permanent Disablement?",
+    "How does the policy define an 'Accident' in relation to Permanent Disablement, and are there any exclusions that could affect this definition?",
+    "If the insured uses a Payment Card not registered to them for a trip-related purchase, how might this impact claims under this policy?",
+    "How does the policy ensure that the Period of Insurance is not inadvertently extended without premium payment, and what are the consequences of such an extension?",
+    "In the event of a dispute regarding the permanence of a disability, what processes or appeals does the policy provide involving the Registered Medical Practitioner?",
+    "How does the policy address the timing of medical assessments for Permanent Disablement claims in relation to the 12-month requirement?",
+    "What happens if the Registered Medical Practitioner is unable to confirm the permanence of the disability at the 12-month mark—does the policy allow for reassessment or denial of the claim?"
+  ]
+}

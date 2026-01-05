@@ -1,0 +1,18 @@
+CHUNK ANALYSIS SUMMARY FOR Car
+==================================================
+
+Total Chunks: 101
+Empty Chunks: 0
+Valid Chunks: 101
+
+BREAKDOWN BY DOCUMENT TYPE:
+------------------------------
+benefits: 3 total, 3 valid, 0 empty
+faq: 10 total, 10 valid, 0 empty
+policy: 88 total, 88 valid, 0 empty
+
+BREAKDOWN BY SOURCE FILE:
+------------------------------
+Car_benefits.txt: 3 total, 3 valid, 0 empty
+Car_FAQs.txt: 10 total, 10 valid, 0 empty
+Car_policy.md: 88 total, 88 valid, 0 empty

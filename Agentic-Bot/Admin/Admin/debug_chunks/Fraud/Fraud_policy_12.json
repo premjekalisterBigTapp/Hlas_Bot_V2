@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_12",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 12,
+    "content_length": 389,
+    "is_empty": false
+  },
+  "content": "\"Extortion Payment\" means any monies or property paid by You or by an authorised external expert, to a Third Party, who You reasonably believe to be responsible for a Cyber Extortion Threat, with the purpose of resolving or terminating the Cyber Extortion Threat.\n\n\"Home\" means Your primary residential property that You ordinarily reside in and which is used solely for domestic purposes.",
+  "questions": [
+    "How does the policy define an Extortion Payment in terms of who can make the payment, the recipient, and the purpose behind the payment?",
+    "In what circumstances would an authorised external expert be involved in making an Extortion Payment under the policy?",
+    "What criteria must be met for a payment to qualify as an Extortion Payment related to a Cyber Extortion Threat?",
+    "How does the policy distinguish between payments made by You personally versus those made by an authorised external expert in response to a Cyber Extortion Threat?",
+    "What is the significance of the reasonable belief that a Third Party is responsible for a Cyber Extortion Threat when making an Extortion Payment?",
+    "How is 'Home' defined in the policy, and what limitations are placed on its use to qualify as Your primary residential property?",
+    "Can a property used for both domestic and commercial purposes be considered 'Home' under this policy definition?",
+    "How might the definition of 'Home' affect coverage for incidents occurring at secondary residences or rental properties?",
+    "What implications does the definition of 'Home' have for claims involving Cyber Extortion Threats that target devices or systems located at Your primary residence?",
+    "How does the policy's definition of 'Extortion Payment' interact with potential exclusions related to payments made under duress or coercion?",
+    "In the event of a Cyber Extortion Threat, what documentation or evidence might be required to demonstrate that an Extortion Payment was made to a Third Party reasonably believed to be responsible?",
+    "Does the policy specify any limits or conditions on the amount or type of property that can be considered an Extortion Payment?",
+    "How might the involvement of an authorised external expert in making an Extortion Payment affect the timing or approval process for claims?",
+    "What are the potential consequences if a payment is made to a Third Party who is later found not to be responsible for the Cyber Extortion Threat?",
+    "How does the policy ensure that the use of the term 'Home' excludes properties that are not Your primary residence or are used for non-domestic purposes?",
+    "In cases where You reside in multiple properties, how does the policy determine which property qualifies as 'Home' for coverage purposes?",
+    "How might the definition of 'Extortion Payment' influence the handling of claims involving ransom demands made via cyber threats?",
+    "What role does the purpose of resolving or terminating the Cyber Extortion Threat play in validating an Extortion Payment under the policy?",
+    "Are there any implied exclusions or conditions related to Extortion Payments that might affect coverage, based on the definitions provided?",
+    "How do the definitions of 'Extortion Payment' and 'Home' potentially interact in scenarios involving cyber extortion targeting home-based systems or networks?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_42",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 42,
+    "content_length": 966,
+    "is_empty": false
+  },
+  "content": "### NO CLAIM DISCOUNT (NCD)\nIf there is no claim made under this Policy, We will give You a discount on Your premium on the following scale when You renew Your Policy:\n\n**NCD Table 1**\n* For one (1) year with no claims, the No Claim Discount (NCD) is 10%.\n* For two (2) consecutive years with no claims, the No Claim Discount (NCD) is 20%.\n* For three (3) consecutive years with no claims, the No Claim Discount (NCD) is 30%.\n* For four (4) consecutive years with no claims, the No Claim Discount (NCD) is 40%.\n* For five (5) or more consecutive years with no claims, the No Claim Discount (NCD) is 50%.\n\nIf more than one Insured Vehicle is described in the Schedule, the No Claim Discount (NCD) shall be applied as if a separate Policy has been issued in respect of each such Insured Vehicle.\n\nIf We shall consent to a transfer of interest in this Policy, the period during which the interest was in the Transferor shall not accrue to the benefit of the Transferee.",
+  "questions": [
+    "How does the No Claim Discount (NCD) scale progress over consecutive claim-free years, and how is this discount applied upon policy renewal?",
+    "In the case where multiple insured vehicles are listed in the Schedule, how is the No Claim Discount (NCD) calculated and applied for each vehicle?",
+    "What happens to the No Claim Discount (NCD) period if there is a transfer of interest in the policy, and how does it affect the Transferee's eligibility for the discount?",
+    "If a claim is made during the policy period, how does that impact the No Claim Discount (NCD) eligibility and the discount percentage on renewal?",
+    "How does the policy define 'consecutive years' for the purpose of accumulating the No Claim Discount (NCD), and what documentation or proof is required to verify claim-free years?",
+    "When renewing the policy, how is the No Claim Discount (NCD) applied if the insured has had a break in coverage or changed vehicles during the previous years?",
+    "If a claim is made on one insured vehicle but not on others under the same policy, how does this affect the No Claim Discount (NCD) for each vehicle?",
+    "How does the No Claim Discount (NCD) interact with any general exclusions or conditions that might void claims or affect premium calculations?",
+    "In the event of a transfer of interest, does the Transferee start with a zero No Claim Discount (NCD) regardless of the Transferor’s claim history, and are there any exceptions?",
+    "If the insured has maintained the policy for five or more consecutive years without claims, what is the maximum No Claim Discount (NCD) they can receive, and how is this reflected in the premium?",
+    "How does the policy handle No Claim Discount (NCD) accumulation if claims are made under different sections or types of coverage within the same policy?",
+    "Are there any conditions under which the insurer may refuse to apply the No Claim Discount (NCD) despite a claim-free period, such as policy changes or endorsements?",
+    "How does the No Claim Discount (NCD) apply if the insured cancels and then reinstates the policy within a short period, and does the claim-free period reset?",
+    "What is the effect on the No Claim Discount (NCD) if the insured transfers the policy to another person but continues to insure the same vehicle?",
+    "Does the No Claim Discount (NCD) apply to policies with different coverage limits or types, or is it strictly tied to the specific policy and vehicle described in the Schedule?",
+    "How does the insurer verify the claim history to determine eligibility for the No Claim Discount (NCD), especially if claims were made under previous policies or insurers?",
+    "If a claim is made but later withdrawn or found to be fraudulent, how does this affect the No Claim Discount (NCD) accumulation and application?",
+    "In cases where the policyholder has multiple vehicles and transfers one vehicle to another person, how is the No Claim Discount (NCD) handled for the remaining vehicles?",
+    "Are there any time limits or deadlines by which the insured must notify the insurer of claims to preserve their No Claim Discount (NCD) eligibility?",
+    "How does the No Claim Discount (NCD) policy interact with any optional covers or endorsements that might affect claims or premium calculations?"
+  ]
+}

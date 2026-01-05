@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Early_policy_48",
+  "metadata": {
+    "product_name": "Early",
+    "doc_type": "policy",
+    "source_file": "Early_policy.md",
+    "chunk_index": 48,
+    "content_length": 711,
+    "is_empty": false
+  },
+  "content": "3.  **Automatic Termination of Policy**\n    This Policy will automatically terminate on the earliest of the following events:\n    (i) On the date the Insured Person attains one hundred (100) years of age;\n    (ii) Upon the death of the Insured Person;\n    (iii) The total benefit amount we have paid equals to the Benefit Limit;\n    (iv) The Insured Person ceased to be a Singapore Citizen, Singapore Permanent Resident, or expatriate or foreigner who is holding a valid employment pass, work permit, dependent pass or long term visit pass and who is ordinarily residing in Singapore; or\n    (v) If the Insured Person is away from Singapore for more than one hundred and eighty-three (183) days at any one time.",
+  "questions": [
+    "How does the policy handle automatic termination when the insured person reaches 100 years of age, and what implications does this have for ongoing claims or benefits?",
+    "In the event of the insured person's death, how does the policy's automatic termination clause affect any pending claims or benefits that have not yet been paid?",
+    "What happens to the policy coverage and benefits when the total benefit amount paid reaches the policy's Benefit Limit, and are there any exceptions or extensions allowed beyond this limit?",
+    "How does the policy define the insured person's eligibility in terms of citizenship, residency status, and valid passes, and what are the consequences for policy termination if these conditions change?",
+    "If an insured person holding a valid employment pass or dependent pass ceases to be ordinarily resident in Singapore, how does this affect the policy's automatic termination and coverage?",
+    "What are the conditions under which the policy terminates if the insured person is away from Singapore for more than 183 days continuously, and how does this impact claims for incidents occurring during or after this period?",
+    "How does the policy distinguish between expatriates, foreigners, and Singapore citizens or permanent residents in relation to automatic termination criteria?",
+    "In cases where the insured person temporarily leaves Singapore but returns within 183 days, how does the policy treat coverage continuity and automatic termination?",
+    "If the insured person loses their valid employment pass or work permit but remains in Singapore, does the policy automatically terminate, or are there grace periods or exceptions?",
+    "How does the policy address scenarios where the insured person attains 100 years of age during an ongoing trip or claim period, particularly regarding benefit payments and claim eligibility?",
+    "What documentation or proof is required to verify changes in the insured person's residency status or pass validity that trigger automatic termination?",
+    "How does the policy handle automatic termination if the insured person dies outside Singapore, and are there any differences in claim processing or benefit payout?",
+    "If the total benefit amount paid equals the Benefit Limit due to multiple claims, does the policy terminate immediately, and how are claims in progress handled?",
+    "Are there any provisions for reinstatement or renewal of the policy if the insured person regains eligibility status after automatic termination due to residency or pass status changes?",
+    "How does the policy define 'ordinarily residing in Singapore' for the purpose of automatic termination, and what evidence is required to establish this status?",
+    "In the event of automatic termination due to extended absence from Singapore, how are claims related to incidents occurring just before or during the absence period treated?",
+    "Does the policy provide any exceptions or extensions to the automatic termination clause for insured persons who are temporarily unable to return to Singapore due to travel restrictions or quarantine requirements?",
+    "How does the automatic termination clause interact with other policy exclusions or conditions, such as pre-existing conditions or COVID-19 related coverage?",
+    "What are the implications of automatic termination on any optional covers or riders attached to the main policy, especially in relation to residency or age criteria?",
+    "If an insured person changes their immigration status from a valid employment pass holder to a different pass type not listed, how does the policy determine termination or continued coverage?"
+  ]
+}

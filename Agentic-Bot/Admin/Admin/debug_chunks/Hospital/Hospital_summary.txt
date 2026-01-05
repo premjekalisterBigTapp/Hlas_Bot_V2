@@ -1,0 +1,18 @@
+CHUNK ANALYSIS SUMMARY FOR Hospital
+==================================================
+
+Total Chunks: 59
+Empty Chunks: 0
+Valid Chunks: 59
+
+BREAKDOWN BY DOCUMENT TYPE:
+------------------------------
+benefits: 2 total, 2 valid, 0 empty
+faq: 13 total, 13 valid, 0 empty
+policy: 44 total, 44 valid, 0 empty
+
+BREAKDOWN BY SOURCE FILE:
+------------------------------
+Hospital_benefits.txt: 2 total, 2 valid, 0 empty
+Hospital_FAQs.txt: 13 total, 13 valid, 0 empty
+Hospital_policy.md: 44 total, 44 valid, 0 empty

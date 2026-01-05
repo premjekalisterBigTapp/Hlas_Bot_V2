@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_14",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 14,
+    "content_length": 815,
+    "is_empty": false
+  },
+  "content": "\"ICU\" means Intensive Care Unit of a Hospital that is dedicated to the management of patients with severe or life-threatening conditions.\n\n\"Infectious Disease\" means the definite and irrevocable diagnosis of any of the following infectious disease by a Registered Medical Practitioner during the Period of Insurance and is supported by acceptable clinical, radiological, histological and laboratory evidence:\n\n1. Avian Influenza or \"Bird Flu\"\n2. Chikungunya fever\n3. Cholera\n4. Dengue fever\n5. Ebola\n6. Hand, foot and mouth disease\n7. Japanese viral encephalitis\n8. Malaria\n9. Measles\n10. Melioidosis or \"Soil Disease\"\n11. Middle east respiratory syndrome\n12. Mumps\n13. Nipah viral encephalitis\n14. Plague\n15. Rabies\n16. Rubella\n17. Severe acute respiratory syndrome\n18. Tuberculosis\n19. Yellow fever\n20. Zika virus",
+  "questions": [
+    "How does the policy define an Infectious Disease, and what types of medical evidence are required to support a diagnosis during the Period of Insurance?",
+    "What are the implications for coverage if a diagnosis of an Infectious Disease is made outside the Period of Insurance, even if supported by clinical and laboratory evidence?",
+    "In the context of this policy, how is the term ICU defined, and what criteria must a hospital meet for its ICU to be recognized for claims related to severe or life-threatening conditions?",
+    "How does the policy treat claims related to Infectious Diseases that are not explicitly listed in the provided list, even if diagnosed by a Registered Medical Practitioner with supporting evidence?",
+    "What is the significance of the diagnosis being 'definite and irrevocable' for Infectious Diseases, and how might this affect the timing and acceptance of claims?",
+    "How might the requirement for acceptable clinical, radiological, histological, and laboratory evidence impact claims for diseases like Dengue fever or Tuberculosis under this policy?",
+    "If a patient is admitted to an ICU for a condition related to an Infectious Disease listed, how does the policy define the ICU's role in managing such cases, and what documentation might be required?",
+    "Are there any potential exclusions or limitations implied by the policy’s definition of Infectious Disease that could affect coverage for diseases with similar symptoms but different diagnoses?",
+    "How does the policy ensure that only diagnoses made by a Registered Medical Practitioner are considered valid for Infectious Disease claims, and what happens if the diagnosis is made by other healthcare providers?",
+    "In cases where multiple Infectious Diseases from the list are diagnosed simultaneously, how does the policy address coverage and claim processing?",
+    "What are the possible challenges in proving the diagnosis of diseases like Ebola or Nipah viral encephalitis given the policy’s evidence requirements, and how might this affect claim outcomes?",
+    "How does the policy’s definition of Infectious Disease interact with any general exclusions related to pre-existing conditions or pandemics, if present elsewhere in the policy?",
+    "What documentation and timing considerations should a claimant be aware of when filing a claim for an Infectious Disease diagnosed during the Period of Insurance?",
+    "How might the policy treat a diagnosis of an Infectious Disease that is initially suspected but later ruled out by histological or laboratory evidence?",
+    "Does the policy provide any guidance on coverage if a patient is treated in an ICU for complications arising from an Infectious Disease listed, and what proof is necessary to link the ICU stay to the disease?",
+    "How does the policy differentiate between diseases that are vector-borne (e.g., Malaria, Dengue fever) and those that are not, in terms of coverage or claim requirements?",
+    "What are the implications for coverage if a diagnosis of an Infectious Disease is made by a Registered Medical Practitioner but lacks one or more types of required evidence such as radiological or histological proof?",
+    "How might the policy handle claims for Infectious Diseases that have overlapping symptoms with excluded conditions or general policy exclusions?",
+    "What is the role of the Period of Insurance in validating claims for Infectious Diseases, and how does it affect diseases with long incubation periods like Tuberculosis?",
+    "How does the policy’s definition of ICU and Infectious Disease impact claims involving hospitalization for severe cases of diseases like Severe acute respiratory syndrome or Middle east respiratory syndrome?"
+  ]
+}

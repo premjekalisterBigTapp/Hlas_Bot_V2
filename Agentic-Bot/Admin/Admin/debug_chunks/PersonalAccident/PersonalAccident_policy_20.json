@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_20",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 20,
+    "content_length": 707,
+    "is_empty": false
+  },
+  "content": "**\"Illness\"** means a physical condition contracted marked by pathological deviation from the normal healthy state.\n\n**\"Medical Expenses\"** means usual, reasonable and customary medical, surgical, Hospital or nursing treatment expenses incurred by the You within one (1) year from the date of such Injury in respect of any one Accident.\nProvided that the medical or surgical treatment are prescribed by a Registered Medical Practitioner.\n\n**\"Period of Insurance\"** means the period up to and including the Expiry Date of the Policy during which the Policy is effective and has not been cancelled or otherwise terminated and shall only be extended upon payment of the monthly or annual premium as applicable.",
+  "questions": [
+    "How does the definition of 'Illness' as a pathological deviation from a normal healthy state affect the eligibility of claims for conditions that develop gradually versus sudden onset during the Period of Insurance?",
+    "In what ways do the requirements that Medical Expenses be usual, reasonable, and customary, and incurred within one year from the date of Injury, impact claims for ongoing treatments that extend beyond the Period of Insurance?",
+    "How does the necessity for medical or surgical treatment to be prescribed by a Registered Medical Practitioner influence the acceptance of claims for alternative therapies or treatments prescribed by non-registered practitioners?",
+    "What are the implications for coverage if medical expenses are incurred after the Expiry Date of the Policy but within one year from the date of Injury, considering the definition of Period of Insurance?",
+    "How does the definition of Period of Insurance interact with the requirement for payment of monthly or annual premiums in determining whether coverage is active for a claim related to an Injury?",
+    "If an Injury occurs during the Period of Insurance but treatment continues after the policy is cancelled or terminated, how are Medical Expenses covered under the policy terms?",
+    "How does the policy treat claims for Illnesses that are diagnosed after the Period of Insurance but whose symptoms began during the coverage period?",
+    "In cases where medical treatment is prescribed by a Registered Medical Practitioner but the treatment is not considered usual, reasonable, or customary, how does this affect claim approval for Medical Expenses?",
+    "How does the policy define the start date for the one-year Medical Expenses coverage period in relation to the date of Injury, and what documentation is required to prove this?",
+    "What are the consequences if the premium payment is delayed or missed, causing a lapse in the Period of Insurance, on claims for Medical Expenses incurred during that lapse?",
+    "How does the policy address Medical Expenses for injuries sustained during the Period of Insurance but treated outside the country, especially regarding the one-year treatment window?",
+    "In what scenarios would the Period of Insurance be extended beyond the Expiry Date, and how does this extension affect coverage for Medical Expenses and Illness claims?",
+    "How does the policy distinguish between an Injury and an Illness in terms of coverage eligibility and the application of the one-year Medical Expenses limit?",
+    "What documentation is required to verify that medical or surgical treatment was prescribed by a Registered Medical Practitioner, and how does this affect claim processing?",
+    "How does the policy handle claims for Medical Expenses if the treatment is initiated within the Period of Insurance but the Registered Medical Practitioner changes after the policy expires?",
+    "If a policyholder suffers multiple Injuries during the Period of Insurance, how is the one-year Medical Expenses limit applied to each Injury separately or collectively?",
+    "How does the definition of Period of Insurance affect coverage for medical treatments that are scheduled but not yet started before the Expiry Date?",
+    "What are the implications for coverage if the policy is cancelled or terminated before the Expiry Date, particularly regarding Medical Expenses incurred for Injuries sustained during the active coverage period?",
+    "How does the policy define and verify the 'usual, reasonable and customary' nature of medical expenses, and what role does this play in claims involving expensive or experimental treatments?",
+    "In the event of a dispute over whether a condition qualifies as an Illness under the policy, what criteria are used to determine coverage eligibility during the Period of Insurance?"
+  ]
+}

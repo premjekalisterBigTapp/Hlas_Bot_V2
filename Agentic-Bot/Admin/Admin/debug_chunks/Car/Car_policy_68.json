@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_68",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 68,
+    "content_length": 812,
+    "is_empty": false
+  },
+  "content": "We shall not be liable in respect of:\n1. Any accident, loss, damage or liability caused sustained or incurred:\n   (a) outside the Geographical Limits\n   (b) whilst any Insured Vehicle in respect of which indemnity is provided by this Policy is:\n      (i) being used otherwise than in accordance with the Limitations as to Use,\n      (ii) being driven by or is for the purpose of being driven by him in the charge of any person other than an Authorised Driver,\n      (iii) being driven by the Policyholder or by any person on the order of or with the permission of the Policyholder whilst under the influence of intoxicating liquor or drugs,\n      (iv) being used or driven when it is not registered or licensed under the legislation or when the registration or licensing under the legislation has been cancelled,",
+  "questions": [
+    "How does the policy define the geographical limits for coverage, and what are the implications for accidents occurring outside these limits in terms of liability and claim eligibility?",
+    "In what ways does the policy exclude coverage if the insured vehicle is used contrary to the specified Limitations as to Use, and how might this affect claims arising from unauthorized usage scenarios?",
+    "What are the conditions under which the policy denies coverage when the insured vehicle is driven by someone other than an Authorised Driver, and how is 'Authorised Driver' determined within the policy?",
+    "How does the policy address claims arising from accidents where the vehicle is driven by the Policyholder or another person with the Policyholder's permission while under the influence of intoxicating liquor or drugs?",
+    "What exclusions apply if the insured vehicle is used or driven without proper registration or licensing, or if such registration or licensing has been cancelled, and how does this affect the insurer's liability?",
+    "How do the exclusions related to intoxication interact with the requirement for the driver to be an Authorised Driver, particularly in cases where the driver is permitted by the Policyholder but is intoxicated?",
+    "If an insured vehicle is involved in an accident outside the geographical limits but the driver is an Authorised Driver and the vehicle is properly registered, how does the policy treat liability and coverage?",
+    "What documentation or proof might be required to establish whether the vehicle was being used in accordance with the Limitations as to Use at the time of an accident?",
+    "How does the policy handle claims if the insured vehicle is driven by a person who is not the Policyholder but is driving on the order of or with the permission of the Policyholder, especially if that person is intoxicated?",
+    "In scenarios where the insured vehicle's registration or licensing has been cancelled but the vehicle is still in use, what are the consequences for coverage under this policy?",
+    "How might the policy's exclusions apply if an accident occurs while the insured vehicle is being driven by an Authorised Driver but outside the geographical limits?",
+    "What are the potential implications for coverage if the insured vehicle is used for purposes not aligned with the Limitations as to Use, such as commercial use when only private use is permitted?",
+    "How does the policy define or verify the status of an Authorised Driver, and what evidence is necessary to prove that a driver was authorised at the time of an incident?",
+    "In cases where the Policyholder permits another person to drive the vehicle, how does the policy address liability if that person is found to be under the influence of intoxicating substances?",
+    "What are the policy's provisions regarding the use of the insured vehicle when it is unregistered or unlicensed, and how does this exclusion affect claims for accidents occurring under such conditions?",
+    "How do the exclusions related to intoxication and unauthorized drivers affect claims involving multiple drivers during a single trip or accident?",
+    "If the insured vehicle is driven by an Authorised Driver within the geographical limits but the vehicle's registration is cancelled mid-trip, how does the policy treat any resulting claims?",
+    "What are the interactions between the policy's geographical limits and the vehicle's registration status in determining coverage eligibility for accidents?",
+    "How does the policy address liability if the insured vehicle is used in a manner that violates both the Limitations as to Use and the registration or licensing requirements simultaneously?",
+    "In what ways might the policy's exclusions be challenged or upheld if an accident occurs under ambiguous circumstances regarding the driver's authorization, intoxication status, or vehicle registration?"
+  ]
+}

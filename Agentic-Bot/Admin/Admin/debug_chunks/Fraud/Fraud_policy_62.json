@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_62",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 62,
+    "content_length": 818,
+    "is_empty": false
+  },
+  "content": "1. Suicide or attempted suicide, self-injury or wilful exposure to peril (other than in an attempt to save human life).\n2. Pregnancy, miscarriage, abortion or childbirth.\n3. Infectious Disease (except for Accident Medical Reimbursement cover under Section 7), venereal disease, HIV (Human Immuno Deficiency Virus) and/or any HIV related illness including AIDS (Acquired Immune Deficiency Syndrome) and/or any mutant derivatives or variations of this however caused.\n4. Mental and nervous or sleep disorders, including but not to insanity or any diagnosed psychological or psychiatric disorder, anxiety or depression.\n5. Any Pre-Existing Conditions.\n6. You being under the influence of drugs (other than those prescribed by a Registered Medical Practitioner but not when prescribed for the treatment of drug addiction).",
+  "questions": [
+    "How does the policy treat claims related to suicide or attempted suicide, and are there any exceptions when such acts are committed in an attempt to save human life?",
+    "In what ways are pregnancy-related events such as miscarriage, abortion, and childbirth excluded from coverage, and do these exclusions apply to all sections of the policy?",
+    "How is coverage affected for infectious diseases, including HIV and AIDS, and what specific exception exists under the Accident Medical Reimbursement cover in Section 7?",
+    "What are the implications of the exclusion for mental, nervous, or sleep disorders on claims, and how does the policy distinguish between general psychological conditions and diagnosed psychiatric disorders like anxiety or depression?",
+    "How does the exclusion of any Pre-Existing Conditions impact eligibility for claims, and are there any circumstances under which pre-existing conditions might be covered or excluded differently?",
+    "What are the conditions under which drug influence leads to claim denial, and how does the policy treat drugs prescribed by a Registered Medical Practitioner, especially regarding treatment for drug addiction?",
+    "If a claimant attempts suicide while under the influence of prescribed medication, how do the exclusions for suicide and drug influence interact to affect claim validity?",
+    "How does the exclusion of infectious diseases except under Section 7 affect claims for medical expenses incurred overseas versus in Singapore?",
+    "Are mental and nervous disorders excluded even if they manifest during the trip, and how does this exclusion interact with claims for emergency medical treatment?",
+    "How does the policy handle claims related to pregnancy complications that arise unexpectedly during travel, considering the exclusion for pregnancy, miscarriage, abortion, or childbirth?",
+    "In cases where a traveler has a pre-existing condition that is stable but experiences an acute episode during the trip, how does the exclusion for pre-existing conditions apply?",
+    "What documentation or proof might be required to establish that a drug was prescribed by a Registered Medical Practitioner and not for drug addiction treatment, in order to avoid exclusion under drug influence?",
+    "If a traveler wilfully exposes themselves to peril in an attempt to save another person, how does the policy treat claims arising from resulting injuries or death?",
+    "How do the exclusions for HIV and related illnesses apply if the condition was unknown to the insured at the time of travel but diagnosed during the trip?",
+    "Are claims related to psychological conditions such as anxiety or depression excluded even if they are triggered by an accident covered under the policy?",
+    "How does the policy address claims involving self-injury that occurs accidentally versus intentionally, and what evidence is needed to differentiate these scenarios?",
+    "If a traveler is prescribed medication for a mental health disorder, how do the exclusions for mental disorders and drug influence interact to determine coverage?",
+    "In the event of a miscarriage during travel, what specific benefits or coverages are denied due to the pregnancy-related exclusions, and are there any exceptions?",
+    "How does the exclusion of venereal diseases and mutant derivatives of HIV affect claims for treatment of newly emerging infectious diseases that may be related?",
+    "If a traveler attempts to claim for treatment of sleep disorders that were undiagnosed prior to travel but manifest during the trip, how does the exclusion for mental and nervous or sleep disorders apply?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_73",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 73,
+    "content_length": 698,
+    "is_empty": false
+  },
+  "content": "5. **Currency** - All amount shown are in Singapore dollars. All claims will be paid in Singapore dollars.\n6. **Data Privacy** - It is hereby declared that as a condition precedent to the liability of Us, You have agreed that any personal information in relation to You provided by or on behalf of You to Us may be held, used and disclosed to enable Us or individuals / organisations associated with Us or any independent Third Party (within or outside of Singapore) to: (a) process and assess the Insurer's application or any matter arising from the Master Policy Schedule and/or Insured Person and any other application for insurance cover and/or; (b) provide all services related to this Policy.",
+  "questions": [
+    "How does the policy handle currency conversion and payment when claims involve expenses incurred in foreign currencies, and what implications does paying all claims in Singapore dollars have for claimants?",
+    "In what ways does the data privacy clause affect the processing of claims, particularly regarding the sharing of personal information with third parties both inside and outside Singapore?",
+    "What are the conditions precedent related to data privacy that must be met before the insurer assumes liability under this policy?",
+    "How might the disclosure of personal information to independent third parties impact the confidentiality of a claimant's data during the claims process?",
+    "What types of personal information are covered under the data privacy clause, and how might this affect the handling of sensitive health or travel data?",
+    "How does the insurer's right to use and disclose personal information for processing applications and services relate to the claimant's consent and potential withdrawal of consent?",
+    "In scenarios where a claim involves multiple insured persons under the Master Policy Schedule, how does the data privacy clause facilitate the sharing of information among associated parties?",
+    "What are the potential risks and benefits for the insured in allowing personal information to be disclosed to organizations outside of Singapore as per the data privacy clause?",
+    "How does the policy ensure compliance with data protection laws when personal information is transferred internationally for claim processing?",
+    "What are the implications for claimants if they refuse to agree to the data privacy terms stated as a condition precedent to the insurer's liability?",
+    "How does the policy define the scope of 'services related to this Policy' in the context of using and disclosing personal information?",
+    "In the event of a dispute over a claim, how might the data privacy clause affect the insurer's ability to investigate and verify the claim details?",
+    "How does the policy address the timing and currency of claim payments when claims are submitted for expenses incurred in multiple currencies during a trip?",
+    "What documentation or proof might be required to support claims given that all payments are made in Singapore dollars, especially when original expenses were paid abroad?",
+    "How does the currency clause interact with potential fluctuations in exchange rates between the date of expense and the date of claim payment?",
+    "In what ways could the data privacy clause impact the processing of claims related to pre-existing conditions or sensitive medical information?",
+    "How does the insurer's use of personal information for processing applications extend to future insurance cover applications under the Master Policy Schedule?",
+    "What safeguards might be in place to protect personal information when disclosed to third parties for the purpose of providing services related to the policy?",
+    "How might the requirement that all claims be paid in Singapore dollars affect claimants who incur losses in countries with volatile currencies or limited currency exchange options?",
+    "What are the consequences for the insured if there is a breach of the data privacy terms, and how might this affect claim eligibility or processing times?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_faq_21",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "faq",
+    "source_file": "Travel_FAQs.txt",
+    "chunk_index": 21,
+    "content_length": 161,
+    "is_empty": false
+  },
+  "content": "Q: Can I cancel my travel insurance policy if my plans change?\nA: You may cancel the Policy before the start of your trip with administrative charges applicable.",
+  "questions": [
+    "What are the conditions and timing requirements for canceling the travel insurance policy before the trip starts, and how do administrative charges apply?",
+    "If a traveler changes their plans after the trip has started, can they still cancel the policy, and what fees or penalties would apply?",
+    "How does the policy define the 'start of your trip' for the purpose of cancellation eligibility and administrative charges?",
+    "Are there any exceptions or waivers to the administrative charges if the policy is canceled due to unforeseen events before the trip begins?",
+    "What documentation or proof is required to process a cancellation request before the trip starts, and how does it affect the refund amount?",
+    "How do general policy exclusions interact with the cancellation terms if the policyholder attempts to cancel after the trip has commenced?",
+    "In cases where the policyholder cancels due to a covered reason under other sections, does the administrative charge still apply to the cancellation?",
+    "Is there a deadline or cutoff time before the trip start date by which the cancellation must be submitted to avoid additional penalties?",
+    "How are administrative charges calculated or determined when canceling the policy before the trip begins?",
+    "If a policyholder cancels the policy before the trip but has already made claims under other sections, how does cancellation affect those claims and any refunds?",
+    "Does the policy allow for partial cancellation or modification of coverage if travel plans change, and how do administrative charges apply in such cases?",
+    "Are there any differences in cancellation terms or administrative charges for policies purchased close to the trip start date versus well in advance?",
+    "How does the cancellation policy address scenarios where the trip is postponed rather than canceled, and what fees are applicable?",
+    "If a policyholder cancels due to government-imposed travel restrictions or alerts before the trip, are administrative charges still applicable?",
+    "What is the process and timeline for receiving any refund after canceling the policy before the trip starts, considering administrative charges?",
+    "How do the cancellation terms interact with any mandatory vaccination or health requirements that might affect the ability to travel?",
+    "Are administrative charges for cancellation fixed or variable depending on the policy type, coverage amount, or duration?",
+    "If a policyholder cancels the policy before the trip but the trip is later reinstated, can the policy be reactivated or must a new policy be purchased?",
+    "Does the policy specify any consequences or limitations if the cancellation request is made through a third party rather than the policyholder directly?",
+    "How do cancellation administrative charges compare to other fees or penalties imposed by travel carriers or service providers when plans change?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_31",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 31,
+    "content_length": 934,
+    "is_empty": false
+  },
+  "content": "arising directly from a Cyber Extortion Threat, that is first made against You in Your personal capacity during the Period of Insurance.\n\n### Section 4. Restoration Costs\n\nIf during the Period of Insurance, You first discover the occurrence of any of the following Cyber Event:\n\n1. The unauthorised, dishonest, fraudulent or malicious access to, processing of, use of or operation of Your Computer System by a Third Party;\n2. The unauthorised, dishonest, fraudulent or malicious input, modification, deletion, corruption, encryption or extraction of Your Digital Assets, residing on Your Computer System, which is caused by the introduction of Malware or unauthorised access by a Third Party;\n3. The fraudulent or malicious partial or total unavailability or disablement of access to and/or control of Your Computer System, which is caused by the introduction of Malware, or unauthorised access, by a Third Party; or\n4. Cryptojacking;",
+  "questions": [
+    "How does the policy define a Cyber Extortion Threat and what conditions must be met for a claim to be valid during the Period of Insurance?",
+    "In what scenarios involving unauthorized access or operation of Your Computer System by a Third Party would Restoration Costs be covered, and how is the timing of discovery relevant?",
+    "What types of malicious activities involving Your Digital Assets are covered under Restoration Costs, and how does the introduction of Malware factor into coverage eligibility?",
+    "How does the policy distinguish between unauthorized access and Malware introduction when determining coverage for the modification, deletion, or corruption of Digital Assets?",
+    "Under what circumstances would the fraudulent or malicious disablement or unavailability of Your Computer System qualify for Restoration Costs coverage, and what role does Third Party involvement play?",
+    "How is Cryptojacking defined in this policy section, and what conditions must be met for Restoration Costs related to Cryptojacking to be claimable?",
+    "What documentation or proof might be required to establish that a Cyber Event, such as unauthorized access or Malware introduction, occurred during the Period of Insurance?",
+    "How does the policy address the timing of discovery of a Cyber Event in relation to the Period of Insurance for Restoration Costs claims?",
+    "Are there any exclusions or limitations implied in this section regarding Restoration Costs arising from Cyber Events caused by internal actors versus Third Parties?",
+    "How does the policy treat multiple Cyber Events occurring during the Period of Insurance in terms of Restoration Costs coverage and claim aggregation?",
+    "What is the relationship between the definitions of Cyber Extortion Threat and Cyber Events covered under Restoration Costs, and can both be claimed simultaneously?",
+    "How does the policy handle Restoration Costs if the unauthorized access or Malware introduction results in partial versus total disablement of the Computer System?",
+    "What conditions must be met for a Cyber Event involving fraudulent input or modification of Digital Assets to be covered, particularly regarding the source and nature of the threat?",
+    "How does the policy define Your Computer System and Digital Assets for the purpose of determining coverage under Restoration Costs?",
+    "In cases where a Cyber Event is discovered after the Period of Insurance, how does the policy address claims for Restoration Costs related to that event?",
+    "What are the implications for coverage if a Cyber Event involves both unauthorized access and Cryptojacking simultaneously?",
+    "How does the policy differentiate between malicious and non-malicious access or operations of Your Computer System in relation to Restoration Costs coverage?",
+    "Are there any specified limits or caps on Restoration Costs payable under this section for Cyber Events, and how might these affect claim outcomes?",
+    "How does the policy address Restoration Costs if the Cyber Event involves multiple Third Parties acting in concert or separately?",
+    "What exclusions or general policy conditions might override or limit coverage for Restoration Costs arising from the Cyber Events described in this section?"
+  ]
+}

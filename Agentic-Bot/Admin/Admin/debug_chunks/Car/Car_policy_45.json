@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_45",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 45,
+    "content_length": 938,
+    "is_empty": false
+  },
+  "content": "*The Accident NCD to be applied first before the Non-Reporting NCD.\n\nIn the context of this section the following terms have the following meanings assigned to them:\n* **\\*Accident NCD** - Refers to the loss of percentage of No Claim Discount (NCD) entitlement as a result of claims arising from an accident as per NCD Table 2.\n* **\\*Non-Reporting NCD** - Refers to the loss of percentage of No Claim Discount as a result of not reporting or late reporting of an accident as set out under the Policy as per NCD Table 3.\n\n### GENERAL CONDITONS\n*(Applicable to the whole Policy)*\n\nThe following conditions apply to any claim made under the Policy.\n\n#### 1. Your Responsibilities Before Cover\nBefore We provide cover, You must tell Us everything You know (or could reasonably be expected to know) that is relevant to Our decision to give You the insurance. This is a requirement by the law, and it also applies at each renewal of the Policy.",
+  "questions": [
+    "How does the application order of Accident NCD and Non-Reporting NCD affect the calculation of No Claim Discount loss when multiple claims or reporting issues occur?",
+    "In what ways do the definitions of Accident NCD and Non-Reporting NCD influence the assessment of claims related to accidents and reporting delays under the policy?",
+    "What are the implications for a policyholder's No Claim Discount entitlement if an accident claim is made but the accident is reported late or not reported at all?",
+    "How does the policy's requirement for the insured to disclose all relevant information before cover impact the validity of claims related to Accident NCD and Non-Reporting NCD?",
+    "What legal obligations does the insured have before the policy provides cover, and how might failure to meet these obligations affect claims involving No Claim Discount losses?",
+    "How does the policy handle the interaction between claims arising from accidents and claims arising from non-reporting or late reporting in terms of NCD reduction?",
+    "What conditions must be met by the insured at each policy renewal to ensure continued coverage and accurate assessment of No Claim Discount entitlements?",
+    "How might the policy's general conditions regarding disclosure before cover apply to situations where the insured fails to report an accident promptly?",
+    "In scenarios where an accident occurs but is not reported within the required timeframe, how does the policy determine the applicable NCD loss and what documentation might be required?",
+    "How do the Accident NCD and Non-Reporting NCD differ in their impact on the insured's premium, and what are the policy's stipulations for applying these discounts?",
+    "What are the consequences under the policy if the insured provides incomplete or inaccurate information before cover, especially concerning claims that affect No Claim Discount?",
+    "How does the policy define the responsibilities of the insured in relation to reporting accidents and the timing of such reports to avoid Non-Reporting NCD penalties?",
+    "In what ways does the policy ensure compliance with legal requirements for disclosure, and how does this compliance affect claims involving No Claim Discount adjustments?",
+    "How does the policy address situations where an insured event qualifies for both Accident NCD and Non-Reporting NCD losses, and what is the sequence of applying these losses?",
+    "What role does the NCD Table 2 and NCD Table 3 play in determining the percentage loss of No Claim Discount for accident claims and non-reporting claims respectively?",
+    "How might the policy's general conditions interact with specific exclusions related to accident claims or reporting failures to influence claim outcomes?",
+    "What are the potential impacts on claim approval if the insured fails to disclose known information at policy renewal, particularly regarding prior accidents or reporting history?",
+    "How does the policy balance the insured's duty to disclose information with the insurer's assessment of claims involving No Claim Discount reductions?",
+    "In cases where the insured is unaware of certain relevant information before cover, how does the policy treat such omissions in relation to Accident NCD and Non-Reporting NCD claims?",
+    "How do the policy's general conditions ensure that the insured's responsibilities before cover are clearly defined to prevent disputes over No Claim Discount losses?"
+  ]
+}

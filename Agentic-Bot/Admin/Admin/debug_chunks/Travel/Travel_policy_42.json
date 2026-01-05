@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_policy_42",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "policy",
+    "source_file": "Travel_policy.md",
+    "chunk_index": 42,
+    "content_length": 939,
+    "is_empty": false
+  },
+  "content": "The insurance operates only if all of the following conditions are satisfied:\n* (a) the Trip is a round Trip commencing from and returning to Singapore, each Trip not exceeding one hundred and eighty-two (182) consecutive days except where an Annual Multi-Trip Policy has been taken out in which case each Trip shall not exceed ninety (90) consecutive days;\n* (b) You are in good health and are not travelling contrary to the advice of any Registered Medical Practitioner or for the purpose of obtaining medical treatment;\n* (c) You must be a Singapore Citizen, Singapore Permanent Resident, or expatriate or foreigner who is holding a valid employment pass, work permit, dependent pass, student pass or long term visit pass and who is ordinarily residing in Singapore;\n* (d) at the time of arranging the Trip and/or effecting this insurance You are not aware of any event or circumstance which are likely to lead to a claim on the Policy;",
+  "questions": [
+    "How does the policy define the maximum allowable duration for a single Trip under a standard policy versus an Annual Multi-Trip Policy, and what implications does this have for coverage eligibility?",
+    "In what ways does the requirement that the Trip must commence from and return to Singapore affect coverage if a traveler departs from or returns to a different country?",
+    "How does the policy address coverage if the insured is traveling against medical advice or for the purpose of obtaining medical treatment, and what documentation might be required to verify this condition?",
+    "What are the residency and pass status requirements for eligibility, and how might coverage be affected if a traveler holds a pass but is not ordinarily residing in Singapore?",
+    "How does the policy treat situations where the insured is aware of an event or circumstance likely to lead to a claim at the time of arranging the Trip or effecting the insurance?",
+    "If a traveler’s Trip exceeds the maximum consecutive days allowed under their policy type, how does this impact the validity of the insurance coverage?",
+    "What are the consequences if a traveler is not in good health at the time of effecting the insurance but does not disclose this, especially if the health condition leads to a claim?",
+    "How does the policy distinguish between different types of passes (employment, work permit, dependent, student, long term visit) in terms of eligibility, and are there any specific exclusions related to these categories?",
+    "In cases where a traveler is an expatriate or foreigner with a valid pass but temporarily residing outside Singapore, how does this affect the operation of the insurance?",
+    "What documentation or proof might be required to establish that the insured is ordinarily residing in Singapore at the time of effecting the insurance?",
+    "How does the policy handle claims if the insured arranges the Trip while already aware of a circumstance that could lead to a claim, such as a pre-existing medical condition or known travel disruption?",
+    "If a traveler’s Trip is not a round Trip or involves multiple destinations without returning to Singapore in between, how does this affect coverage eligibility?",
+    "How does the policy’s requirement for the Trip to be a round Trip interact with multi-leg journeys or stopovers in other countries?",
+    "What are the implications for coverage if the insured’s health status changes after effecting the insurance but before the Trip commences?",
+    "How does the policy address coverage for travelers who are Singapore Citizens or Permanent Residents but are temporarily outside Singapore when effecting the insurance?",
+    "If a traveler holds a valid student pass but is traveling for medical treatment abroad, how does the policy’s exclusion for traveling for medical treatment apply?",
+    "How does the policy define 'good health' and what evidence might be required to demonstrate compliance with this condition at the time of effecting the insurance?",
+    "What is the impact on coverage if the insured fails to disclose awareness of any event likely to lead to a claim when arranging the Trip or effecting the insurance?",
+    "How does the policy’s operation conditions interact with general exclusions related to pre-existing conditions or known events at the time of effecting the insurance?",
+    "In what scenarios would the policy not operate due to the insured’s pass status or residency status, and how might this be verified during a claim?"
+  ]
+}

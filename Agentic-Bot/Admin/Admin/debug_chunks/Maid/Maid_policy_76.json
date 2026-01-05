@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Maid_policy_76",
+  "metadata": {
+    "product_name": "Maid",
+    "doc_type": "policy",
+    "source_file": "Maid_policy.md",
+    "chunk_index": 76,
+    "content_length": 931,
+    "is_empty": false
+  },
+  "content": "The following are excluded:\n* Transient Ischaemic Attacks;\n* Brain damage due to an Accident or Injury, infection, vasculitis, and inflammatory disease;\n* Vascular disease affecting the eye or optic nerve; and\n* Ischaemic disorders of the vestibular system.\n\n**4. Coronary Artery By-pass Surgery**\nThe actual undergoing of open-chest surgery or Minimally Invasive Direct Coronary Artery Bypass surgery to correct the narrowing or blockage of one or more coronary arteries with bypass grafts.\n\nThis diagnosis must be supported by angiographic evidence of significant coronary artery obstruction and the procedure must be considered medically necessary by a consultant cardiologist.\n\nAngioplasty and all other intra arterial, catheter based techniques, 'keyhole' or laser procedures are excluded.\n\n**5. Kidney Failure**\nChronic irreversible failure of both kidneys requiring either permanent renal dialysis or kidney transplantation.",
+  "questions": [
+    "How does the policy define the eligibility criteria and required medical evidence for coverage of Coronary Artery By-pass Surgery, and what specific procedures are excluded despite involving coronary arteries?",
+    "In cases of kidney failure, what are the conditions under which the policy covers chronic irreversible failure, and how do permanent renal dialysis and kidney transplantation factor into claim approval?",
+    "What are the specific neurological conditions excluded under the policy, and how do exclusions like transient ischaemic attacks and brain damage from various causes affect claims related to cerebrovascular events?",
+    "How does the requirement for angiographic evidence and medical necessity by a consultant cardiologist impact the approval process for Coronary Artery By-pass Surgery claims?",
+    "What is the distinction between covered coronary artery surgeries and excluded catheter-based or minimally invasive procedures, and how might this affect treatment options for insured persons?",
+    "How does the policy treat brain damage caused by infection, vasculitis, or inflammatory disease in terms of coverage exclusions, and what documentation might be needed to establish these exclusions?",
+    "For claims involving vascular diseases affecting the eye or optic nerve, how does the policy exclusion apply, and what implications does this have for related medical conditions?",
+    "How are ischaemic disorders of the vestibular system excluded, and what challenges might arise in differentiating these from covered neurological conditions?",
+    "In the context of Coronary Artery By-pass Surgery, how does the policy address the necessity of open-chest versus minimally invasive surgery, and what are the implications for coverage if the procedure type differs?",
+    "What documentation and medical opinions are required to confirm that a Coronary Artery By-pass Surgery is medically necessary, and how might disputes over necessity affect claim outcomes?",
+    "How does the exclusion of angioplasty and other intra-arterial catheter-based techniques influence the scope of cardiac procedures covered, especially in emergency or experimental treatments?",
+    "What are the policy implications for patients who undergo keyhole or laser procedures for coronary artery issues, given these are explicitly excluded?",
+    "How does the policy define chronic irreversible kidney failure, and what evidence is required to demonstrate the need for permanent renal dialysis or kidney transplantation for claim acceptance?",
+    "In cases where a patient has partial kidney failure or temporary dialysis, how does the policy exclusion of non-chronic or reversible conditions affect coverage eligibility?",
+    "How might the exclusion of transient ischaemic attacks impact claims related to minor or temporary neurological symptoms, and what medical documentation is necessary to differentiate these from covered conditions?",
+    "What are the interactions between the exclusions related to brain damage from accidents or infections and other general policy exclusions, and how might these affect claims involving multiple causative factors?",
+    "How does the policy handle claims where brain damage results from a combination of excluded causes such as infection and inflammatory disease, and what burden of proof is placed on the insured?",
+    "What are the potential challenges in proving angiographic evidence of significant coronary artery obstruction, and how might this affect the timing and success of Coronary Artery By-pass Surgery claims?",
+    "How does the policy distinguish between medically necessary procedures and elective or experimental surgeries in the context of coronary artery treatments, and what role does the consultant cardiologist's opinion play?",
+    "In the event of kidney failure requiring transplantation, how does the policy address coverage if the transplant is delayed or unavailable, and what interim treatments are considered under the coverage terms?"
+  ]
+}

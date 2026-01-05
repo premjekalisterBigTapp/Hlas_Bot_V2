@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_policy_18",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "policy",
+    "source_file": "Hospital_policy.md",
+    "chunk_index": 18,
+    "content_length": 872,
+    "is_empty": false
+  },
+  "content": "## POLICY DEFINITIONS\n\nThis policy and the Policy Schedule shall be read together as one contract and any word or expression to which a specific meaning has been attached in any part of this policy or of the Policy Schedule shall bear such meaning whenever it may appear.\n\n\"Accident/Accidental\" means a specific event, which is sudden, unforeseen and unexpected, which occurs during the Period of Insurance.\n\n\"Benefit Limit\" means the Benefit Amount Payable as stated in the Coverage Outline of the Policy Schedule.\n\n\"Diagnosed\" means the diagnosis of Your medical condition from medical testing laboratories that are either recognized by the respective governments Competent Authorities or accredited in the area of molecular microbiology or immunology.\n\n\"Effective Date\" means this Policy shall become effective and commence on the date specified in the Policy Schedule.",
+  "questions": [
+    "How does the policy ensure consistent interpretation of defined terms across both the Policy and the Policy Schedule, and what implications does this have for claims involving terms like 'Accident' or 'Benefit Limit'?",
+    "In what ways does the definition of 'Accident/Accidental' limit coverage to events occurring only within the Period of Insurance, and how might this affect claims for injuries from events just before or after this period?",
+    "How does the requirement that an 'Accident' be sudden, unforeseen, and unexpected interact with exclusions for known or gradual medical conditions when determining claim eligibility?",
+    "What role does the 'Benefit Limit' as stated in the Coverage Outline play in determining the maximum payable amount for a claim, and how might this interact with multiple claims under the same policy?",
+    "How is the term 'Diagnosed' specifically defined in relation to the recognition and accreditation of medical testing laboratories, and what documentation would be necessary to prove diagnosis under this policy?",
+    "How might the definition of 'Diagnosed' affect claims involving medical conditions identified through non-accredited laboratories or alternative testing methods?",
+    "What is the significance of the 'Effective Date' in establishing the start of coverage, and how does this date affect claims for incidents occurring on or near the commencement of the policy?",
+    "How does the policy address potential conflicts or ambiguities when a defined term appears both in the Policy and the Policy Schedule with differing contexts or interpretations?",
+    "In scenarios where an event occurs outside the Period of Insurance but the diagnosis is made within it, how does the policy's definition of 'Accident' and 'Diagnosed' influence claim acceptance?",
+    "How does the policy's definition of 'Accident' exclude or include events that are gradual or cumulative in nature, such as repetitive strain injuries, and what documentation would be required to support such claims?",
+    "What are the implications of the policy requiring that the diagnosis come from laboratories recognized by government Competent Authorities or accredited in molecular microbiology or immunology, particularly for infectious disease claims?",
+    "How does the policy ensure that the 'Benefit Limit' stated in the Coverage Outline is applied uniformly across different types of benefits or sections within the policy?",
+    "In what ways might the definitions provided affect the interpretation of coverage for pre-existing conditions or conditions diagnosed prior to the Effective Date?",
+    "How does the policy define the interaction between the Effective Date and the Period of Insurance, especially in cases where the policy is renewed or extended?",
+    "What documentation standards are implied by the definition of 'Diagnosed' for claims involving laboratory results, and how might this impact claims involving overseas medical testing facilities?",
+    "How does the policy's definition of 'Accident' address situations where multiple events contribute to a loss, and how is the timing of these events considered within the Period of Insurance?",
+    "How might the policy's definitions impact the handling of claims where the diagnosis is delayed or uncertain, particularly in relation to the timing of the Effective Date and Period of Insurance?",
+    "What is the effect of the policy stating that any word or expression with a specific meaning in any part of the policy or Policy Schedule shall bear that meaning whenever it appears, on the interpretation of ambiguous terms?",
+    "How does the policy's definition of 'Benefit Limit' interact with any sub-limits or aggregate limits that may be specified elsewhere in the Policy Schedule or Coverage Outline?",
+    "In cases where the Policy Schedule is amended or updated during the Period of Insurance, how do the definitions provided ensure clarity and consistency in coverage interpretation?"
+  ]
+}

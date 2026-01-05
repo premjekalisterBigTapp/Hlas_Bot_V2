@@ -1,0 +1,18 @@
+CHUNK ANALYSIS SUMMARY FOR PersonalAccident
+==================================================
+
+Total Chunks: 70
+Empty Chunks: 0
+Valid Chunks: 70
+
+BREAKDOWN BY DOCUMENT TYPE:
+------------------------------
+benefits: 3 total, 3 valid, 0 empty
+faq: 9 total, 9 valid, 0 empty
+policy: 58 total, 58 valid, 0 empty
+
+BREAKDOWN BY SOURCE FILE:
+------------------------------
+PersonalAccident_benefits.txt: 3 total, 3 valid, 0 empty
+PersonalAccident_FAQs.txt: 9 total, 9 valid, 0 empty
+PersonalAccident_policy.md: 58 total, 58 valid, 0 empty

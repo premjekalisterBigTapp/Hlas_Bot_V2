@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_21",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 21,
+    "content_length": 926,
+    "is_empty": false
+  },
+  "content": "**\"Insured Vehicle\"** means the vehicle We are insuring for You as shown in the Schedule, fitted with standard equipment by the manufacturer or distributor without any modification to any parts, Accessories, Windscreen and/or windows, unless otherwise declared with details and endorsed under this Policy.\n\n**\"Market Value\"** refers to the cost of replacing Your vehicle with one of the same make and model, of similar specification, condition and age as currently available immediately before the date of the loss or accident.\n\n**\"No Claim Discount (NCD)\"** refers to a discount from Your premium in return for not making or having made a claim and/or not having any claim made against You by any third party.\n\n**\"Period of Insurance\"** refers to the period of cover shown in the Schedule or Certificate of Insurance and for any following period, for which cover is extended by mutual agreement and endorsed under the Policy.",
+  "questions": [
+    "How does the definition of 'Insured Vehicle' affect coverage eligibility when modifications or non-standard accessories are added without declaration and endorsement under the Policy?",
+    "In what scenarios would the Market Value determination impact the claim payout, especially considering the vehicle's make, model, specification, condition, and age immediately before the loss or accident?",
+    "How does the No Claim Discount (NCD) interact with claims made by You versus claims made against You by third parties, and what are the implications for premium adjustments?",
+    "What are the conditions under which the Period of Insurance can be extended beyond the initial schedule, and how must such extensions be documented to maintain coverage validity?",
+    "If a vehicle has aftermarket modifications not declared or endorsed, how does this affect the definition of 'Insured Vehicle' and potential claim outcomes?",
+    "How is the Market Value assessed in cases where the vehicle's condition has deteriorated but no accident or loss has occurred prior to the claim event?",
+    "What documentation or proof is required to verify eligibility for the No Claim Discount, especially in cases where third parties have made claims against You?",
+    "How does the Policy handle coverage if the Period of Insurance lapses but the insured vehicle is still in use or involved in an incident?",
+    "In the event of a total loss, how does the insurer determine the Market Value when the exact same make and model is no longer available in the market?",
+    "How do standard equipment and manufacturer-fitted accessories factor into the Insured Vehicle definition when assessing damage or loss claims?",
+    "What are the implications for coverage if the insured vehicle's windscreen or windows have been replaced with non-standard parts without endorsement?",
+    "How does the No Claim Discount policy address situations where multiple claims are made within a single Period of Insurance?",
+    "Under what conditions can the Period of Insurance be mutually agreed to be extended, and what are the necessary endorsements required to validate such an extension?",
+    "How does the insurer treat claims if the insured vehicle was involved in an accident immediately before the Period of Insurance started but reported during the coverage period?",
+    "What is the impact on the Market Value calculation if the insured vehicle has custom accessories that were declared and endorsed under the Policy?",
+    "How does the definition of 'Insured Vehicle' exclude or include vehicles with modifications that affect safety or emissions standards, and what are the consequences for claims?",
+    "In what ways does the No Claim Discount influence premium calculations for subsequent Periods of Insurance, especially after a claim has been made or a third party claim has been received?",
+    "How is the Period of Insurance defined and applied when the Policy is renewed automatically versus when a new Policy is issued?",
+    "What procedures must be followed to declare and endorse modifications or accessories to the Insured Vehicle to ensure continuous coverage?",
+    "How does the insurer verify that the vehicle insured matches the description of the Insured Vehicle in the Schedule, particularly regarding standard equipment and modifications?"
+  ]
+}

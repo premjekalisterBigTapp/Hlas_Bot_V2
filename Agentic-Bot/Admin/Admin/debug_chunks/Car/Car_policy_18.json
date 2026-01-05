@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_18",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 18,
+    "content_length": 730,
+    "is_empty": false
+  },
+  "content": "**\"Authorised Driver\"** refers to:\n1. any person named in the Schedule as \"Authorised Drivers\" and/or any person named in Certificate of Insurance under \"Persons or classes of persons entitled to drive\".\n2. In the event of the death of the Policyholder, Authorised Driver includes:\n   a. any member of the Policyholder's family or a paid driver who have been driving any vehicle described in the Schedule during the life of the Policyholder and permission to drive has not been withdrawn prior to the death of the Policyholder.\n   b. any other person who has been given permission to drive any vehicle described in the Schedule prior to the death of the Policyholder and such permission has not been withdrawn by the Policyholder.",
+  "questions": [
+    "How does the definition of 'Authorised Driver' change in the event of the Policyholder's death, and what conditions must be met for family members or paid drivers to qualify?",
+    "What documentation or evidence might be required to prove that a person was an 'Authorised Driver' named in the Schedule or Certificate of Insurance before a claim?",
+    "If permission to drive a vehicle was withdrawn by the Policyholder before their death, how does this affect the status of that person as an 'Authorised Driver' after the Policyholder's death?",
+    "In cases where a paid driver was driving a vehicle during the Policyholder's lifetime, what conditions must be satisfied for that driver to remain an 'Authorised Driver' after the Policyholder's death?",
+    "How does the policy treat individuals who were given permission to drive a vehicle but are not named in the Schedule or Certificate of Insurance, both before and after the Policyholder's death?",
+    "What is the significance of the timing of permission withdrawal in determining whether a person qualifies as an 'Authorised Driver' after the Policyholder's death?",
+    "Can a person who was never named in the Schedule or Certificate of Insurance but had permission to drive during the Policyholder's lifetime be considered an 'Authorised Driver' after the Policyholder's death?",
+    "How does the policy define the scope of 'any vehicle described in the Schedule' in relation to the eligibility of 'Authorised Drivers'?",
+    "What are the implications for claims if an 'Authorised Driver' was driving a vehicle without explicit permission at the time of an incident?",
+    "How does the policy address situations where multiple persons have been given permission to drive a vehicle prior to the Policyholder's death, but permission was withdrawn from some but not all?",
+    "In the event of the Policyholder's death, how does the policy differentiate between family members and other persons in terms of their status as 'Authorised Drivers'?",
+    "What role does the Certificate of Insurance play in establishing who is an 'Authorised Driver' compared to the Schedule?",
+    "If a person was driving a vehicle described in the Schedule during the Policyholder's lifetime but was not explicitly given permission, are they considered an 'Authorised Driver' after the Policyholder's death?",
+    "How might the policy handle a scenario where permission to drive was verbally given but not documented prior to the Policyholder's death?",
+    "What are the potential exclusions or limitations related to 'Authorised Drivers' that might arise from this definition in claims processing?",
+    "How does the policy ensure that permission to drive has not been withdrawn prior to the Policyholder's death, and what evidence might be required?",
+    "In what ways could the definition of 'Authorised Driver' impact liability or coverage if a vehicle is driven by someone not meeting these criteria after the Policyholder's death?",
+    "How does the inclusion of paid drivers as 'Authorised Drivers' after the Policyholder's death affect coverage compared to non-paid drivers?",
+    "What procedures should be followed to update the Schedule or Certificate of Insurance to reflect changes in 'Authorised Drivers' during the Policyholder's lifetime?",
+    "How does the policy address situations where the Policyholder's death occurs during a trip, and an 'Authorised Driver' not named in the Schedule needs to drive the vehicle?"
+  ]
+}

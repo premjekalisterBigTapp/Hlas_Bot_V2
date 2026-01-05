@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Early_policy_32",
+  "metadata": {
+    "product_name": "Early",
+    "doc_type": "policy",
+    "source_file": "Early_policy.md",
+    "chunk_index": 32,
+    "content_length": 812,
+    "is_empty": false
+  },
+  "content": "* Having borderline malignancy;\n        * Having any degree of malignant potential;\n        * Having suspicious malignancy;\n        * Neoplasm of uncertain or unknown behaviour; or\n        * All grades of dysplasia, sia, squamous intraepithelial lesions (HSIL and LSIL) and intra epithelial neoplasia;\n    * Any non-melanoma skin carcinoma, skin confined primary cutaneous lymphoma and dermatofibrosarcoma protuberans unless there is evidence of metastases to lymph nodes or beyond;\n    * Malignant melanoma that has not caused invasion beyond the epidermis;\n    * All Prostate cancers histologically described as T1N0M0 (TNM Classification) or below; or Prostate cancers of another equivalent or lesser classification;\n    * All Thyroid cancers histologically classified as T1N0M0 (TNM Classification) or below;",
+  "questions": [
+    "How does the policy treat claims related to borderline malignancies, including those with any degree of malignant potential or suspicious malignancy, in terms of coverage eligibility and required evidence?",
+    "In what circumstances are neoplasms of uncertain or unknown behavior excluded from coverage, and how does this exclusion interact with other cancer-related provisions in the policy?",
+    "What are the coverage implications for all grades of dysplasia, squamous intraepithelial lesions (HSIL and LSIL), and intraepithelial neoplasia, and are there any exceptions or conditions under which these might be covered?",
+    "How does the policy address claims involving non-melanoma skin carcinoma, primary cutaneous lymphoma confined to the skin, and dermatofibrosarcoma protuberans, particularly regarding the requirement for evidence of metastases to lymph nodes or beyond?",
+    "Under what conditions is malignant melanoma excluded from coverage, specifically when it has not invaded beyond the epidermis, and how does this affect claims for early-stage melanoma?",
+    "What are the coverage limitations for prostate cancers classified histologically as T1N0M0 or below according to the TNM classification, and how does the policy define equivalent or lesser classifications for exclusion purposes?",
+    "How does the policy handle thyroid cancers histologically classified as T1N0M0 or below, and what documentation or classification criteria must be met to determine coverage eligibility?",
+    "If a claimant has a skin carcinoma that is non-melanoma but shows evidence of metastases to lymph nodes, how does this affect the applicability of the exclusion and potential coverage?",
+    "How are borderline malignancies distinguished from malignant cancers for the purpose of coverage, and what role does histological evidence play in this distinction?",
+    "In cases where a neoplasm is initially classified as uncertain or unknown behavior but later confirmed malignant, how does the timing of diagnosis affect claim eligibility under the policy?",
+    "What is the policy's stance on coverage for squamous intraepithelial lesions of different grades, and how do these grades impact the exclusion or inclusion of claims?",
+    "How does the exclusion of certain skin cancers unless metastasized interact with general policy exclusions related to pre-existing conditions or known illnesses?",
+    "Are there any exceptions or special provisions for prostate or thyroid cancers classified at or below T1N0M0 if subsequent progression occurs, and how must such progression be documented?",
+    "How does the policy define and verify 'evidence of metastases' for the purpose of overriding exclusions related to skin carcinomas and lymph node involvement?",
+    "In the context of malignant melanoma, how does the policy treat claims where invasion beyond the epidermis is minimal or borderline, and what diagnostic criteria are used to assess this?",
+    "What documentation or medical reports are required to substantiate the histological classification of prostate and thyroid cancers to determine coverage eligibility?",
+    "How do the exclusions related to borderline malignancies and neoplasms of uncertain behavior interact with any optional covers or riders that might include early-stage cancers?",
+    "If a claimant has multiple diagnoses including both excluded borderline malignancies and covered malignant cancers, how does the policy determine which conditions are eligible for claims?",
+    "How does the policy address claims for dermatofibrosarcoma protuberans when there is ambiguity about lymph node involvement, and what standards are applied to resolve such ambiguities?",
+    "In cases where histological classifications are updated or reclassified after initial diagnosis, how does the policy handle claims submitted based on earlier or later classifications for prostate or thyroid cancers?"
+  ]
+}

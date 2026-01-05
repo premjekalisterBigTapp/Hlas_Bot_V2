@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_faq_36",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "faq",
+    "source_file": "Travel_FAQs.txt",
+    "chunk_index": 36,
+    "content_length": 440,
+    "is_empty": false
+  },
+  "content": "Q: What happens when I submit a claim?\nA: Within 3 business days of receiving your claim, we will send you an acknowledgement. We will request for additional documents within 7 business days if claim documents are incomplete. Once we receive all necessary information and have completed a full investigation required to assess your claim, we will decide to accept or decline your claim and inform you of our decision within 7 business days.",
+  "questions": [
+    "What is the timeline for the insurer to acknowledge receipt of a claim and request additional documents if the initial submission is incomplete?",
+    "How does the insurer handle claims when the submitted documents are incomplete, and what is the timeframe for requesting further information?",
+    "After receiving all necessary claim documents, what is the maximum period the insurer takes to complete the investigation and communicate the claim decision?",
+    "In the event of an incomplete claim submission, how many business days does the insurer allow before requesting missing documents, and how does this affect the overall claim processing time?",
+    "What steps does the insurer follow from claim submission to final decision, including acknowledgement, document requests, investigation, and notification?",
+    "If additional documents are requested within 7 business days, how does this impact the insurer's obligation to decide on the claim within 7 business days after full information is received?",
+    "How does the insurer define the start and end points of the claim processing timeline, particularly in relation to document completeness and investigation completion?",
+    "What are the insurer's responsibilities regarding communication with the claimant during the claim assessment process, including acknowledgement and decision notification?",
+    "How does the insurer ensure timely processing of claims, and what are the specified business day limits for each stage of claim handling?",
+    "In cases where the claimant submits all required documents promptly, what is the expected timeframe for the insurer to complete the investigation and inform the claimant of the outcome?",
+    "What happens if the claimant fails to provide additional documents requested within the 7 business day window, and how might this affect claim acceptance or denial?",
+    "How does the insurer's claim process address situations where the investigation requires more time than the standard 7 business days after receiving all documents?",
+    "What documentation standards must be met for the insurer to consider a claim submission complete and proceed with the investigation?",
+    "How does the insurer communicate with claimants during the claim process, and what are the timeframes for each communication milestone?",
+    "What are the implications for claimants if the insurer does not acknowledge receipt of a claim within 3 business days as stated?",
+    "How does the insurer balance the need for a thorough investigation with the commitment to timely claim decisions within the specified business day limits?",
+    "What is the sequence of events from claim submission to final decision, and how are business days counted in this process?",
+    "How does the insurer handle claims that require additional investigation beyond the initial document review, and what are the time constraints involved?",
+    "What are the claimant's obligations in responding to requests for additional documents, and how do these obligations affect the insurer's processing timeline?",
+    "How does the insurer's claim process ensure transparency and fairness in decision-making within the stated timeframes?"
+  ]
+}

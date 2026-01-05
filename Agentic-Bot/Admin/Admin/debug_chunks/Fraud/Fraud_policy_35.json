@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_35",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 35,
+    "content_length": 956,
+    "is_empty": false
+  },
+  "content": "## SPECIAL CONDITIONS TO CYBER\n\nTo be eligible for cover under this Policy, You must:\n\n(a) Make sure that Your Computer System is used and maintained as recommended by the manufacturer or supplier.\n\n(b) Take measures to safeguard Your Computer System, including the installation of anti-malware software, and the updating of software including anti-malware software in accordance with the manufacturers' and suppliers' recommendations.\n\n(c) Take back-ups of Your Digital Assets at least every thirty (30) days. If a Third Party processes or stores Your Digital Assets for You, You must make sure that the terms of the contract between You and the Third Party allow Your Digital Assets to be backed up.\n\n(d) Change the passwords on Your Computer System from the default password that existed on Your Computer System.\n\n(e) Take reasonable measures to safeguard Your Personal Data, Payment Cards, Your Personal Accounts and Your accounts with Online Merchants",
+  "questions": [
+    "How do the requirements for maintaining and using Your Computer System as recommended by the manufacturer or supplier interact with the obligations to install and update anti-malware software to maintain eligibility for Cyber coverage?",
+    "What are the implications for Cyber coverage eligibility if You fail to take backups of Your Digital Assets every thirty days, and how does this requirement change if a Third Party processes or stores Your Digital Assets?",
+    "In what ways must the contract terms with a Third Party processing or storing Your Digital Assets ensure compliance with the Cyber coverage backup requirements, and what happens if these terms do not allow for backups?",
+    "How does the requirement to change default passwords on Your Computer System affect the overall eligibility for Cyber coverage, especially in relation to other safeguarding measures?",
+    "What constitutes reasonable measures to safeguard Your Personal Data, Payment Cards, Personal Accounts, and Online Merchant accounts under the Cyber special conditions, and how might failure to take these measures impact claims?",
+    "If anti-malware software is installed but not updated according to the manufacturer’s recommendations, how does this affect the eligibility for Cyber coverage under the policy?",
+    "How do the special conditions to Cyber coverage address the interplay between software maintenance (including anti-malware updates) and the physical security of Your Computer System?",
+    "What documentation or proof might be required to demonstrate compliance with the special conditions related to backups, password changes, and anti-malware updates when making a Cyber claim?",
+    "How does the policy define the frequency and method of backups for Digital Assets, and what are the consequences if backups are taken less frequently than every thirty days?",
+    "In scenarios where a Third Party loses Your Digital Assets, how does the policy’s requirement for contract terms allowing backups influence the insurer’s liability under Cyber coverage?",
+    "How do the special conditions to Cyber coverage interact with general policy exclusions related to negligence or failure to maintain security protocols?",
+    "What are the potential coverage implications if Your Computer System is used in a manner inconsistent with the manufacturer’s or supplier’s recommendations, despite meeting other Cyber special conditions?",
+    "How does the policy treat situations where passwords were changed from default but are weak or compromised, in relation to the requirement to change default passwords?",
+    "Are there any exceptions or allowances in the Cyber special conditions for delays in updating anti-malware software or taking backups due to technical issues or Third Party failures?",
+    "How might failure to take reasonable measures to safeguard Payment Cards and Online Merchant accounts affect claims related to fraudulent transactions under Cyber coverage?",
+    "What is the relationship between the special conditions requiring safeguarding of Personal Data and the broader data protection obligations that may apply, and how does this affect coverage?",
+    "How does the policy define ‘reasonable measures’ in the context of safeguarding Personal Data and accounts, and what examples might be considered insufficient?",
+    "If a Third Party’s contract allows backups but the Third Party fails to perform them, how does this impact Your compliance with the Cyber special conditions and potential claims?",
+    "How do the Cyber special conditions address the risk of cyber incidents arising from outdated software or failure to install recommended updates?",
+    "In the event of a Cyber claim, how might the insurer assess whether You have met the special conditions related to computer system maintenance, password changes, and data safeguarding to determine coverage eligibility?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_35",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 35,
+    "content_length": 628,
+    "is_empty": false
+  },
+  "content": "2. Medical Expenses incurred as a result of Infectious Disease suffered by You, provided that the claim is not made within the Waiting Period. Any Infectious Disease which is announced or notified as an epidemic or pandemic by the health authority of Singapore or the Government of the Republic of Singapore and a pandemic by the Whole Health Organisation (WHO). The cover for the epidemic or pandemic Infectious Disease shall cease from the date of such announcement or notification.\n3. Ambulance charges incurred to transport You to a Hospital up to $200 per injury up to the Benefit Limit as specified in the Policy Schedule.",
+  "questions": [
+    "How does the Waiting Period affect the eligibility of medical expense claims for Infectious Diseases, and what documentation is required to prove the timing of the claim relative to this period?",
+    "In what scenarios would medical expenses for an Infectious Disease be excluded due to an epidemic or pandemic announcement by Singapore health authorities or WHO, and how does the cessation of cover from the announcement date impact ongoing treatments?",
+    "How are ambulance charges covered in relation to injuries caused by Infectious Diseases, including the maximum limit per injury and the overall Benefit Limit specified in the Policy Schedule?",
+    "If an Infectious Disease is declared a pandemic by WHO but not by Singapore health authorities, how does this affect the coverage and the timing of claim eligibility under this policy?",
+    "What is the interaction between the Waiting Period for Infectious Disease claims and the policy’s general exclusions, particularly if the disease is declared an epidemic after the insured’s infection date?",
+    "How does the policy define the scope of ambulance charges coverage for transporting the insured to a hospital, and are there any exclusions or conditions that limit this benefit beyond the $200 per injury cap?",
+    "In cases where an Infectious Disease claim is made after the epidemic or pandemic announcement date, what are the implications for coverage and claim settlement under this policy?",
+    "How does the policy handle claims for medical expenses if the Infectious Disease was contracted during travel but the epidemic or pandemic announcement occurs after the insured’s return to Singapore?",
+    "What documentation and proof are required to substantiate ambulance charges incurred for transporting the insured due to an injury related to an Infectious Disease?",
+    "How does the policy’s cessation of cover from the epidemic or pandemic announcement date interact with claims for medical expenses incurred before but paid after the announcement?",
+    "Are ambulance charges covered if the insured requires transport for a non-Infectious Disease injury during a declared epidemic or pandemic period, and how does this relate to the Benefit Limit?",
+    "How does the policy address the coverage of medical expenses for Infectious Diseases that are not declared epidemics or pandemics by Singapore or WHO, especially in relation to the Waiting Period?",
+    "What are the implications for claims if the insured contracts an Infectious Disease during a pandemic but the claim is submitted within the Waiting Period?",
+    "How does the policy define the Benefit Limit in relation to ambulance charges and medical expenses for Infectious Diseases, and what happens if the total charges exceed this limit?",
+    "In the event that the insured requires multiple ambulance transports for separate injuries related to Infectious Diseases, how is the $200 per injury limit applied and aggregated under the policy?",
+    "How does the policy treat medical expenses claims for Infectious Diseases when the disease is announced as an epidemic or pandemic by WHO but the Singapore government has not yet made such an announcement?",
+    "What are the consequences for coverage if the insured delays making a claim for medical expenses related to an Infectious Disease beyond the Waiting Period, especially during an epidemic or pandemic?",
+    "How does the policy coordinate coverage for ambulance charges and medical expenses if the insured is transported multiple times for the same Infectious Disease injury within the Benefit Limit?",
+    "Are there any exclusions or limitations on ambulance charges if the transport is arranged by a non-emergency service or if the injury is not directly related to an Infectious Disease?",
+    "How does the policy’s coverage for Infectious Disease medical expenses and ambulance charges interact with any general policy exclusions related to pandemics, epidemics, or government travel advisories?"
+  ]
+}

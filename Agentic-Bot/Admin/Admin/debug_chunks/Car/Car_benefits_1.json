@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_benefits_1",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "benefits",
+    "source_file": "Car_benefits.txt",
+    "chunk_index": 1,
+    "content_length": 1000,
+    "is_empty": false
+  },
+  "content": "TABLE 1 FROM CAR INSURANCE:\nUnder the Loss or Damage to Your Car coverage, loss or damage by fire or theft is covered up to the market value at the time of loss or damage.\nUnder the Loss or Damage to Your Car coverage, loss or damage by other insured causes including Act Of God, fallen objects, riot, strike, or flood is covered up to the market value at the time of loss or damage.\nUnder the Loss or Damage to Your Car coverage, car accessories, including all audio, video, and other standard equipment fitted by the manufacturer or distributor at the time the car was originally purchased, are covered up to $1,000.\nUnder the Loss or Damage to Your Car coverage, the excess for car accident repairs is halved if repairs are carried out at an HL Assurance Approved Workshop.\nUnder the Loss or Damage to Your Car coverage, windscreen cover is unlimited, with a windscreen excess of $100 unless the windscreen is repaired at an HL Assurance Appointed Windscreen Repairer.\nUnder the Your Liability to ",
+  "questions": [
+    "How does the coverage for loss or damage by fire or theft under the Loss or Damage to Your Car section determine the payout amount, and how does this compare to coverage for other insured causes such as Act of God or flood?",
+    "In what ways are car accessories covered under the Loss or Damage to Your Car section, including the types of accessories and the maximum coverage limit, and how does this interact with the overall market value coverage for the car?",
+    "What is the impact on the excess payable for car accident repairs if the repairs are conducted at an HL Assurance Approved Workshop compared to repairs done elsewhere, and how might this affect claim costs?",
+    "How is windscreen damage covered under the Loss or Damage to Your Car section, including the excess amount, and what changes if the windscreen is repaired at an HL Assurance Appointed Windscreen Repairer?",
+    "Under the Loss or Damage to Your Car coverage, how are losses from riot, strike, or fallen objects treated in terms of coverage limits and valuation, and are there any specific conditions or exclusions that apply to these causes?",
+    "What are the differences in coverage limits and excesses between general car damage and windscreen damage under the Loss or Damage to Your Car section, and how do repair location requirements influence these terms?",
+    "How does the policy define the market value of the car at the time of loss or damage for the purposes of settling claims under fire, theft, and other insured causes, and what documentation might be required to support this valuation?",
+    "In the event of a claim involving both car accessories and the main vehicle, how are the coverage limits applied separately or combined, and what implications does the $1,000 accessory limit have on total claim settlement?",
+    "What conditions must be met for the excess on car accident repairs to be halved, and are there any exclusions or limitations if repairs are not performed at an HL Assurance Approved Workshop?",
+    "How does the unlimited windscreen cover interact with the $100 excess, and what benefits or cost savings are provided if repairs are done at an HL Assurance Appointed Windscreen Repairer?",
+    "Are there any general or section-specific exclusions that would override the coverage for loss or damage caused by Act of God, riot, or flood under the Loss or Damage to Your Car section, and how are these exclusions communicated in the policy?",
+    "How does the policy handle claims for loss or damage to car accessories that are not standard equipment fitted by the manufacturer or distributor at the time of purchase, and are such items covered under any other section?",
+    "What documentation or proof is typically required to substantiate a claim for loss or damage to the car or its accessories, especially in cases involving theft or fire?",
+    "In cases where the car is damaged by multiple causes, such as fire and fallen objects, how does the policy determine coverage limits and excesses, and are claims handled differently for combined causes?",
+    "How does the policy address repair costs and excesses if the insured chooses a repair workshop that is not HL Assurance Approved, particularly regarding the excess amount and claim approval?",
+    "What are the implications of the windscreen cover being unlimited in amount, and does this apply to replacement as well as repair, including any excess or repairer requirements?",
+    "How does the policy define and apply the term 'market value at the time of loss or damage' in scenarios where the car's value may fluctuate rapidly, such as during economic downturns or after major incidents?",
+    "Are there any specific provisions or exceptions related to coverage for loss or damage caused by strikes or riots, such as requirements for police reports or timing of claims?",
+    "How does the policy coordinate coverage and excesses when a claim involves both windscreen damage and other types of car damage occurring simultaneously?",
+    "What is the role of HL Assurance Approved Workshops and Appointed Windscreen Repairers in the claims process, and how do their involvement affect claim approval, excess reduction, and repair quality assurances?"
+  ]
+}

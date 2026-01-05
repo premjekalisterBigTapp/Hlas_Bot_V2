@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_faq_5",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "faq",
+    "source_file": "Car_FAQs.txt",
+    "chunk_index": 5,
+    "content_length": 464,
+    "is_empty": false
+  },
+  "content": "Q: If I am not at fault for the accident but make an own damage claim, will my NCD be affected?\nA: Your NCD will not be affected if we can recover the claim amount from the other party. However, if the claim recovery is not successful, your NCD will be affected. Alternatively, if you have been successful in your counter claim for excess and loss of use (at least 80% success rate), we can look into your request to reinstate NCD, subject to supporting documents.",
+  "questions": [
+    "How does the insurer handle No Claim Discount (NCD) adjustments when a policyholder makes an own damage claim but is not at fault, and what documentation is required to support a request for NCD reinstatement after a counter claim?",
+    "In what scenarios will a policyholder's NCD be affected despite not being at fault in an accident, particularly when claim recovery from the other party fails?",
+    "What conditions must be met regarding the success rate of a counter claim for excess and loss of use to consider reinstating the NCD, and what evidence must be provided?",
+    "How does the insurer differentiate between successful and unsuccessful claim recoveries from the other party in relation to NCD impact?",
+    "What is the minimum success rate threshold for counter claims that the insurer requires before considering NCD reinstatement, and how is this success rate determined?",
+    "If a policyholder's claim recovery from the other party is unsuccessful, what are the implications for their NCD, and can any exceptions apply?",
+    "What types of supporting documents are necessary to request NCD reinstatement after a counter claim for excess and loss of use?",
+    "How does the insurer treat excess and loss of use claims in relation to NCD reinstatement when the policyholder is not at fault?",
+    "Can a policyholder request NCD reinstatement if only part of their counter claim is successful, and how does the insurer evaluate partial success?",
+    "What is the process for a policyholder to appeal or request NCD reinstatement following an own damage claim where they were not at fault but claim recovery was unsuccessful?",
+    "How does the insurer's policy address situations where the policyholder is not at fault but the other party is uninsured or untraceable in terms of NCD impact?",
+    "Are there any time limits or deadlines within which a policyholder must submit supporting documents for NCD reinstatement after a counter claim?",
+    "How do excess and loss of use claims interact with the insurer's NCD policy when the policyholder is not at fault but the claim recovery is pending or disputed?",
+    "What role does the insurer's assessment of claim recovery success play in determining whether the NCD remains unaffected or is reduced?",
+    "In cases where the policyholder's counter claim for excess and loss of use is below the 80% success threshold, what are the options regarding NCD reinstatement?",
+    "How does the insurer verify the authenticity and adequacy of supporting documents submitted for NCD reinstatement requests?",
+    "What are the implications for NCD if the policyholder chooses not to pursue a counter claim for excess and loss of use after an own damage claim where they were not at fault?",
+    "How does the insurer's NCD policy apply if the policyholder is partially at fault or if fault is disputed in an accident claim?",
+    "What is the insurer's stance on NCD adjustments when claim recovery is delayed, and how does this affect the timing of NCD reinstatement requests?",
+    "How does the insurer handle NCD impact in cases where the policyholder's own damage claim involves multiple parties and complex liability scenarios?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_policy_25",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "policy",
+    "source_file": "Hospital_policy.md",
+    "chunk_index": 25,
+    "content_length": 981,
+    "is_empty": false
+  },
+  "content": "#### Exclusions Applicable to Section 1\n\nNo benefit will be payable under Section 1:\n\n1. If Your hospitalization for treatment of Your Illness occurs within thirty (30) days of the Effective Date.\n\n### Section 2. Triple Hospital Cash (in ICU) Benefit\n\nIn the event that You sustain an Injury or Illness during the Period of Insurance and is considered medically necessary by a Registered Medical Practitioner that You will be confined in an Intensive Care Unit (ICU), We will pay You the Benefit Limit as specified in the Policy Schedule for each continuous twenty-four (24) hour period of confinement in the Hospital.\n\nThis benefit is payable up to a maximum period of thirty (30) days.\n\nAny periods of confinement in the Hospital due to the same or related cause shall be considered as arising from one (1) Injury or Illness unless their occurrences are separated by at least ninety (90) days.\n\n#### Exclusions Applicable to Section 2\n\nNo benefit will be payable under Section 2:",
+  "questions": [
+    "How does the 30-day waiting period for hospitalization due to illness under Section 1 affect claims for illnesses that manifest shortly after the policy Effective Date, and how does this exclusion interact with the coverage for ICU confinement under Section 2?",
+    "Under Section 2, what are the conditions for the Triple Hospital Cash benefit to be payable, including the role of a Registered Medical Practitioner's medical necessity determination and the requirement for ICU confinement during the Period of Insurance?",
+    "What is the maximum duration for which the Triple Hospital Cash benefit under Section 2 can be claimed, and how are continuous 24-hour confinement periods counted toward this maximum?",
+    "How are multiple periods of hospital confinement due to the same or related Injury or Illness treated under Section 2, particularly regarding the 90-day separation rule, and what implications does this have for benefit eligibility?",
+    "If a policyholder is hospitalized in ICU for an Injury, discharged, and then readmitted for a related Illness within 60 days, how does the policy treat these confinements in terms of counting them as one or multiple claims under Section 2?",
+    "What documentation or medical certification is required to establish that ICU confinement is medically necessary for the Triple Hospital Cash benefit under Section 2, and how might failure to provide this affect claim approval?",
+    "How do the exclusions applicable to Section 1, specifically the 30-day hospitalization waiting period, interact with any potential exclusions or conditions under Section 2 for ICU confinement benefits?",
+    "In cases where hospitalization occurs for an Illness within 30 days of the Effective Date, but ICU confinement happens after this period, is the Triple Hospital Cash benefit under Section 2 payable, considering the exclusions in Section 1?",
+    "How does the policy define the start and end of a continuous 24-hour confinement period in ICU for the purpose of calculating the Triple Hospital Cash benefit, and what happens if the confinement is interrupted for less than 24 hours?",
+    "What happens if the insured is confined in ICU for more than 30 days continuously—does the Triple Hospital Cash benefit under Section 2 cover the entire period or is it capped, and how is the cap applied?",
+    "How does the policy treat ICU confinements arising from different Injuries or Illnesses occurring within the same Period of Insurance, especially in relation to the 90-day separation rule under Section 2?",
+    "Are there any general policy-wide exclusions that override or interact with the Section 2 exclusions for ICU confinement benefits, and how should a claimant navigate potential conflicts between these exclusions?",
+    "If a policyholder is hospitalized for an Illness that began before the Effective Date but ICU confinement occurs during the Period of Insurance, how do the Section 1 and Section 2 exclusions apply to the claim?",
+    "How does the policy handle claims for ICU confinement if the Injury or Illness is related to a pre-existing condition, considering the exclusions in Section 1 and any specific exclusions in Section 2?",
+    "In the event of multiple ICU confinements separated by exactly 90 days, how does the policy determine whether these are considered separate claims for the Triple Hospital Cash benefit under Section 2?",
+    "What are the implications of the policy's exclusion of hospitalization within 30 days of the Effective Date for illnesses on the timing of purchasing coverage relative to planned travel or medical procedures?",
+    "How does the policy define 'Period of Insurance' in relation to the eligibility for the Triple Hospital Cash benefit under Section 2, and what happens if ICU confinement starts before or ends after this period?",
+    "If a policyholder is hospitalized in ICU due to an Injury sustained during the Period of Insurance but the hospitalization extends beyond the policy expiry, how is the Triple Hospital Cash benefit calculated or limited?",
+    "Are there any exclusions or conditions under Section 2 that specifically address ICU confinements due to infectious diseases or pandemics, and how do these interact with the Section 1 exclusions?",
+    "How does the policy address claims where the ICU confinement is medically necessary but the insured refuses treatment or leaves the hospital against medical advice, in the context of Section 2 benefits and exclusions?"
+  ]
+}

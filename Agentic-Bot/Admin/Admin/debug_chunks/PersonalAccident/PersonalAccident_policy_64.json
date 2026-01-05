@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_64",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 64,
+    "content_length": 566,
+    "is_empty": false
+  },
+  "content": "**19. Renewal of Your Policy**\nThis Policy will be automatically renewed by Us on the Expiry Date of the Policy based on existing terms, conditions and exclusions upon satisfaction of the following:\n(a) Payment of the premium under General Condition 18;\n(b) There is no prior written notice of cancellation given in accordance with General Condition 3 before the Expiry Date of the Policy;\n(c) The Policy has not been otherwise terminated; and\n(d) Any material changes has already been notified to and accepted by Us.\n**20. Sanction Limitation and Exclusion Clause**",
+  "questions": [
+    "How does the automatic renewal process handle premium payment timing, prior cancellation notices, and notification of material changes to ensure continuous coverage under the policy?",
+    "What are the implications for policy renewal if a written notice of cancellation is given before the expiry date, and how does this interact with the requirement for premium payment?",
+    "In what scenarios would the policy not be automatically renewed due to termination or unnotified material changes, and what documentation or communication is required to prevent such non-renewal?",
+    "How does the policy define and manage 'material changes' that must be notified and accepted before renewal, and what impact do these have on the renewal terms and conditions?",
+    "What is the relationship between General Condition 18 (premium payment) and General Condition 3 (cancellation notice) in the context of automatic policy renewal?",
+    "If a policyholder fails to notify the insurer of a material change before the expiry date, how does this affect the automatic renewal and coverage validity?",
+    "How does the Sanction Limitation and Exclusion Clause potentially affect coverage upon renewal, especially if new sanctions or regulatory restrictions arise between policy periods?",
+    "What are the combined effects of policy termination, non-payment of premium, and unaccepted material changes on the insurer's obligation to renew the policy automatically?",
+    "How does the insurer verify compliance with the conditions for automatic renewal, and what evidence or proof might be required from the policyholder regarding premium payment and material change notifications?",
+    "In cases where the policy is renewed automatically, how are existing exclusions and terms carried forward, and can they be modified if material changes have been accepted?",
+    "What happens if a policyholder submits a late premium payment after the expiry date but before renewal processing—is coverage continuous or interrupted?",
+    "How does the policy address renewal if the policyholder has submitted a cancellation notice but also notified material changes—does the cancellation override the renewal conditions?",
+    "Are there any exceptions or special conditions under which the insurer may refuse automatic renewal despite compliance with premium payment and notification requirements?",
+    "How does the Sanction Limitation and Exclusion Clause interact with the renewal process if new sanctions are imposed after the policy has been renewed but before the next expiry date?",
+    "What procedures must the policyholder follow to notify material changes, and how does the insurer communicate acceptance or rejection of these changes prior to renewal?",
+    "If the policy is terminated for reasons other than cancellation or non-payment, how does this affect the possibility of renewal and the application of the Sanction Limitation and Exclusion Clause?",
+    "How do the renewal conditions ensure that the policy terms remain up-to-date with regulatory changes, including sanctions, and what role does the Sanction Limitation and Exclusion Clause play in this context?",
+    "In the event of a dispute over whether a material change was properly notified and accepted, how is the renewal status of the policy determined?",
+    "How does the policy handle renewal if the premium is paid but the insurer has not yet accepted the material changes—does the renewal proceed on existing terms or is it delayed?",
+    "What are the consequences for coverage and claims if the policy is renewed automatically but the Sanction Limitation and Exclusion Clause later excludes coverage due to new or existing sanctions?"
+  ]
+}

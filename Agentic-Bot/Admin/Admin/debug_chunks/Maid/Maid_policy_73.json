@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Maid_policy_73",
+  "metadata": {
+    "product_name": "Maid",
+    "doc_type": "policy",
+    "source_file": "Maid_policy.md",
+    "chunk_index": 73,
+    "content_length": 474,
+    "is_empty": false
+  },
+  "content": "* All Thyroid cancers histologically classified as T1N0M0 (TNM Classification) or below;\n* All tumours of the Urinary Bladder histologically classified as T1N0M0 (TNM Classification) or below;\n* All Gastro-Intestinal Stromal tumours histologically classified as T1N0M0 (TNM Classification) or below and with mitotic count of less than or equal to $5/50$ HPFs;\n* Chronic Lymphocytic Leukaemia less than RAI Stage three (3); and\n* All tumours in the presence of HIV infection.",
+  "questions": [
+    "How does the policy define coverage limits for thyroid cancers classified as T1N0M0 or below, and what documentation is required to prove the histological classification for a claim?",
+    "In cases of urinary bladder tumors classified as T1N0M0 or below, how do the policy's coverage conditions interact with any general exclusions related to pre-existing conditions or HIV status?",
+    "What are the specific mitotic count requirements for Gastro-Intestinal Stromal tumours to be covered under this policy, and how does the mitotic count threshold of 5/50 HPFs affect eligibility for claims?",
+    "How does the policy treat Chronic Lymphocytic Leukaemia claims that are below RAI Stage three, and what evidence must be provided to confirm the stage for coverage purposes?",
+    "Are all tumors present in individuals with HIV infection covered regardless of classification, and how does this section-specific coverage interact with any general exclusions related to immunodeficiency or infectious diseases?",
+    "If a thyroid cancer is classified as T2N0M0, how does this classification affect coverage eligibility compared to T1N0M0 or below, and what are the implications for claims?",
+    "For Gastro-Intestinal Stromal tumours with a mitotic count exactly equal to 5/50 HPFs, how does the policy determine coverage, and what happens if the count slightly exceeds this threshold?",
+    "How does the policy address claims for Chronic Lymphocytic Leukaemia at RAI Stage three or above, and are there any optional covers that might extend coverage beyond the stated limit?",
+    "In the presence of HIV infection, are there any additional documentation or medical reports required to substantiate claims for tumors, and how does this affect the timing and approval of claims?",
+    "How do the histological classifications T1N0M0 or below for thyroid and urinary bladder tumors align with the policy’s definitions of pre-existing conditions, and what impact does this have on coverage?",
+    "What is the interaction between the TNM classification system used for tumor staging and any general policy exclusions related to cancer or malignancies?",
+    "If a tumor initially classified as T1N0M0 progresses beyond this stage after policy inception, how does the policy handle claims for treatment before and after progression?",
+    "Are tumors in the presence of HIV infection covered if the HIV status was known prior to policy inception, and how does this relate to pre-existing condition exclusions?",
+    "How does the policy define and verify the mitotic count for Gastro-Intestinal Stromal tumours, and what laboratory or pathology reports are required to support a claim?",
+    "In cases where Chronic Lymphocytic Leukaemia is borderline RAI Stage three, how does the policy determine coverage eligibility, and what role do medical opinions or second opinions play?",
+    "How does the policy handle claims for multiple tumors across the covered categories (thyroid, urinary bladder, GI stromal tumors) occurring simultaneously, especially in the presence of HIV infection?",
+    "What are the implications for coverage if the histological classification of a tumor is ambiguous or incomplete, and how does the policy address such uncertainties in claims processing?",
+    "How does the policy coordinate coverage for tumors classified under TNM system with other cancer-related benefits or riders that may have different staging or classification criteria?",
+    "Are there any age-related or vaccination status conditions that affect coverage for tumors listed in this section, particularly for those with HIV infection?",
+    "How does the policy address treatment or diagnosis delays in tumors classified as T1N0M0 or below, and what is the impact on claim validity if diagnosis occurs after a waiting period or policy inception?"
+  ]
+}

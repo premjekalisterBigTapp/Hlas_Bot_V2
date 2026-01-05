@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_48",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 48,
+    "content_length": 587,
+    "is_empty": false
+  },
+  "content": "#### 5. Cancellation\nWe may cancel this Policy by giving You seven (7) days' notice at Your last-known address and You must return Your original Certificate of Insurance to Us.\n\nYou may also cancel this Policy by contacting Us in writing or by phone and returning Your original Certificate of Insurance to Us, the cancellation will take effect from the date We receive the original Certificate of Insurance.\n\nAny refund will be calculated as follows:\n(a) **Cancellation by Us**\nPremium refund = Premium X the unexpired Period of Insurance (days) ÷ the Original Period of Insurance (days)",
+  "questions": [
+    "How does the policy handle cancellation initiated by the insurer versus cancellation initiated by the insured, including notice requirements, return of the Certificate of Insurance, and timing of cancellation effectiveness?",
+    "What are the specific steps and documentation required from the insured to cancel the policy, and how does the timing of returning the original Certificate of Insurance affect the cancellation date?",
+    "In the event of cancellation by the insurer, how is the premium refund calculated based on the unexpired period of insurance, and what implications does this have for partial coverage periods?",
+    "How does the policy define the 'last-known address' for the purpose of sending cancellation notices, and what are the insured's responsibilities if they have changed address?",
+    "What conditions must be met for the insurer to validly cancel the policy with seven days' notice, and how does this interact with any ongoing claims or coverage periods?",
+    "If the insured cancels the policy by phone or in writing, how is the receipt of the original Certificate of Insurance verified, and what happens if the certificate is delayed or lost in transit?",
+    "Are there any exclusions or limitations on refunds if the policy is cancelled shortly after inception or near the expiry date, and how does the refund formula apply in these edge cases?",
+    "How does the policy address cancellation requests made during an active claim period, and does cancellation affect the processing or payment of claims already submitted?",
+    "What happens if the insured fails to return the original Certificate of Insurance upon cancellation, and can the insurer withhold cancellation or refund until receipt?",
+    "How does the refund calculation formula apply if the insured cancels the policy mid-term, and are there any minimum or maximum refund amounts specified?",
+    "In cases where the insurer cancels the policy, what are the insured's rights regarding notification, refund, and continuation of coverage during the seven-day notice period?",
+    "Does the policy allow for any automatic cancellation under specific circumstances, and if so, how does this affect the refund calculation and notification requirements?",
+    "How are cancellations handled if the insured is overseas or otherwise unable to return the original Certificate of Insurance promptly, and what impact does this have on the effective cancellation date?",
+    "Are there any differences in cancellation procedures or refund calculations if the policy was purchased as part of a group or corporate plan versus an individual plan?",
+    "How does the policy ensure that cancellation notices sent by the insurer are deemed received by the insured, and what recourse does the insured have if they do not receive such notice?",
+    "What are the implications of cancelling the policy on any optional covers or endorsements attached, and are refunds calculated separately for these components?",
+    "How does the policy address cancellation in the event of suspected fraud or misrepresentation by the insured, and does this affect refund eligibility?",
+    "If the insured cancels the policy but has already commenced travel or incurred expenses, how does cancellation affect coverage for those events and potential claims?",
+    "What documentation or proof must the insured provide to confirm cancellation, and how does the insurer verify the authenticity of the returned original Certificate of Insurance?",
+    "How does the policy coordinate cancellation provisions with any general exclusions or other sections that might limit or affect cancellation rights and refunds?"
+  ]
+}

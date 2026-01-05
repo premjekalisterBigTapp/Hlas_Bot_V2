@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_policy_50",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "policy",
+    "source_file": "Travel_policy.md",
+    "chunk_index": 50,
+    "content_length": 821,
+    "is_empty": false
+  },
+  "content": "**\"Flight\"** means any air transport provided and operated by a carrier or an airline which is duly licensed for the regular transportation of fare-paying passengers, operating on fixed routes and schedules. This excludes all other modes of transportation that are chartered or arranged as part of a tour, even if the services are regularly scheduled.\n\n**\"Fully Vaccinated\"** means You have been vaccinated with any vaccines, including booster dose, approved under the World Health Organisation Emergency Use Listing (WHO EUL) or Singapore's National Vaccination Programme and You have served the respective duration post-vaccination for the vaccine to be fully effective and which the National Immunisation Registry (NIR) reflects Your vaccinated status.\n\n**\"Home\"** means Your permanent place of residence in Singapore.",
+  "questions": [
+    "How does the definition of 'Flight' distinguish between licensed carriers operating fixed routes and chartered or tour-arranged air transport, and what implications does this have for coverage eligibility when traveling on non-regularly scheduled flights?",
+    "In what ways does the policy's definition of 'Fully Vaccinated' incorporate both WHO Emergency Use Listing vaccines and Singapore's National Vaccination Programme, and how does the requirement to serve a post-vaccination duration and registry confirmation affect claims related to COVID-19 coverage?",
+    "How does the requirement that a vaccine be reflected in the National Immunisation Registry (NIR) interact with the definition of 'Fully Vaccinated' for insured persons who have received booster doses, and what documentation is necessary to prove this status for claim purposes?",
+    "What are the coverage implications if an insured person travels on an air transport service that is chartered or arranged as part of a tour, given the exclusion from the definition of 'Flight' despite the service being regularly scheduled?",
+    "How does the policy define 'Home' in relation to the insured's permanent residence, and what impact does this have on claims involving medical treatment or quarantine that occurs at the insured's residence in Singapore?",
+    "If an insured person receives a vaccine not approved under WHO EUL or Singapore's National Vaccination Programme, how does this affect their status as 'Fully Vaccinated' and potential eligibility for COVID-19 related benefits?",
+    "How does the policy treat the timing of the post-vaccination duration required for a vaccine to be considered fully effective, and what evidence must be provided to demonstrate that this period has been served before a claim is valid?",
+    "In cases where an insured person has been vaccinated overseas with a WHO EUL approved vaccine but the National Immunisation Registry does not reflect their status, how does this affect their classification as 'Fully Vaccinated' under the policy?",
+    "What are the consequences for coverage if an insured person’s permanent place of residence changes during the policy period, particularly in relation to the definition of 'Home' and any benefits or exclusions tied to that location?",
+    "How does the exclusion of chartered or tour-arranged air transport from the definition of 'Flight' interact with general policy exclusions related to non-common carrier transportation modes?",
+    "For claims involving travel disruptions or medical emergencies during a 'Flight,' how does the requirement that the carrier be duly licensed and operating fixed routes and schedules influence the validity of such claims?",
+    "How does the inclusion of booster doses within the 'Fully Vaccinated' definition affect insured persons who have only completed the primary vaccination series, and what are the implications for claims involving COVID-19 infection or quarantine?",
+    "What documentation or proof is required to verify that an insured person’s vaccination status is accurately reflected in the National Immunisation Registry, and how does this affect the processing of claims related to vaccination status?",
+    "How does the policy’s definition of 'Flight' impact coverage for insured persons who use multiple modes of transportation during their trip, particularly when part of the journey involves non-licensed or chartered air transport?",
+    "In what ways does the policy’s definition of 'Home' as a permanent residence in Singapore affect claims for insured persons who are temporarily residing abroad or have multiple residences?",
+    "How does the policy address situations where an insured person receives a vaccine approved by WHO EUL but not yet included in Singapore's National Vaccination Programme, in terms of meeting the 'Fully Vaccinated' criteria?",
+    "What are the implications for claims if an insured person has not served the required duration post-vaccination for the vaccine to be fully effective, despite being vaccinated with an approved vaccine?",
+    "How does the policy distinguish between 'Flight' as defined and other air transport services that may be regularly scheduled but not operated by a duly licensed carrier, and what exclusions apply to such services?",
+    "How does the definition of 'Fully Vaccinated' interact with any policy provisions or exclusions related to pre-existing conditions or optional COVID-19 coverages?",
+    "What is the significance of the policy specifying 'permanent place of residence in Singapore' for 'Home' when determining eligibility for benefits such as repatriation, quarantine, or follow-up medical treatment?"
+  ]
+}

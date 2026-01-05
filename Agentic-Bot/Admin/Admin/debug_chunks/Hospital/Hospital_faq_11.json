@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_faq_11",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "faq",
+    "source_file": "Hospital_FAQs.txt",
+    "chunk_index": 11,
+    "content_length": 415,
+    "is_empty": false
+  },
+  "content": "Q: What does the “Special COVID-19” benefit cover?\nA: The benefit pays you up to the benefit limit if you are diagnosed with COVID-19 during the Period of Insurance and is considered medically necessary by a Registered Medical Practitioner that: You will be confined in an Intensive Care Unit (ICU) in a Hospital for more than five (5) days, or In the event of your death as a direct result of contracting COVID-19.",
+  "questions": [
+    "How does the Special COVID-19 benefit define eligibility in terms of diagnosis timing, medical necessity, and confinement duration for ICU hospitalization?",
+    "What documentation and medical practitioner qualifications are required to prove a COVID-19 diagnosis and ICU confinement for claiming the Special COVID-19 benefit?",
+    "In what scenarios does the Special COVID-19 benefit provide coverage for death, and how is it distinguished from other causes of death under the policy?",
+    "How does the Special COVID-19 benefit interact with general policy exclusions related to pandemics or infectious diseases?",
+    "If a policyholder is diagnosed with COVID-19 but confined in ICU for fewer than five days, how does this affect eligibility for the Special COVID-19 benefit?",
+    "Does the Special COVID-19 benefit cover ICU confinement outside the Period of Insurance or if the diagnosis occurs before the trip?",
+    "How is the benefit limit applied in cases where the insured is confined in ICU for exactly five days versus more than five days?",
+    "What are the implications if the COVID-19 diagnosis is made by a medical practitioner who is not registered or recognized under the policy terms?",
+    "How does the Special COVID-19 benefit address situations where the insured is hospitalized for COVID-19 but not in an ICU?",
+    "Can the Special COVID-19 benefit be claimed if the insured recovers without ICU confinement but suffers long-term complications?",
+    "How does the policy define the Period of Insurance in relation to the timing of COVID-19 diagnosis and ICU confinement for this benefit?",
+    "Are there any exclusions or limitations if the insured contracted COVID-19 due to non-compliance with vaccination or quarantine requirements?",
+    "How does the Special COVID-19 benefit coordinate with other medical expense or hospitalization benefits under the policy?",
+    "What proof or evidence is required to confirm the insured's death was a direct result of contracting COVID-19 for the benefit payout?",
+    "Does the Special COVID-19 benefit cover ICU confinement or death resulting from COVID-19 variants or reinfections during the Period of Insurance?",
+    "How does the benefit handle cases where ICU confinement is medically necessary but delayed or refused by the insured?",
+    "Are there any age or pre-existing condition restrictions that affect eligibility for the Special COVID-19 benefit?",
+    "How does the Special COVID-19 benefit interact with general exclusions related to pandemics, government travel advisories, or quarantine orders?",
+    "If the insured is diagnosed with COVID-19 during the trip but ICU confinement or death occurs after the Period of Insurance, is the benefit payable?",
+    "What is the process and timeline for submitting claims related to the Special COVID-19 benefit, including required medical and hospital records?"
+  ]
+}

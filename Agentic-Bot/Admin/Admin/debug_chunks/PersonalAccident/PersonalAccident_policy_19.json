@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_19",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 19,
+    "content_length": 959,
+    "is_empty": false
+  },
+  "content": "**\"Infectious Disease\"** means the definite and irrevocable diagnosis of any of the following infectious disease by a Registered Medical Practitioner during the Period of Insurance and is supported by acceptable clinical, radiological, histological and laboratory evidence:\n1. Avian Influenza or \"Bird Flu\"\n2. Chikungunya fever\n3. Cholera\n4. Dengue fever\n5. Ebola\n6. Hand, foot and mouth disease\n7. Japanese viral encephalitis\n8. Malaria\n9. Measles\n10. Melioidosis or \"Soil Disease\"\n11. Middle east respiratory syndrome\n12. Mumps\n13. Nipah viral encephalitis\n14. Plague\n15. Rabies\n16. Rubella\n17. Severe acute respiratory syndrome\n18. Tuberculosis\n19. Yellow fever\n20. Zika virus\n\n**\"Injury\"** means physical harm to Your body caused solely and directly by an Accident and not by sickness, disease or gradual physical or mental wear and tear.\n\n**\"Illness\"** means a physical condition contracted marked by pathological deviation from the normal healthy state.",
+  "questions": [
+    "How does the policy define an Infectious Disease for coverage purposes, and what types of medical evidence are required to support a claim during the Period of Insurance?",
+    "In what ways does the policy distinguish between Injury and Illness, and how might this distinction affect claims related to physical harm caused by accidents versus diseases?",
+    "If a traveler is diagnosed with Dengue fever during the trip, what criteria must be met for the diagnosis to be considered valid under the Infectious Disease definition?",
+    "How would the policy treat a condition like Tuberculosis if diagnosed before the Period of Insurance compared to during the Period of Insurance, considering the definition provided?",
+    "What are the implications for coverage if a physical harm results from gradual wear and tear rather than an Accident, based on the Injury definition?",
+    "How does the policy handle claims for diseases not listed under Infectious Disease, such as COVID-19, given the specific list of covered infectious diseases?",
+    "If a traveler contracts Malaria but lacks radiological or histological evidence, how might this affect the validity of the claim under the Infectious Disease definition?",
+    "How does the policy’s definition of Illness as a pathological deviation from normal health impact coverage for chronic conditions versus acute infections?",
+    "What documentation and timing requirements are implied by the need for a definite and irrevocable diagnosis by a Registered Medical Practitioner during the Period of Insurance for Infectious Diseases?",
+    "How would the policy differentiate coverage between an Injury caused by an Accident and an Illness contracted during travel, especially if symptoms overlap?",
+    "If a traveler is diagnosed with an Infectious Disease after the Period of Insurance has ended, how does the policy’s definition affect claim eligibility?",
+    "How does the inclusion of diseases like Severe acute respiratory syndrome and Middle east respiratory syndrome in the Infectious Disease list influence coverage during outbreaks?",
+    "What are the potential challenges in proving a diagnosis of diseases such as Melioidosis or Nipah viral encephalitis given the requirement for clinical, radiological, histological, and laboratory evidence?",
+    "How might the policy treat a scenario where a traveler suffers physical harm that is initially thought to be Injury but is later diagnosed as an Illness?",
+    "In cases where a traveler is diagnosed with multiple Infectious Diseases during the Period of Insurance, how does the policy’s definition affect the assessment of claims?",
+    "How does the policy’s definition of Injury exclude coverage for physical harm caused by sickness or disease, and what examples illustrate this exclusion?",
+    "What role does the timing of diagnosis by a Registered Medical Practitioner play in distinguishing between pre-existing conditions and new Infectious Diseases under this policy?",
+    "How does the policy address the need for irrevocable diagnosis in the context of diseases that may have fluctuating symptoms or require multiple tests for confirmation?",
+    "If a traveler contracts an Infectious Disease not explicitly listed but clinically similar to those listed, how might the policy interpret coverage eligibility?",
+    "How do the definitions of Infectious Disease, Injury, and Illness collectively guide the assessment of claims involving overlapping symptoms or causes during travel?"
+  ]
+}

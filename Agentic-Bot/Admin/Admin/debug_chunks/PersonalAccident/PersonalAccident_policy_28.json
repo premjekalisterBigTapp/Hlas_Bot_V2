@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_28",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 28,
+    "content_length": 972,
+    "is_empty": false
+  },
+  "content": "* For a Third degree burn to the head equal to or greater than 2% but less than 5%, the Scale of Compensation is 50% of the Benefit Limit.\n* For a Third degree burn to the body equal to or greater than 20%, the Scale of Compensation is 100% of the Benefit Limit.\n* For a Third degree burn to the body equal to or greater than 15% but less than 20%, the Scale of Compensation is 75% of the Benefit Limit.\n* For a Third degree burn to the body equal to or greater than 10% but less than 15%, the Scale of Compensation is 50% of the Benefit Limit.\n* For the Loss of hearing in two ears, the Scale of Compensation is 75% of the Benefit Limit.\n* For the Loss of hearing in one ear, the Scale of Compensation is 25% of the Benefit Limit.\n* For the Loss of speech, the Scale of Compensation is 50% of the Benefit Limit.\n* For the Loss by physical severance or Permanent Disablement of the thumb and four fingers of one hand, the Scale of Compensation is 50% of the Benefit Limit.",
+  "questions": [
+    "How does the scale of compensation vary for third degree burns on the head compared to the body, and what are the specific percentage thresholds that determine these compensation levels?",
+    "In cases of third degree burns to the body, how do the compensation percentages change as the affected body surface area increases from 10% to 20%, and what are the exact benefit limits applied at each range?",
+    "What compensation is provided for the loss of hearing in one ear versus both ears, and how do these percentages relate to the overall benefit limit?",
+    "How is the loss of speech compensated under this policy, and how does this compare to the compensation for loss of hearing or burns?",
+    "For physical severance or permanent disablement of the thumb and four fingers of one hand, what percentage of the benefit limit is payable, and how does this compare to other types of losses listed?",
+    "If a third degree burn affects 4% of the head, what scale of compensation applies, and how does this differ from burns affecting less than 2% or more than 5%?",
+    "How does the policy differentiate compensation between third degree burns on the head and those on the body, especially considering the minimum affected area percentages?",
+    "What documentation or medical evidence might be required to substantiate claims for third degree burns of varying percentages and locations to qualify for the stated compensation scales?",
+    "In the event of multiple injuries such as a third degree burn to the body and loss of hearing, how would the compensation scales apply—are they cumulative or subject to any combined limits?",
+    "Does the policy specify any exclusions or conditions that might affect the compensation for burns or sensory losses, such as pre-existing conditions or injury circumstances?",
+    "How does the policy define 'loss by physical severance or permanent disablement' in the context of fingers and thumb, and what proof is necessary to claim the 50% benefit limit?",
+    "Are there any age or eligibility restrictions that affect the compensation percentages for burns, hearing loss, speech loss, or digit severance under this policy?",
+    "How does the policy handle partial losses, for example, if only some fingers are severed or partially disabled, in relation to the stated 50% compensation for the thumb and four fingers?",
+    "What is the process and timeline for filing a claim related to these injuries, and how might delays or incomplete documentation impact the compensation received?",
+    "Are there any general or section-specific exclusions that override the compensation scales for burns or sensory losses, such as injuries resulting from hazardous activities or non-accidental causes?",
+    "How does the policy address cases where the burn percentage is borderline, such as exactly 15% or 20% on the body, in determining the applicable compensation scale?",
+    "In the event of a third degree burn to the head less than 2%, is there any compensation provided, or is this explicitly excluded from coverage?",
+    "Does the policy provide any guidance on how to measure or assess the percentage of body surface area affected by third degree burns for claims purposes?",
+    "How are multiple injuries within the same category, such as burns on both the head and body, compensated—are the percentages additive or is the highest applicable scale used?",
+    "What are the implications for compensation if an insured suffers both loss of speech and loss of hearing in one ear simultaneously—are benefits combined or limited?"
+  ]
+}

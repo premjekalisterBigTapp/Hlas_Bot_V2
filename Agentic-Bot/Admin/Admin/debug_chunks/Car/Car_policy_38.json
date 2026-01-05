@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_38",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 38,
+    "content_length": 878,
+    "is_empty": false
+  },
+  "content": "We will make payment under only one of the sub-sections (1) to (3) above in respect of any one occurrence. If You suffer several injuries, We will pay for the event that gives the highest benefit.\n\n#### 3. The maximum compensation in the aggregate payable by Us under this section of the Policy during the Period of Insurance is:\na. S$20,000 in respect of death or bodily injury suffered by the Policyholder.\nb. S$10,000 per person multiplied by the legal seating capacity of the Insured Vehicle in respect of death or bodily injury suffered by the Authorised Driver or passenger of the Insured Vehicle.\n\nIf the number of persons (including the driver) in the Insured Vehicle at the time of occurrence exceeds the number stated as the legal seating capacity in the Schedule, We shall be liable only for a pro rata proportion of the compensation which otherwise would be payable.",
+  "questions": [
+    "How does the policy determine which sub-section payment applies when multiple injuries occur in a single event, and how is the highest benefit selected?",
+    "What is the maximum aggregate compensation payable for death or bodily injury to the Policyholder during the Period of Insurance, and how does this limit interact with claims involving multiple injuries?",
+    "How is the maximum compensation calculated for death or bodily injury suffered by the Authorised Driver or passengers, and how does the legal seating capacity of the Insured Vehicle affect this calculation?",
+    "In the event that the number of persons in the Insured Vehicle exceeds the legal seating capacity stated in the Schedule, how is the compensation adjusted, and what is the basis for the pro rata proportion?",
+    "If several injuries are sustained by different individuals in the same occurrence, how does the policy decide on payment limits between the Policyholder and other occupants of the Insured Vehicle?",
+    "What documentation or proof might be required to establish the legal seating capacity of the Insured Vehicle when making a claim for bodily injury or death?",
+    "How does the policy handle claims when the actual number of passengers exceeds the legal seating capacity but the Schedule lists a different capacity, especially in relation to compensation limits?",
+    "Are there any conditions under which the policy would pay more than one sub-section benefit for a single occurrence involving multiple injuries?",
+    "How does the aggregate maximum compensation limit apply over multiple claims within the Period of Insurance for the Policyholder and for passengers or drivers?",
+    "In cases where the Insured Vehicle is involved in an accident causing injuries to both the Policyholder and passengers, how are the compensation limits allocated between these groups?",
+    "What happens if the legal seating capacity is not clearly defined or disputed during a claim for bodily injury or death under this section?",
+    "How does the policy define 'Authorised Driver' and how does this definition impact the compensation limits for bodily injury or death?",
+    "If a claim involves injuries to passengers who are not authorised or are exceeding the seating capacity, how does the policy address compensation eligibility and limits?",
+    "How does the policy ensure that compensation payments do not exceed the maximum aggregate limits when multiple claims arise from a single occurrence involving several injured parties?",
+    "What are the implications for compensation if the Insured Vehicle is carrying more passengers than legally allowed but the Schedule has not been updated to reflect this?",
+    "How does the policy treat compensation if the Policyholder is also a passenger in the Insured Vehicle at the time of injury or death?",
+    "In the event of multiple injuries, how does the policy prioritize which injury or event triggers the highest benefit payment under the sub-sections?",
+    "How does the pro rata compensation calculation work practically when the number of occupants exceeds the legal seating capacity, and what examples illustrate this adjustment?",
+    "Are there any exclusions or general policy conditions that might override or limit the maximum compensation amounts stated in this section?",
+    "How does the policy coordinate the maximum compensation limits with other sections or benefits that might cover bodily injury or death arising from the same occurrence?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_27",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 27,
+    "content_length": 961,
+    "is_empty": false
+  },
+  "content": "* For the Loss by physical severance or Permanent Disablement of an arm at or below the elbow, the Scale of Compensation is 100% of the Benefit Limit.\n* For the Loss by physical severance or Permanent Disablement of a leg above the knee, the Scale of Compensation is 100% of the Benefit Limit.\n* For the Loss by physical severance or Permanent Disablement of a leg at or below the knee, the Scale of Compensation is 100% of the Benefit Limit.\n* For the Loss of sight in one eye except perception of light, the Scale of Compensation is 50% of the Benefit Limit.\n* For a Third degree burn to the head equal to or greater than 8%, the Scale of Compensation is 100% of the Benefit Limit.\n* For a Third degree burn to the head equal to or greater than 5% but less than 8%, the Scale of Compensation is 75% of the Benefit Limit.\n* For a Third degree burn to the head equal to or greater than 2% but less than 5%, the Scale of Compensation is 50% of the Benefit Limit.",
+  "questions": [
+    "How does the policy differentiate compensation percentages for permanent disablement of limbs at various anatomical levels, such as an arm at or below the elbow versus a leg above or below the knee?",
+    "In the event of loss of sight in one eye, how is the compensation percentage determined, and what specific vision loss qualifies under this provision?",
+    "What are the compensation scales for third degree burns to the head based on the percentage of body surface area affected, and how do these scales vary between 2%, 5%, and 8% thresholds?",
+    "If a claimant suffers a third degree burn to the head covering 6% of the area, what percentage of the benefit limit will be payable, and how does this compare to burns covering 8% or more?",
+    "How does the policy define 'loss by physical severance' versus 'permanent disablement' for limbs, and do both conditions qualify for the same compensation scale?",
+    "In cases where multiple injuries occur, such as loss of sight in one eye combined with a third degree burn to the head, how are the compensation amounts calculated under the scale of compensation?",
+    "Are there any conditions or exclusions that affect the payout for permanent disablement of limbs at or below the elbow or knee, especially when the injury is partial rather than total severance?",
+    "How does the policy handle compensation if the permanent disablement of a leg occurs exactly at the knee, considering the distinctions made for above and below the knee?",
+    "What documentation or medical evidence is typically required to substantiate claims for third degree burns to the head and their corresponding percentage of body surface area affected?",
+    "If a claimant experiences loss by physical severance of an arm above the elbow, how does the compensation scale apply, given the specified limit at or below the elbow?",
+    "How does the policy address compensation for burns or disablement to body parts other than the head or limbs specified, such as the torso or hands?",
+    "In the event of a third degree burn to the head that is less than 2%, is any compensation provided under this scale, or is it excluded from coverage?",
+    "How are cases handled where the loss of sight in one eye includes perception of light but no functional vision, and does this affect the 50% benefit limit compensation?",
+    "What is the rationale behind assigning 100% of the benefit limit for loss of a leg at or below the knee, and how does this compare to typical industry standards for such injuries?",
+    "If a claimant suffers a third degree burn to the head exactly at 5%, how is the compensation percentage determined between the 50% and 75% benefit limit categories?",
+    "Are there any policy-wide general exclusions or conditions that override the scale of compensation for permanent disablement or burns, such as pre-existing conditions or self-inflicted injuries?",
+    "How does the policy define the measurement of burn percentage on the head for the purpose of applying the scale of compensation, and are there specific medical guidelines referenced?",
+    "In cases where permanent disablement occurs gradually or is diagnosed after a delay, how does the timing of the claim affect the application of the scale of compensation?",
+    "Does the policy provide any provisions for partial compensation if the severity of the injury does not meet the minimum thresholds specified for third degree burns to the head?",
+    "How does the scale of compensation interact with other sections of the policy, such as accidental death benefits or medical expense coverage, when a claimant suffers multiple types of injuries?"
+  ]
+}

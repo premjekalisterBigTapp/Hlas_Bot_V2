@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Maid_policy_72",
+  "metadata": {
+    "product_name": "Maid",
+    "doc_type": "policy",
+    "source_file": "Maid_policy.md",
+    "chunk_index": 72,
+    "content_length": 905,
+    "is_empty": false
+  },
+  "content": "For the above definition, the following are excluded:\n* All tumours which are histologically classified as any of the following:\n* Pre-malignant;\n* Non-invasive;\n* Carcinoma-in-situ;\n* Having borderline malignancy;\n* Having any degree of malignant potential;\n* Having suspicious malignancy;\n* Neoplasm of uncertain or unknown behaviour; or\n* Cervical Dysplasia CIN-1, CIN-2 and CIN-3;\n* Any non-melanoma skin carcinoma unless there is evidence of metastases to lymph nodes or beyond;\n* Malignant melanoma that has not caused invasion beyond the epidermis;\n* All Prostate cancers histologically described as T1N0M0 (TNM Classification) or below; or Prostate cancers of another equivalent or lesser classification;\n* All Thyroid cancers histologically classified as T1N0M0 (TNM Classification) or below;\n* All tumours of the Urinary Bladder histologically classified as T1N0M0 (TNM Classification) or below;",
+  "questions": [
+    "How does the policy define exclusions related to tumours with borderline malignancy or suspicious malignancy, and what documentation is required to prove malignancy beyond these classifications?",
+    "In cases of non-melanoma skin carcinoma, under what conditions would treatment be covered, and how does evidence of metastases to lymph nodes affect claim eligibility?",
+    "What are the implications for claims involving malignant melanoma that has not invaded beyond the epidermis, and how does this exclusion interact with general cancer coverage?",
+    "How are prostate cancers classified as T1N0M0 or below treated under the policy, and what equivalent or lesser classifications would also be excluded from coverage?",
+    "For thyroid cancers classified as T1N0M0 or below, what are the coverage limitations, and how should insured individuals document the histological classification to support claims?",
+    "How does the exclusion of urinary bladder tumours classified as T1N0M0 or below affect claims, and what is the significance of the TNM classification in determining coverage?",
+    "What are the policy's requirements for histological classification in determining whether a tumour is excluded, and how might borderline or uncertain malignancy categories impact claim approval?",
+    "In the context of cervical dysplasia, how do the exclusions of CIN-1, CIN-2, and CIN-3 affect coverage, and what evidence is necessary to differentiate between excluded and covered conditions?",
+    "How does the policy handle claims involving neoplasms of uncertain or unknown behaviour, and what documentation or medical opinions are required to assess coverage eligibility?",
+    "What is the role of histological evidence in distinguishing between pre-malignant and malignant tumours for coverage purposes, and how does this affect claims related to carcinoma-in-situ?",
+    "How do the exclusions for tumours with any degree of malignant potential interact with general exclusions for pre-existing conditions or optional covers for cancer treatment?",
+    "In cases where a tumour is initially classified as non-invasive but later shows invasive characteristics, how does the timing of diagnosis and treatment affect claim validity under the policy?",
+    "What are the implications for insured persons who have tumours classified as carcinoma-in-situ in terms of coverage, and how does this relate to the policy's definitions of covered illnesses?",
+    "How does the policy distinguish between tumours with borderline malignancy and those with suspicious malignancy, and what impact does this distinction have on claim outcomes?",
+    "For tumours excluded due to being histologically pre-malignant, what are the policy's provisions regarding subsequent malignant transformation, and how should claims be handled in such scenarios?",
+    "How do the exclusions related to specific TNM classifications for prostate, thyroid, and urinary bladder cancers affect insured persons undergoing routine screenings or early-stage diagnoses?",
+    "What documentation is required to demonstrate that a non-melanoma skin carcinoma has metastasized beyond the lymph nodes to qualify for coverage under the policy?",
+    "How does the policy address claims for tumours that are initially classified as neoplasm of uncertain behaviour but later confirmed malignant, especially regarding timing and coverage limits?",
+    "In the event of a diagnosis of cervical dysplasia CIN-3, what are the coverage implications, and how does this exclusion interact with any optional cancer-related benefits?",
+    "How do the policy's tumour exclusions interact with general exclusions related to pre-existing conditions, and what are the procedures for insured persons to declare or contest these exclusions?"
+  ]
+}

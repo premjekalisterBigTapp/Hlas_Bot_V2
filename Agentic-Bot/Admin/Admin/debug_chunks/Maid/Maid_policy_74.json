@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Maid_policy_74",
+  "metadata": {
+    "product_name": "Maid",
+    "doc_type": "policy",
+    "source_file": "Maid_policy.md",
+    "chunk_index": 74,
+    "content_length": 747,
+    "is_empty": false
+  },
+  "content": "**2. Heart Attack of Specified Severity**\nDeath of heart muscle due to obstruction of blood flow, that is evident by at least three (3) of the following criteria proving the occurrence of a new heart attack:\n* History of typical chest pain;\n* New characteristic electrocardiographic changes; with the development of any of the following: ST elevation or depression, T wave inversion, pathological Q waves or left bundle branch block;\n* Elevation of the cardiac biomarkers, inclusive of CKMB above the generally accepted normal laboratory levels or Cardiac Troponin T or I at $0.5ng/ml$ and above;\n* Imaging evidence of new loss of viable myocardium or new regional wall motion abnormality. The imaging must be done by Cardiologist specified by Us.",
+  "questions": [
+    "What specific clinical and diagnostic criteria must be met to confirm a heart attack of specified severity under this policy, and how does the requirement for a cardiologist-specified imaging study affect claim validation?",
+    "How does the policy define the necessary combination of symptoms, electrocardiographic changes, biomarker elevations, and imaging evidence to establish a new heart attack event eligible for coverage?",
+    "In cases where a claimant presents with typical chest pain and elevated cardiac biomarkers but lacks new ECG changes, can the heart attack of specified severity be confirmed for claim purposes?",
+    "What role does the elevation threshold of Cardiac Troponin T or I at 0.5 ng/ml play in determining the severity of the heart attack, and how does this interact with other diagnostic criteria?",
+    "How does the policy address the timing and documentation requirements for imaging evidence of new loss of viable myocardium or regional wall motion abnormalities, particularly regarding the cardiologist's designation?",
+    "If a claimant has new characteristic ECG changes including left bundle branch block but no elevation in cardiac biomarkers, can the heart attack be considered as meeting the policy's criteria?",
+    "How are the four criteria weighted or combined to prove the occurrence of a new heart attack, and is it mandatory to have all three criteria simultaneously or can some be substituted?",
+    "What documentation must be provided to demonstrate the history of typical chest pain, and how does this clinical history interact with objective diagnostic findings for claim approval?",
+    "How does the policy distinguish between a new heart attack and a previous myocardial infarction when assessing eligibility for benefits under this section?",
+    "Are there any exclusions or limitations related to pre-existing heart conditions or prior heart attacks that affect coverage for a heart attack of specified severity?",
+    "How does the requirement for imaging evidence performed by a cardiologist specified by the insurer impact claimants who undergo imaging at non-designated facilities?",
+    "In what ways does the policy address potential discrepancies between laboratory cardiac biomarker results and electrocardiographic findings when confirming a heart attack?",
+    "How does the policy handle cases where cardiac biomarker levels are elevated but below the specified threshold of 0.5 ng/ml for Cardiac Troponin T or I?",
+    "What is the significance of requiring at least three of the listed criteria to prove a new heart attack, and how does this affect borderline or incomplete diagnostic cases?",
+    "How does the policy define and verify the 'new' nature of electrocardiographic changes such as ST elevation or pathological Q waves in the context of claim assessment?",
+    "What are the implications for claimants if the imaging evidence shows regional wall motion abnormality but no new loss of viable myocardium, and how does this affect coverage?",
+    "How does the policy ensure that the cardiac biomarkers measured meet the 'generally accepted normal laboratory levels,' and what standards or laboratories are recognized?",
+    "In the event of conflicting diagnostic evidence (e.g., typical chest pain and imaging evidence but no biomarker elevation), how does the insurer determine claim eligibility for heart attack coverage?",
+    "Are there any specified time frames within which the diagnostic criteria must be documented to qualify as a new heart attack under this policy?",
+    "How does the policy address the potential need for repeat testing or follow-up imaging to confirm the diagnosis of a heart attack of specified severity for claims processing?"
+  ]
+}

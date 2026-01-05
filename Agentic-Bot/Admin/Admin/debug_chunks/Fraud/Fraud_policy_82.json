@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_82",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 82,
+    "content_length": 307,
+    "is_empty": false
+  },
+  "content": "ii. A credit or debit card transaction for the premium is approved by the issuing bank;\n    iii. A payment through an electronic medium including the internet is approved by the relevant party;\n    iv. A credit in favour of Us or the intermediary is made through an electronic medium including the internet.",
+  "questions": [
+    "How does the approval of a credit or debit card transaction by the issuing bank affect the validity of premium payment under this policy, and what documentation is required to prove such approval?",
+    "In what ways does payment through an electronic medium, including the internet, require approval by the relevant party to be considered valid for premium payment, and how is this approval verified?",
+    "What are the conditions under which a credit made in favor of the insurer or intermediary through an electronic medium, including the internet, is recognized as a valid premium payment, and how does this impact the commencement of coverage?",
+    "How do the different methods of premium payment approval (credit/debit card, electronic medium approval, credit to insurer/intermediary) interact with the policy's payment-before-cover warranty, if any?",
+    "If a credit or debit card transaction is declined by the issuing bank, how does this affect the policy's effective date and coverage, considering the approval requirement stated?",
+    "What are the implications for premium payment validity if an electronic payment is made but not approved by the relevant party, and how does this relate to the insurer's obligation to provide coverage?",
+    "How does the policy treat situations where a credit is made to the intermediary but not directly to the insurer through an electronic medium, in terms of premium payment confirmation and coverage activation?",
+    "In cases where multiple payment methods are used (e.g., partial credit card payment and partial electronic transfer), how does the policy determine if the premium payment is fully approved and coverage is in force?",
+    "What documentation or proof is required from the insured to demonstrate that a credit or debit card transaction was approved by the issuing bank for premium payment purposes?",
+    "How does the policy define the 'relevant party' responsible for approving electronic payments, and what happens if there is a dispute about such approval?",
+    "Are there any time limits or windows within which the approval of payment via credit/debit card or electronic medium must occur to ensure coverage is effective from the intended date?",
+    "How does the policy handle situations where a credit is made in favor of the insurer or intermediary through an electronic medium but is later reversed or refunded before coverage begins?",
+    "What are the consequences if the electronic payment is approved by the relevant party but the funds are not successfully transferred to the insurer or intermediary?",
+    "How does the policy address potential fraud or unauthorized transactions in credit/debit card or electronic payments when determining the validity of premium payment?",
+    "In the context of this policy, how does the approval of premium payment via electronic means interact with any general exclusions related to payment or coverage activation?",
+    "If an insured uses a third-party payment service for electronic payment, how does the policy ensure that approval by the relevant party is obtained and recognized?",
+    "How does the policy distinguish between approval of payment and actual receipt of funds when considering the effective date of coverage?",
+    "What procedures must the insured follow if a payment made through an electronic medium is not approved, to ensure that coverage is not delayed or denied?",
+    "How does the policy address situations where the intermediary receives a credit through an electronic medium but fails to forward the payment to the insurer, in terms of coverage validity?",
+    "In cases where the insured disputes the approval status of a credit or debit card transaction or electronic payment, what evidence is required to resolve the dispute under the policy terms?"
+  ]
+}

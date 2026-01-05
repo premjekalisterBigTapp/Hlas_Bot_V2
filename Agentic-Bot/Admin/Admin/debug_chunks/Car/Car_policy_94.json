@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_94",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 94,
+    "content_length": 970,
+    "is_empty": false
+  },
+  "content": "#### M10 - Third Party Indemnity To Employer\nIt is hereby understood and agreed that in the terms of and subject to the limitations of the indemnity which is granted by Section II of this Policy to the Policyholder, the Company will indemnify the Employer of the Policyholder (named in the Schedule of the Policy) whilst any Insured Vehicle in connection with which indemnity is granted under this Policy (other than an Insured Vehicle belonging to the Employer or hired to him under a Hire Purchase Agreement) is being used upon the business of the Employer provided that such indemnity shall not include liability for death or bodily injury sustained by any person arising out of and in the course of the employment of such person by the Employer.\n\nProvided always that the Employer:\n(a) is not entitled to indemnity under any other policy.\n(b) shall as though he were the Policyholder observe fulfil and be subject to the Terms of this Policy in so far as they apply.",
+  "questions": [
+    "How does the indemnity provided to the Employer under Section II interact with the exclusion of liability for death or bodily injury to employees during their employment?",
+    "In what circumstances is the Employer entitled to indemnity when an Insured Vehicle is used on the Employer's business, and how does ownership or hire purchase status of the vehicle affect this entitlement?",
+    "What conditions must the Employer fulfill to be eligible for indemnity, particularly regarding the existence of other insurance policies covering the same liability?",
+    "How does the requirement for the Employer to observe and fulfill the Policy Terms as if they were the Policyholder impact the application of indemnity?",
+    "What limitations are placed on indemnity for Insured Vehicles belonging to or hired by the Employer under a Hire Purchase Agreement?",
+    "How does the policy exclude liability for death or bodily injury arising out of employment, and what implications does this have for claims involving employee injuries?",
+    "Under what conditions would indemnity to the Employer be denied due to the Employer having coverage under another policy?",
+    "How does the indemnity to the Employer apply when the Insured Vehicle is used for business purposes but is not owned or hired by the Employer?",
+    "What are the implications of the Employer being required to comply with all Policy Terms in relation to the indemnity provided under this section?",
+    "How does the indemnity clause address situations where the Insured Vehicle is involved in an incident causing injury to a third party who is not an employee?",
+    "What documentation or proof might be necessary to establish that the Employer is not entitled to indemnity under any other policy?",
+    "How does the exclusion of liability for employee death or bodily injury interact with general policy exclusions related to bodily injury?",
+    "In cases where the Employer uses multiple Insured Vehicles, how does the indemnity apply if some vehicles are owned by the Employer and others are not?",
+    "How does the indemnity provision handle scenarios where the Insured Vehicle is used outside the scope of the Employer's business?",
+    "What are the consequences if the Employer fails to observe or fulfill the Terms of the Policy as required for indemnity eligibility?",
+    "How does the indemnity to the Employer under this section relate to indemnity provided directly to the Policyholder under Section II?",
+    "What is the significance of specifying that indemnity is granted 'whilst any Insured Vehicle... is being used upon the business of the Employer'?",
+    "How might the exclusion of liability for employee injury affect claims involving subcontractors or temporary workers employed by the Employer?",
+    "What role does the Schedule of the Policy play in identifying the Employer eligible for indemnity under this section?",
+    "How does the policy distinguish between indemnity coverage for the Employer and coverage for the Policyholder in terms of vehicle ownership and usage?"
+  ]
+}

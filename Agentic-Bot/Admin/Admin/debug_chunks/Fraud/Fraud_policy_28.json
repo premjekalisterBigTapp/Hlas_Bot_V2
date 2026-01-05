@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_28",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 28,
+    "content_length": 953,
+    "is_empty": false
+  },
+  "content": "### Section 2. Fund Transfer Fraud\n\nIf during the Period of Insurance, You first discovered the occurrence of any of the following Fund Transfer Fraud Event:\n\n1. the fraudulent electronic transfer of funds or property from Your Personal Account by a Third Party;\n2. any Electronic Communication first received by You to defraud You and You acted in good faith upon request in the said Electronic Communication, transferred funds or property from the Your Personal Account, to the account of a Third Party; or\n3. the fraudulent unauthorised use of or electronic transfer of funds stored in Your personal Digital Wallet held by an Online Merchant;\n\nWe will pay You, up to the Benefit Limit, for the:\n\n(a) loss of funds from Your Personal Account or from Your Digital Wallet;\n\n(b) any associated fees, penalties or interest incurred by You which have been levied by the financial institution with whom You hold Your Personal Account or the Online Merchant;",
+  "questions": [
+    "How does the policy define a Fund Transfer Fraud Event, and what types of electronic fund transfers or communications must be first discovered during the Period of Insurance to qualify for coverage?",
+    "In what scenarios involving Electronic Communications acting in good faith can a policyholder claim losses under Fund Transfer Fraud, and how is the timing of first receipt of such communications relevant?",
+    "What are the coverage limits and conditions for losses arising from fraudulent unauthorized use of funds stored in a personal Digital Wallet held by an Online Merchant?",
+    "How does the policy address coverage for associated fees, penalties, or interest levied by financial institutions or Online Merchants following a Fund Transfer Fraud Event?",
+    "What documentation or proof might be required to demonstrate that a fraudulent electronic transfer from a Personal Account or Digital Wallet occurred during the Period of Insurance?",
+    "Are losses from Fund Transfer Fraud covered if the fraudulent transfer occurred before the Period of Insurance but was only discovered during the Period of Insurance?",
+    "How does the policy distinguish between losses from fraudulent electronic transfers initiated by a Third Party versus those resulting from the policyholder acting on fraudulent Electronic Communications?",
+    "What exclusions or general policy-wide limitations might affect claims related to Fund Transfer Fraud, especially regarding acts committed by the policyholder or related parties?",
+    "Does the policy provide coverage if the policyholder did not act in good faith upon receiving the fraudulent Electronic Communication, and how is good faith determined?",
+    "How are losses from fraudulent transfers involving both a Personal Account and a Digital Wallet handled if both are affected during the same Fund Transfer Fraud Event?",
+    "What is the process for calculating the Benefit Limit for Fund Transfer Fraud claims, and does it include recovery of associated financial institution fees and penalties?",
+    "Are there any conditions or warranties related to the security of the Personal Account or Digital Wallet that the policyholder must meet for Fund Transfer Fraud coverage to apply?",
+    "How does the policy treat multiple Fund Transfer Fraud Events discovered within the same Period of Insurance—are they aggregated under one Benefit Limit or treated separately?",
+    "Is coverage provided if the fraudulent electronic transfer was initiated through a compromised device or network, and does the policy exclude losses due to negligence in device security?",
+    "What role does the timing of discovery versus the timing of the fraudulent transfer play in determining eligibility for Fund Transfer Fraud benefits?",
+    "How does the policy handle claims where the policyholder transferred funds to a Third Party account as a result of a fraudulent Electronic Communication but later recovers some or all of the funds?",
+    "Are losses from Fund Transfer Fraud covered if the Digital Wallet is not held by an Online Merchant but by another type of service provider?",
+    "Does the policy require the policyholder to report the Fund Transfer Fraud Event to law enforcement or financial institutions, and how does this affect claim approval?",
+    "How are penalties or interest charges calculated and verified when claimed as part of the associated fees under Fund Transfer Fraud coverage?",
+    "In cases where the policyholder’s Personal Account and Digital Wallet are linked, how does the policy address overlapping losses or fees resulting from a single fraudulent event?"
+  ]
+}

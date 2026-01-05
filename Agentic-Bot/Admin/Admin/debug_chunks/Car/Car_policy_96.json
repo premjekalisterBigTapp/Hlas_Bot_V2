@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_96",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 96,
+    "content_length": 978,
+    "is_empty": false
+  },
+  "content": "This cover is subject to the following conditions:\n1. We will not pay any transport allowance for any accident repair not authorised by Our appointed surveyor or loss adjuster\n2. We will not pay You any amount beyond the repair period recommended by Our appointed surveyor or loss adjuster even if the repairs take longer. If the Insured Vehicle is repaired sooner than expected, We will only pay You for the number of days it actually took to repair the Insured Vehicle\n3. the daily transport allowance will not be paid if You are provided with a courtesy vehicle by the repairer while the Insured Vehicle is being repaired\n4. the daily transport allowance will not be paid for any repair or replacement of windscreen and/or window(s) or a total loss or constructive total loss claim or when the repairs of the Insured Vehicle is delayed due to whatever reason(s)\n5. the total amount payable by Us under this endorsement shall not exceed S$1,000 during the Period of Insurance.",
+  "questions": [
+    "How does the requirement for authorization by the appointed surveyor or loss adjuster affect the eligibility for transport allowance when repairs are conducted without such approval?",
+    "In what scenarios would the insurer limit the transport allowance payment to the repair period recommended by the appointed surveyor or loss adjuster, and how does this apply if repairs are completed earlier than expected?",
+    "How does the provision of a courtesy vehicle by the repairer impact the entitlement to daily transport allowance during the repair period of the insured vehicle?",
+    "Why are transport allowances excluded for repairs involving only windscreen and/or window replacement, and how does this exclusion interact with claims involving total loss or constructive total loss of the insured vehicle?",
+    "What are the implications of repair delays on the payment of daily transport allowance, and how does the insurer handle claims when repairs extend beyond the recommended repair period due to any reason?",
+    "How does the maximum total payable amount of S$1,000 during the Period of Insurance affect multiple claims for transport allowance within the same policy period?",
+    "If the insured vehicle undergoes repairs without the appointed surveyor's authorization but the repairer provides a courtesy vehicle, is the daily transport allowance payable?",
+    "How does the insurer treat transport allowance claims when the insured vehicle is declared a constructive total loss, and what conditions exclude payment in such cases?",
+    "In cases where the repair period recommended by the appointed surveyor is shorter than the actual repair time, how is the transport allowance calculated and limited?",
+    "What documentation or evidence might be required to prove that the repair period was as recommended by the appointed surveyor or loss adjuster to qualify for transport allowance?",
+    "How does the exclusion of transport allowance for windscreen and window repairs interact with claims for other types of vehicle damage occurring simultaneously?",
+    "If repairs are delayed due to factors outside the insured's control, such as parts availability, how does this affect the transport allowance entitlement under the policy conditions?",
+    "Can the insured claim transport allowance if the repairer does not provide a courtesy vehicle but the repair involves only window replacement, and why or why not?",
+    "How does the policy handle situations where multiple repair periods occur within the same insurance period, and the total transport allowance claimed approaches the S$1,000 limit?",
+    "What is the effect of the insurer's appointed surveyor or loss adjuster not being involved in assessing the repair period on the transport allowance claim?",
+    "How does the policy distinguish between repair periods for partial repairs versus total loss or constructive total loss scenarios in relation to transport allowance eligibility?",
+    "If the insured vehicle is repaired sooner than the surveyor's recommended period, how is the transport allowance adjusted, and what proof is needed to support this claim?",
+    "Under what conditions would the insurer refuse to pay transport allowance if the insured vehicle's repairs are delayed, and how is 'delay' defined or interpreted in this context?",
+    "How do the policy conditions address the situation where the insured receives a courtesy vehicle but still incurs transport costs, and is any allowance payable in such cases?",
+    "What is the interplay between the maximum total payable amount and the daily transport allowance rate when calculating the total compensation for transport allowance claims?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Maid_policy_47",
+  "metadata": {
+    "product_name": "Maid",
+    "doc_type": "policy",
+    "source_file": "Maid_policy.md",
+    "chunk_index": 47,
+    "content_length": 743,
+    "is_empty": false
+  },
+  "content": "**Description of Permanent Disablement: (iv) Permanent insanity**\n* Percentage: 100%\n\n**Description of Permanent Disablement: (v) Loss of sight in one eye except perception of light**\n* Percentage: 50%\n\n**Description of Permanent Disablement: (vi) Third degree burn**\n* (a) head:\n    * equals to or greater than 8%: 100%\n    * equals to or greater than 5% but less than 8%: 75%\n    * equals to or greater than 2% but less than 5%: 50%\n* (b) body:\n    * equals to or greater than 20%: 100%\n    * equals to or greater than 15% but less than 20%: 75%\n    * equals to or greater than 10% but less than 15%: 50%\n\n**Description of Permanent Disablement: (vii) Loss of:**\n* (a) hearing in two ears: 75%\n* (b) hearing in one ear: 25%\n* (c) speech: 50%",
+  "questions": [
+    "How does the policy define the percentage of permanent disablement for permanent insanity, and how might this affect the overall compensation compared to other types of disablement?",
+    "In cases of loss of sight in one eye except perception of light, what percentage of permanent disablement is assigned, and how does this compare to losses involving other senses such as hearing or speech?",
+    "For third degree burns on the head, how do the specified percentage thresholds (2%, 5%, 8%) determine the level of permanent disablement compensation, and what documentation might be required to verify the burn extent?",
+    "How are third degree burns on the body categorized by percentage, and what are the corresponding permanent disablement percentages for burns covering 10%, 15%, and 20% of the body?",
+    "What is the difference in permanent disablement percentage between hearing loss in one ear versus both ears, and how might this distinction impact claims involving partial versus total hearing loss?",
+    "How does the policy quantify permanent disablement for loss of speech, and in what scenarios might this benefit be claimed alongside other sensory losses such as hearing?",
+    "If a claimant suffers third degree burns on both the head and body, how would the policy calculate the combined permanent disablement percentage, and are there any limits or aggregation rules specified?",
+    "What are the implications of the percentage scale for third degree burns on the head being lower than that for the body for similar burn extents, and how might this affect claims involving burns in multiple areas?",
+    "In the event of permanent insanity, which is assigned a 100% disablement, how does this compare to other conditions in terms of benefit payout, and are there any exclusions or conditions that might affect this coverage?",
+    "How might the policy handle claims where the loss of sight in one eye is partial but includes perception of light, given that the policy specifies 50% disablement except for perception of light?",
+    "For hearing loss, how does the policy differentiate between unilateral and bilateral loss in terms of percentage, and what medical evidence would be necessary to substantiate such claims?",
+    "What are the potential challenges in assessing the percentage of third degree burns, especially when the affected area is near the threshold percentages, and how might this influence the final disablement rating?",
+    "How does the policy address the scenario where a claimant experiences both loss of speech and hearing loss in one or both ears, and are the percentages additive or subject to a maximum limit?",
+    "Are there any specific definitions or exclusions related to permanent insanity that might affect eligibility for the 100% permanent disablement benefit under this policy?",
+    "In cases where the extent of third degree burns is difficult to measure precisely, what standards or medical assessments does the policy rely on to determine the applicable percentage for permanent disablement?",
+    "How does the policy treat partial hearing loss that does not meet the criteria for total loss in one or both ears, and is there any provision for partial percentages below the stated 25% or 75%?",
+    "What documentation or medical reports are typically required to prove permanent disablement percentages for sensory losses such as sight, hearing, and speech under this policy?",
+    "If a claimant suffers a combination of permanent disablements listed (e.g., loss of speech and third degree burns on the head), how does the policy calculate the total compensation, and are there any rules preventing double counting?",
+    "How might pre-existing conditions affecting sight, hearing, or speech influence the assessment of permanent disablement percentages under this policy, and are there any clauses addressing this?",
+    "Does the policy specify any waiting periods or time frames within which permanent disablement must be assessed or claimed following the injury, particularly for conditions like permanent insanity or sensory losses?"
+  ]
+}

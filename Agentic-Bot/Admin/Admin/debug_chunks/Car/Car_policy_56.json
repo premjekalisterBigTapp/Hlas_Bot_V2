@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_56",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 56,
+    "content_length": 474,
+    "is_empty": false
+  },
+  "content": "iv. A credit in favour of Us or the intermediary is made through an electronic medium including the internet.\nb. In the event that the total premium due is not paid to the Us (or the intermediary through whom this Policy or Bond was effected) on or before the inception date or the renewal date, then the insurance shall not attach and no benefits whatsoever shall be payable by Us. Any payment received thereafter shall be of no effect whatsoever as cover has not attached.",
+  "questions": [
+    "How does the policy define the acceptable methods for premium payment, and what are the consequences if the total premium is not received by the insurer or intermediary on or before the inception or renewal date?",
+    "In what scenarios would a credit made through electronic means, such as the internet, be recognized as valid premium payment, and how does this affect the attachment of insurance coverage?",
+    "What is the impact on benefit entitlement if the premium payment is delayed beyond the policy inception or renewal date, even if payment is eventually received?",
+    "How does the policy address the timing of premium payments in relation to the inception and renewal dates, and what documentation might be required to prove timely payment via electronic methods?",
+    "If a premium payment is made through an intermediary but not credited to the insurer by the inception date, how does this affect the validity of the insurance coverage and claim eligibility?",
+    "What are the implications for coverage attachment if the premium is partially paid before the inception date but the total premium is not fully settled until after the inception date?",
+    "How does the policy treat premium payments made after the renewal date in terms of coverage continuity and benefit entitlement?",
+    "In cases where the premium is paid electronically but the transaction fails or is reversed before the inception date, how does this affect the insurance coverage and claims?",
+    "What conditions must be met for the insurer to consider a premium payment effective when made through electronic mediums, and how does this relate to the timing of coverage attachment?",
+    "How does the policy handle situations where the insured believes payment was made on time electronically, but the insurer or intermediary has no record of receipt by the inception or renewal date?",
+    "What are the consequences under the policy if the insured attempts to make premium payment after the inception date but before any claim event occurs?",
+    "How does the policy distinguish between payment receipt by the insurer versus the intermediary in determining whether coverage has attached?",
+    "What is the policy's stance on premium payments made via electronic credit after the renewal date in terms of reinstatement or new coverage periods?",
+    "How does the requirement for premium payment on or before the inception or renewal date interact with any grace periods or automatic extensions that might otherwise apply?",
+    "In the event of a dispute over the timing of premium payment via electronic means, what evidence or proof does the policy imply is necessary to establish coverage attachment?",
+    "How does the policy address the risk of non-payment or late payment of premiums in relation to the insurer's obligation to pay benefits under the policy?",
+    "What happens to the policy status and benefit entitlement if the premium payment is made on the inception date but credited only after the inception date due to processing delays?",
+    "How does the policy ensure that payments made through electronic mediums are securely and accurately credited to the correct policy to avoid coverage lapses?",
+    "What are the implications for claims if the insured pays the premium electronically but the payment is credited to a different policy or intermediary account?",
+    "How does the policy's payment-before-cover warranty affect the insured's ability to claim benefits if premium payment is not confirmed by the inception or renewal date?"
+  ]
+}

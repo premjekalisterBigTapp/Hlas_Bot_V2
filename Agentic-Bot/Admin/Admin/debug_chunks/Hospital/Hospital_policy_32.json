@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_policy_32",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "policy",
+    "source_file": "Hospital_policy.md",
+    "chunk_index": 32,
+    "content_length": 954,
+    "is_empty": false
+  },
+  "content": "1. Suicide or attempted suicide, self-injury or wilful exposure to peril (other than in an attempt to save human life);\n2. Pregnancy, miscarriage, abortion or childbirth;\n3. Infectious Diseases (except for COVID-19 cover under Section 4), venereal disease, HIV related illness including AIDS (Acquired Immune Deficiency Syndrome) and/or any mutant derivatives or variations of this however caused;\n4. Mental and nervous or sleep disorders, including but not limited to insanity or any diagnosed psychological or psychiatric disorder, anxiety or depression;\n5. Any Pre-Existing Conditions;\n6. You being under the influence of drugs (other than those prescribed by a Registered Medical Practitioner but not when prescribed for the treatment of drug addiction);\n7. You being under the influence of alcohol, unless it can be established to Our reasonable satisfaction by any claimant that alcohol was not a factor contributing to the happening of the Injury;",
+  "questions": [
+    "How does the policy address claims arising from suicide or attempted suicide, and are there any exceptions related to attempts to save human life?",
+    "In what ways are pregnancy-related events such as miscarriage, abortion, or childbirth excluded from coverage, and do any exceptions apply?",
+    "What are the exclusions related to infectious diseases, and how does the policy treat COVID-19 differently under Section 4?",
+    "How are mental, nervous, or sleep disorders treated under the policy, and what specific conditions like anxiety or depression are excluded?",
+    "What is the policy's stance on coverage for pre-existing conditions, and how does this exclusion interact with other sections of the policy?",
+    "Under what circumstances does the policy exclude claims related to drug influence, and how are prescribed drugs treated differently from those used for drug addiction?",
+    "How does the policy handle claims where alcohol influence is involved, and what proof is required to establish that alcohol was not a contributing factor to the injury?",
+    "Are there any interactions between the exclusions for infectious diseases and the general exclusions for pre-existing conditions or mental disorders?",
+    "How does the exclusion of self-injury or wilful exposure to peril apply if the act was committed in an attempt to save another person’s life?",
+    "What documentation or evidence might be required to demonstrate that alcohol was not a factor in an injury claim under the policy?",
+    "How does the exclusion of pregnancy-related conditions affect claims for complications arising during travel, and are there any exceptions for emergency medical treatment?",
+    "In cases where a claimant has a diagnosed psychological disorder, how does the policy exclusion for mental and nervous disorders impact coverage for related medical expenses?",
+    "Does the policy provide any coverage for injuries or illnesses caused by mutant derivatives or variations of infectious diseases, and how is this exclusion applied?",
+    "How are claims affected if the insured was under the influence of prescribed drugs that are not for drug addiction treatment at the time of injury?",
+    "What are the implications of the exclusion of pre-existing conditions on optional covers or riders that might be available in the policy?",
+    "How does the policy distinguish between wilful exposure to peril and accidental injury, and what are the consequences for claims arising from such acts?",
+    "Are there any exceptions or special provisions for coverage related to COVID-19 under Section 4 that override the general infectious disease exclusion?",
+    "How does the policy treat claims related to HIV/AIDS and its mutant variations, and are there any circumstances under which such claims might be considered?",
+    "What is the policy’s approach to claims involving self-inflicted injuries that occur during a mental health crisis, given the exclusions for mental disorders and self-injury?",
+    "How do the exclusions for drug and alcohol influence interact if both substances were involved in the injury, and what evidence is required to assess contributory factors?"
+  ]
+}

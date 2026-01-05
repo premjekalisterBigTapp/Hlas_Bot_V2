@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Home_policy_91",
+  "metadata": {
+    "product_name": "Home",
+    "doc_type": "policy",
+    "source_file": "Home_policy.md",
+    "chunk_index": 91,
+    "content_length": 831,
+    "is_empty": false
+  },
+  "content": "Consequently the following are excluded from this Policy:-\n    a. Loss of or damage to data or software, but not limited to any detrimental change in data, software or computer programs that is caused by a deletion, a corruption or a deformation of the original structure, and any business interruption losses resulting from such loss or damage. Notwithstanding this exclusion, loss or damage to data or software, which is the direct consequence of insured physical damage to the substance of property, shall be covered.\n    b. Loss or damage resulting from an impairment in the function, availability, range of use or accessibility of data, software or computer programs that is caused by a deletion, a corruption or a deformation of the original structure, and any business interruption losses resulting from such loss or damage.",
+  "questions": [
+    "How does the policy differentiate coverage between physical damage to property causing data loss and losses solely due to data corruption or deletion without physical damage?",
+    "In what scenarios would business interruption losses related to data or software be excluded, and when might they be covered under this policy?",
+    "How are losses from impairment in the function or accessibility of software treated differently from losses caused by physical damage to property?",
+    "What documentation or evidence might be required to prove that data loss was a direct consequence of insured physical damage to property to qualify for coverage?",
+    "How does the exclusion of loss or damage to data or software affect claims related to cyberattacks that do not cause physical damage?",
+    "If a software program becomes unusable due to corruption without any physical damage to the device, how would the policy handle such a claim?",
+    "Are business interruption losses resulting from software corruption covered if the corruption is indirectly caused by insured physical damage to property?",
+    "How does the policy address claims involving loss of data caused by a deletion or deformation of software structure when no physical damage is present?",
+    "What is the impact of the exclusion on claims involving loss of data stored on physical property that has been physically damaged by an insured event?",
+    "How does the policy treat loss or damage claims when the impairment is due to reduced availability or range of use of software without physical damage?",
+    "In cases where data corruption leads to a consequential loss of business income, under what conditions would such losses be excluded or covered?",
+    "How would the policy respond to a claim for damage to computer programs caused by a virus that does not cause physical damage to hardware?",
+    "What are the implications of the exclusion clauses on claims involving software malfunction that results from a physical damage event covered by the policy?",
+    "How does the policy distinguish between damage to the substance of property and damage to intangible data or software in terms of coverage eligibility?",
+    "If a physical event damages hardware and causes subsequent data loss, how does the policy address coverage for both hardware and data losses?",
+    "What limitations does the policy impose on coverage for losses related to the accessibility or function of software programs?",
+    "How are claims handled when the loss involves deformation of the original structure of software without any physical damage to the device?",
+    "Does the policy provide any coverage for losses caused by deletion or corruption of data that is not linked to physical damage, and what are the consequences?",
+    "How do the exclusions affect coverage for business interruption losses that arise solely from software or data impairment without physical property damage?",
+    "In what ways does the policy's exclusion of data and software loss interact with other general exclusions that might apply to electronic or intangible assets?"
+  ]
+}

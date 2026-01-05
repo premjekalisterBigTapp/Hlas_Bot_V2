@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_42",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 42,
+    "content_length": 55,
+    "is_empty": false
+  },
+  "content": "### GENERAL EXCLUSIONS\n(Applicable to the whole Policy)",
+  "questions": [
+    "How do the General Exclusions apply across different sections of the policy, and what impact do they have on claims involving pre-existing conditions or quarantine requirements?",
+    "In what ways do the General Exclusions override or interact with section-specific exclusions when a claim involves both general and specific policy provisions?",
+    "How are claims affected if a traveler fails to meet vaccination requirements, considering the General Exclusions and any applicable exemptions?",
+    "What documentation and timing requirements must be met to avoid denial of claims under the General Exclusions, especially in cases involving police or carrier reports?",
+    "How do the General Exclusions address claims related to publicly known events or travel alerts, and how does this influence coverage for trip cancellations or interruptions?",
+    "What are the implications of the General Exclusions on claims involving quarantine or COVID-specific provisions, particularly regarding automatic extensions or coverage limits?",
+    "How does the policy handle claims for items covered under the pair-and-sets clause in light of the General Exclusions?",
+    "In cases where a traveler is above the age limit for coverage, how do the General Exclusions affect the validity of claims and the applicability of optional covers?",
+    "How do the General Exclusions interact with the payment-before-cover warranty, and what consequences arise if premiums are not paid timely?",
+    "What is the role of subrogation and sanctions within the General Exclusions, and how do they influence the insurer's rights and the claimant's obligations?",
+    "How do the General Exclusions define and limit coverage for losses involving immediate family members, especially when multiple family members are involved in a single claim?",
+    "In what scenarios do the General Exclusions exclude coverage for claims arising from travel on common carriers, and how is 'common carrier' defined in this context?",
+    "How do the General Exclusions affect claims for medical expenses incurred overseas versus those incurred in Singapore, particularly regarding follow-up treatments?",
+    "What are the consequences under the General Exclusions if a traveler fails to report loss or damage to the police or carrier within the required time frames?",
+    "How do the General Exclusions address claims related to unattended property, and what conditions must be met to avoid denial of such claims?",
+    "In what ways do the General Exclusions impact claims involving itemized bills or receipts, and what documentation standards are required to support a claim?",
+    "How do the General Exclusions apply to claims involving publicly known events that occur after the policy is purchased but before the trip starts?",
+    "What is the effect of the General Exclusions on claims involving travel postponement or curtailment due to events excluded under the policy?",
+    "How do the General Exclusions interact with optional covers for pre-existing conditions, and what conditions must be met for coverage to apply?",
+    "How do the General Exclusions influence the handling of claims involving automatic extensions of coverage, such as those related to quarantine or delayed return?"
+  ]
+}

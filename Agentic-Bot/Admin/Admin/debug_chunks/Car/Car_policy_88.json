@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_88",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 88,
+    "content_length": 658,
+    "is_empty": false
+  },
+  "content": "#### M06 - Legal Liability Of Passengers For Acts Of Negligence\nIt is hereby understood and agreed that the Company will at the request of the Policyholder indemnify in terms of Section II of this Policy any person mounting into dismounting from or travelling in the Insured Vehicle such person being hereinafter called \"the Passenger\".\n\nProvided that the Passenger:\n1. is not driving the Insured Vehicle or is in charge of the Insured Vehicle for the purpose of driving,\n2. is not entitled to indemnity under any other policy, and\n3. shall as though he were the Policyholder observe fulfil and be subject to the Terms of this Policy in so far as they apply.",
+  "questions": [
+    "How does the policy define the eligibility of a Passenger for indemnity under Section II when they are mounting, dismounting, or travelling in the Insured Vehicle, and what conditions must the Passenger meet regarding driving status and other insurance coverage?",
+    "In what scenarios would a Passenger be excluded from indemnity under this section if they are in charge of the Insured Vehicle for the purpose of driving, and how does this affect claims related to acts of negligence?",
+    "How does the requirement that the Passenger must not be entitled to indemnity under any other policy interact with potential overlapping coverages, and what documentation might be needed to prove this condition?",
+    "What obligations does the Passenger have to observe, fulfil, and be subject to the Terms of the Policy as if they were the Policyholder, and how might failure to comply impact indemnity for acts of negligence?",
+    "How does the indemnity provided to Passengers under this section relate to the overall limits and exclusions specified in Section II of the Policy, especially in cases of negligence claims?",
+    "If a Passenger is injured while mounting or dismounting the Insured Vehicle, how does the policy determine their eligibility for indemnity, considering the conditions related to driving and other insurance?",
+    "How would indemnity be affected if a Passenger is found to be driving the Insured Vehicle without authorization, and what exclusions apply in such a case under this section?",
+    "In cases where a Passenger has a separate insurance policy that could cover the same liability, how does the policy handle indemnity requests, and what proof is required to establish non-entitlement under other policies?",
+    "What are the implications for indemnity if the Passenger fails to comply with any applicable terms of the Policy, such as reporting requirements or cooperation during claims investigation?",
+    "How does the policy treat indemnity requests for Passengers who are neither driving nor in charge of the vehicle but are involved in negligent acts causing damage or injury, and what conditions must be met?",
+    "Can indemnity under this section be claimed by Passengers who are temporarily in charge of the Insured Vehicle but not for the purpose of driving, and how is this distinction determined?",
+    "How does the policy address indemnity for Passengers in cases where the Insured Vehicle is used for purposes not covered under the Policy, and what exclusions might apply?",
+    "What documentation or evidence is typically required to prove that a Passenger was not driving or in charge of the Insured Vehicle for the purpose of driving at the time of the negligent act?",
+    "How does the indemnity for Passengers under this section interact with any general policy exclusions related to intentional acts or criminal conduct?",
+    "In the event of a claim involving multiple Passengers, how does the policy apply the conditions of indemnity to each individual Passenger, especially regarding other insurance entitlements and compliance with policy terms?",
+    "How does the policy define 'the Passenger' in relation to the Policyholder and Insured Vehicle, and what are the implications for indemnity if this definition is not clearly met?",
+    "What is the process for the Policyholder to request indemnity on behalf of a Passenger, and how does this process ensure that all conditions for indemnity are satisfied?",
+    "How does the indemnity provision for Passengers under this section handle claims arising from acts of negligence that occur outside the normal use of the Insured Vehicle, such as during loading or unloading?",
+    "If a Passenger is covered under this indemnity but also has a claim under a personal liability policy, how does the policy coordinate benefits or prioritize indemnity?",
+    "How might the indemnity for Passengers be affected if the Insured Vehicle is involved in an accident while being driven by an unauthorized driver, and what exclusions or conditions apply?"
+  ]
+}

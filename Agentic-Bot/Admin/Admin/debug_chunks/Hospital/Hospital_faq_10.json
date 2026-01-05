@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_faq_10",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "faq",
+    "source_file": "Hospital_FAQs.txt",
+    "chunk_index": 10,
+    "content_length": 355,
+    "is_empty": false
+  },
+  "content": "Q: What does the “No Claim Bonus” benefit mean?\nA: If no claim has been made under this policy after twelve (12) consecutive months, we will refund you 20% of the premium that you have paid at the end of each annual period. Provided that: There has been no interruption of cover for a period of twelve (12) consecutive months. Premium has been fully paid.",
+  "questions": [
+    "How does the No Claim Bonus benefit apply if a policyholder has made no claims but had an interruption in coverage within the twelve consecutive months?",
+    "What conditions must be met regarding premium payment and coverage continuity for a policyholder to be eligible for the No Claim Bonus refund?",
+    "If a policyholder makes a claim just before the end of the twelve-month period, how does this affect the eligibility for the No Claim Bonus?",
+    "How is the No Claim Bonus calculated and refunded at the end of each annual period under the policy?",
+    "Does the No Claim Bonus apply if the premium has been partially paid or paid late during the twelve-month period?",
+    "In the event of multiple claims within a twelve-month period, how does this impact the No Claim Bonus eligibility and refund?",
+    "If a policyholder cancels the policy before completing twelve consecutive months without claims, are they entitled to any No Claim Bonus refund?",
+    "How does the policy define an 'interruption of cover' that would disqualify a policyholder from receiving the No Claim Bonus?",
+    "Can the No Claim Bonus be accumulated or carried forward if no claims are made over multiple consecutive twelve-month periods?",
+    "If a policyholder renews the policy after a lapse of coverage, how does this affect the calculation or eligibility of the No Claim Bonus?",
+    "Are there any exclusions or general policy conditions that override the No Claim Bonus benefit even if no claims have been made?",
+    "How does the No Claim Bonus interact with other benefits or optional covers that may have been added to the policy?",
+    "What documentation or proof is required from the policyholder to claim the No Claim Bonus refund at the end of the annual period?",
+    "If a policyholder has made a claim that was later withdrawn or denied, does this impact the No Claim Bonus eligibility?",
+    "Does the No Claim Bonus apply to all types of claims under the policy or are certain claim types excluded from affecting this benefit?",
+    "How does the timing of premium payment within the annual period affect the calculation or eligibility for the No Claim Bonus?",
+    "If the policyholder switches plans or coverage levels within the twelve-month period, how does this impact the No Claim Bonus eligibility?",
+    "Are there any age or other demographic restrictions that affect a policyholder’s eligibility for the No Claim Bonus?",
+    "How does the No Claim Bonus benefit handle situations where the policyholder has multiple policies with the insurer?",
+    "In case of a policy renewal with changes in premium amount, how is the No Claim Bonus refund calculated based on the premium paid?"
+  ]
+}

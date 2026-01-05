@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Home_policy_83",
+  "metadata": {
+    "product_name": "Home",
+    "doc_type": "policy",
+    "source_file": "Home_policy.md",
+    "chunk_index": 83,
+    "content_length": 66,
+    "is_empty": false
+  },
+  "content": "### NOTIFICATION REQUIREMENTS\n**(Applicable to the whole Policy)**",
+  "questions": [
+    "What are the notification requirements applicable to the entire policy, and how do they affect the timing and validity of claims across different sections?",
+    "How does the policy define the timeframe within which a claimant must notify the insurer to avoid denial of coverage under the notification requirements?",
+    "In cases where multiple sections of the policy are involved, how do the general notification requirements interact with any section-specific notification rules?",
+    "What documentation must be provided at the time of notification to satisfy the policy’s notification requirements for claims?",
+    "How do the notification requirements address situations where the insured is unable to notify the insurer promptly due to hospitalization or quarantine?",
+    "Are there any exceptions to the notification requirements for claims arising from emergencies or unforeseen events such as accidents or sudden illness?",
+    "How do the notification requirements impact claims related to COVID-19, especially in cases involving quarantine or travel restrictions?",
+    "What are the consequences of failing to meet the notification requirements on the insurer’s obligation to pay claims under this policy?",
+    "How do the notification requirements apply to claims involving pre-existing conditions or optional cover extensions?",
+    "In the event of a claim involving a Common Carrier accident, what specific notification steps must be followed according to the policy’s general notification requirements?",
+    "How do the notification requirements interact with the policy’s general exclusions, such as those related to publicly known events or travel advisories?",
+    "What role do police reports or carrier Property Irregularity Reports play in fulfilling the notification requirements for baggage or personal document claims?",
+    "How does the policy address notification requirements when a claim involves pair-and-sets clauses or items lost or damaged while unattended?",
+    "Are there any special notification provisions for claims involving immediate family members or dependents traveling with the insured?",
+    "How do the notification requirements affect claims where the insured has received partial refunds or compensation from carriers or other third parties?",
+    "What is the insurer’s process for acknowledging receipt of notification, and how does this affect the claimant’s obligations under the policy?",
+    "How do the notification requirements apply to automatic extensions of coverage, such as those granted due to delayed return or quarantine?",
+    "In cases where payment before cover warranty applies, how do the notification requirements ensure timely reporting and validation of coverage?",
+    "How do the notification requirements interact with the policy’s subrogation rights and sanctions clauses when third-party recovery is involved?",
+    "What are the insurer’s expectations regarding the format and method of notification (e.g., written, electronic, verbal) to comply with the policy’s notification requirements?"
+  ]
+}

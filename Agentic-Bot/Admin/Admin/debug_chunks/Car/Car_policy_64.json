@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_64",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 64,
+    "content_length": 693,
+    "is_empty": false
+  },
+  "content": "In case damage to the Insured Vehicle is indemnifiable by this Policy, You shall decide whether or not to claim for such damage under this Policy and if so claiming, shall submit such a claim to Us within fourteen (14) days of occurrence or discovery of damage. The quoted cost of repair is subject to adjustment by Us before any repair may commence if it exceeds the Authorised Repair Limit in total.\n\n#### 3. Other Insurance\nIf You make a valid claim for damage or loss, We are liable to contribute only a pro-rated amount if You have other insurance covering the same damage or loss. This Policy does not provide cover for other persons if they are insured under any other insurance Policy.",
+  "questions": [
+    "How does the insured's choice to claim or not claim for vehicle damage within the 14-day reporting window affect the insurer's liability and repair authorization process?",
+    "What are the implications of submitting a repair cost quote that exceeds the Authorised Repair Limit, and how does the insurer's adjustment process impact the commencement of repairs?",
+    "In what scenarios does the insurer apply a pro-rated contribution when other insurance policies cover the same vehicle damage or loss, and how does this affect the total indemnity payable?",
+    "How does the presence of other insurance policies on the insured vehicle influence the coverage scope and indemnity limits under this Policy?",
+    "What documentation and timing requirements must the insured meet to ensure a valid claim for vehicle damage is accepted under this Policy?",
+    "How does the Policy address claims involving multiple insured parties when one party has coverage under a different insurance policy for the same damage or loss?",
+    "What are the consequences if the insured fails to submit a claim within fourteen days of discovering vehicle damage, and how does this interact with the insurer's repair cost adjustment rights?",
+    "How does the Policy's exclusion of coverage for other persons insured under different policies affect claims involving jointly owned or shared vehicles?",
+    "In cases where the quoted repair cost is adjusted downward by the insurer due to exceeding the Authorised Repair Limit, how is the insured's financial responsibility determined?",
+    "How does the Policy coordinate indemnity payments when the insured has overlapping coverage from this Policy and another insurance policy for the same damage event?",
+    "What conditions must be met for the insurer to consider a claim valid when damage to the insured vehicle is discovered after a delay, and how does the 14-day claim submission window apply?",
+    "How does the Policy's pro-rata liability clause interact with general exclusions or other section-specific exclusions when multiple policies cover the same damage?",
+    "What is the process for the insured to decide whether to claim under this Policy or rely on other insurance, and how does this decision impact claim settlement?",
+    "How does the Policy handle situations where the insured vehicle damage is covered by a third-party insurance policy, and what limitations apply to claims under this Policy?",
+    "What are the insurer's rights and obligations regarding repair cost approvals and adjustments before repairs commence, especially when repair estimates exceed the Authorised Repair Limit?",
+    "How does the Policy define the scope of indemnifiable damage to the insured vehicle, and how does this definition affect the insured's decision to claim or not claim?",
+    "In what ways does the Policy ensure that claims are not duplicated or overcompensated when other insurance policies cover the same damage or loss?",
+    "How does the Policy's requirement for claim submission within 14 days interact with potential delays in damage discovery, such as hidden or latent defects?",
+    "What are the implications for the insured if they choose not to claim under this Policy but have other insurance covering the same damage, particularly regarding coverage gaps or overlaps?",
+    "How does the Policy address the coordination of benefits and indemnity limits when multiple insurance policies cover the same insured vehicle damage, and what documentation is required to support pro-rated claims?"
+  ]
+}

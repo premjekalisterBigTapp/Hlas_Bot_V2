@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_41",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 41,
+    "content_length": 952,
+    "is_empty": false
+  },
+  "content": "13. **Face to face ransom** - Any Extortion Payment surrendered in a face to face encounter.\n14. **Infrastructure** -\n    a) Any satellite failure, electronic or mechanical failure including (without limitation) blackout, subterranean failures of overhead or transmission and distribution lines; or\n    b) Any total, partial, temporary or intermittent outage to utility infrastructure including gas, water and electricity; or\n    c) Any total, partial, temporary or intermittent outage of telecommunications infrastructure including certificate authorities, content delivery network providers, domain name system service providers, internet exchange point providers, satellites, satellite network providers, timing services, and any transmission systems or services which support transfer of data between network termination points.\n15. **Legal Liability, Fines and Penalties** - Any amount owed by You to a Third Party for damages, fines or penalties.",
+  "questions": [
+    "How does the policy address claims involving extortion payments made during a face-to-face encounter, and are there any conditions or exclusions that affect coverage for such ransom payments?",
+    "In what ways do failures or outages of satellite, electronic, or mechanical infrastructure, including blackouts and subterranean failures, impact the eligibility of claims under this policy section?",
+    "How are total, partial, temporary, or intermittent outages to utility infrastructure such as gas, water, and electricity treated in terms of coverage, and what documentation or proof might be required to support a claim related to such outages?",
+    "What exclusions apply to claims arising from telecommunications infrastructure outages, including failures of certificate authorities, content delivery networks, domain name system providers, and satellite network providers, and how might these exclusions interact with general policy exclusions?",
+    "If a claim involves a loss caused by an outage of internet exchange points or timing services that support data transfer, how does the policy define coverage limits or exclusions for such incidents?",
+    "How does the policy differentiate between infrastructure failures that are covered versus those that are excluded, particularly when the failure is temporary or intermittent rather than total?",
+    "Are there any provisions or exceptions in the policy for claims related to infrastructure outages that affect travel plans, such as delays or cancellations, and how do these interact with general exclusions for publicly known events or travel alerts?",
+    "What is the policy stance on legal liability claims, including damages, fines, or penalties owed to third parties, and are such amounts explicitly excluded from coverage under this section?",
+    "How do the exclusions for legal liability, fines, and penalties affect claims where the insured is held responsible for third-party damages arising from an insured event, and what documentation is required to substantiate or refute such claims?",
+    "In cases where an insured event involves both an infrastructure failure and a resulting legal liability to a third party, how does the policy determine which exclusions take precedence?",
+    "Does the policy provide any coverage or exceptions for extortion payments made under duress but not in a face-to-face encounter, and how does this compare to the exclusion for face-to-face ransom payments?",
+    "How might the exclusion of infrastructure failures impact claims related to quarantine or COVID-19 travel disruptions, especially if caused by telecommunications or utility outages?",
+    "What are the implications of the infrastructure exclusions for insureds relying on electronic ticketing or online check-in systems that fail due to network or satellite outages?",
+    "How does the policy address claims for losses resulting from a combination of infrastructure outages and subsequent legal fines or penalties imposed on the insured?",
+    "Are there any age or pre-existing condition considerations that interact with the exclusions for infrastructure failures or legal liability claims, particularly in scenarios involving health-related travel disruptions?",
+    "How do the infrastructure exclusions affect claims for trip curtailment or postponement when caused by utility or telecommunications outages, and what evidence is required to demonstrate the cause and impact?",
+    "In the event of a face-to-face extortion payment, what reporting requirements or timing windows must the insured meet to file a claim, and how do these requirements differ from other ransom or extortion scenarios?",
+    "How does the policy handle claims involving infrastructure failures that are publicly known or part of widespread outages, and do such events fall under general exclusions related to publicly known events or travel alerts?",
+    "What is the relationship between the exclusions for legal liability, fines, and penalties and the policy's subrogation rights or sanctions clauses, especially if the insured pays a fine that could be recovered from a third party?",
+    "How do the exclusions for infrastructure failures and legal liabilities interact with optional covers or endorsements that might provide limited coverage for such events, and what conditions apply to those endorsements?"
+  ]
+}

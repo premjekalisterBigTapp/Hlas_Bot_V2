@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_39",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 39,
+    "content_length": 944,
+    "is_empty": false
+  },
+  "content": "7. **Corporate Cyber Liability** - Any losses related to corporate cyber liability or arising from a commercial cyber-attack and any losses where a legal corporate entity of any sort is the subject of a cyber-attack. Legal corporate entities here refer to but are not limited to NGOs or any registered or unregistered business entity.\n8. **Cyber Operation** - Any loss, damage, liability, cost or expense of any kind arising from a Cyber Operation. Notwithstanding Our burden of proof, which shall remain unchanged by this clause, in determining attribution of a Cyber Operation to a State, You and the Company will consider such objectively reasonable evidence that is available to both. This may include but is not limited to formal or official attribution by the government of the State in which the Computer System affected by the Cyber Operation is physically located in another State or those acting at its direction or under its control.",
+  "questions": [
+    "How does the policy define losses related to corporate cyber liability in terms of covered entities, and what types of legal corporate entities are explicitly excluded from coverage?",
+    "In the event of a cyber-attack on a registered business entity, how does the policy address coverage for losses, and are NGOs treated differently under the corporate cyber liability exclusion?",
+    "What criteria and types of evidence are considered when attributing a Cyber Operation to a State, and how does this affect the determination of coverage for losses arising from such operations?",
+    "How does the burden of proof for attributing a Cyber Operation to a State remain unchanged despite the clause, and what role does objective reasonable evidence play in this process?",
+    "If a Computer System located in one State is affected by a Cyber Operation directed by another State, how does the policy handle attribution and potential exclusions related to such cross-border cyber incidents?",
+    "What types of losses, including costs and expenses, are excluded under the Cyber Operation clause, and how broad is the scope of these exclusions in relation to cyber incidents?",
+    "How does the policy distinguish between losses arising from commercial cyber-attacks on corporate entities versus personal or non-commercial cyber incidents?",
+    "In cases where a cyber-attack targets an unregistered business entity, how does the corporate cyber liability exclusion apply, and what implications does this have for coverage?",
+    "What is the significance of formal or official attribution by a government in determining whether a Cyber Operation exclusion applies, and how might this affect claims involving state-sponsored cyber activities?",
+    "How are losses arising from cyber-attacks on NGOs treated under the corporate cyber liability exclusion, and are there any exceptions or conditions that might allow coverage?",
+    "When considering evidence for attributing a Cyber Operation, what types of formal or official documentation are relevant, and how does this influence the insurer's decision-making process?",
+    "How does the policy address situations where the attribution of a Cyber Operation is ambiguous or contested between the insured and the insurer?",
+    "What are the implications for coverage if a Cyber Operation is attributed to actors acting under the direction or control of a State, and how is this attribution established?",
+    "How does the exclusion of losses related to corporate cyber liability interact with other general policy exclusions, particularly in cases involving cyber-attacks on business entities?",
+    "In what ways might the policy's definition of Cyber Operation losses impact claims arising from indirect or consequential damages related to cyber incidents?",
+    "How does the policy treat losses arising from cyber-attacks on computer systems physically located in a different State than the one directing the attack, especially regarding attribution and exclusions?",
+    "What documentation or evidence must the insured provide to support or contest the attribution of a Cyber Operation to a State, and how does this affect the claims process?",
+    "How does the policy's exclusion of corporate cyber liability losses affect coverage for individuals or entities that are not legal corporate entities but are involved in cyber incidents?",
+    "What role does the concept of 'objective reasonable evidence' play in balancing the interests of the insured and insurer when determining the applicability of the Cyber Operation exclusion?",
+    "How might the exclusions related to corporate cyber liability and Cyber Operations impact coverage for losses resulting from emerging cyber threats or novel attack vectors?"
+  ]
+}

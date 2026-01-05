@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_72",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 72,
+    "content_length": 929,
+    "is_empty": false
+  },
+  "content": "In any action suit or other proceeding where We allege that by reason of the provisions above any loss destruction or damage is not covered by this insurance the burden of proving that such loss destruction or damage is covered shall be upon the Policyholder or Authorised Driver.\n5. Any death, disability, loss, damage, destruction, legal liabilities, cost or expense including consequential loss of whatsoever nature, directly or indirectly caused by, resulting from or in connection with any of the following regardless of any other cause or event contributing concurrently or in any other sequence to the loss:\n   (a) war, invasion, acts of foreign enemies, hostilities or warlike operations (whether war be declared or not), civil war, mutiny, rebellion, revolution, insurrection, conspiracy, civil commotion assuming the proportions of or amounting to an uprising, military or usurped power; or\n   (b) any act of terrorism.",
+  "questions": [
+    "In a claim involving loss or damage, how does the burden of proof shift between the insurer and the policyholder or authorised driver when coverage is disputed based on the policy provisions?",
+    "How does the policy address claims for death or disability resulting directly or indirectly from warlike operations, and what types of conflicts are explicitly excluded regardless of other contributing causes?",
+    "What is the scope of exclusion related to acts of terrorism, and how does it apply when terrorism is one of multiple concurrent causes of loss or damage?",
+    "In situations involving civil unrest such as rebellion or insurrection, how does the policy exclude coverage for resulting legal liabilities and consequential losses?",
+    "How are losses caused by military or usurped power treated under the policy, especially when these events contribute indirectly to the damage?",
+    "When a claim involves destruction caused by mutiny or conspiracy, what exclusions apply and how do they interact with other potential causes of loss?",
+    "If a loss occurs during a civil commotion amounting to an uprising, what is the insurer's position on coverage, and how must the policyholder prove coverage if disputed?",
+    "How does the policy define the exclusion for warlike operations in terms of declared or undeclared war, and what implications does this have for claims arising from such events?",
+    "What types of costs or expenses, including consequential losses, are excluded when directly or indirectly caused by acts of foreign enemies or invasion?",
+    "In a scenario where multiple causes contribute to a loss, including an excluded event like civil war and a covered event, how does the policy determine coverage applicability?",
+    "How does the policy treat claims for loss or damage resulting from civil commotion compared to those resulting from terrorism, and are these exclusions mutually exclusive or cumulative?",
+    "What documentation or evidence might the policyholder or authorised driver need to provide to overcome the burden of proof when the insurer alleges exclusion due to war or terrorism?",
+    "How does the exclusion of losses related to rebellion or revolution affect claims involving legal liabilities arising from such events?",
+    "Are consequential losses arising from acts of terrorism covered under the policy, and how does this exclusion interact with other policy provisions?",
+    "In the event of a mutiny causing damage, how does the policy exclude coverage for associated costs and expenses, and what exceptions, if any, exist?",
+    "How does the policy address losses caused by civil war in terms of both direct damage and indirect consequences such as legal liabilities or expenses?",
+    "What is the insurer's stance on coverage for losses resulting from insurrection or conspiracy, and how does this exclusion apply if these events are part of a sequence leading to the loss?",
+    "How does the policy exclusion for military or usurped power impact claims involving destruction or damage during such control, especially when other covered perils are involved?",
+    "In cases where the insurer alleges that loss is excluded due to war or terrorism, how does the policyholder's burden of proof affect the outcome of legal proceedings or claims disputes?",
+    "How do the general exclusions for war, terrorism, and related events interact with other policy sections, and can coverage be reinstated if the policyholder successfully proves the loss is unrelated to these excluded causes?"
+  ]
+}

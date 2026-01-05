@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_benefits_15",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "benefits",
+    "source_file": "Travel_benefits.txt",
+    "chunk_index": 15,
+    "content_length": 529,
+    "is_empty": false
+  },
+  "content": "tinium plan.\nUnder Add-On Coverages for Pre-Existing Medical Conditions, the Emergency Medical Evacuation benefit for a Child is $10,000 for the Basic plan, $20,000 for the Silver plan, $30,000 for the Gold plan, and $50,000 for the Platinium plan.\nUnder Add-On Coverages, the Flight Delay benefit provides $100 for every 3 hours of delay, up to a total of $1,000 for the Basic, Silver, Gold, and Platinium plans.\nUnder Add-On Coverages, Loss of Frequent Flyer Miles is Covered for the Basic, Silver, Gold, and Platinium plans.\n\n",
+  "questions": [
+    "How does the Emergency Medical Evacuation benefit for a Child vary across the Basic, Silver, Gold, and Platinium plans under Add-On Coverages for Pre-Existing Medical Conditions, and what documentation is required to support such a claim?",
+    "In the event of a flight delay, how is the Flight Delay benefit calculated under Add-On Coverages across all plans, and what is the maximum payout limit?",
+    "What conditions must be met for a claim on Loss of Frequent Flyer Miles to be accepted under the Basic, Silver, Gold, and Platinium plans, and are there any exclusions that would override this coverage?",
+    "How do the Emergency Medical Evacuation limits for a Child under Add-On Coverages interact with any general policy exclusions related to pre-existing medical conditions?",
+    "If a child requires emergency medical evacuation due to a pre-existing condition, how does the benefit amount differ between the Gold and Platinium plans, and are there any age restrictions or definitions of 'Child' that affect eligibility?",
+    "For a flight delay lasting 9 hours, how much would the Flight Delay benefit pay under the Silver plan, and what documentation or proof of delay is required to file a claim?",
+    "Are there any limits or exclusions on the types of frequent flyer miles covered under the Loss of Frequent Flyer Miles benefit across all plans, and how does this coverage interact with general exclusions such as loss due to negligence?",
+    "How does the Flight Delay benefit apply if the delay is caused by a publicly known event or travel alert, considering general policy exclusions?",
+    "In the case of a child with a pre-existing medical condition requiring emergency evacuation, how does the policy define 'pre-existing,' and does the Add-On Coverage override any general exclusions related to pre-existing conditions?",
+    "What is the maximum total payout for Flight Delay benefits under the Platinium plan, and how is the payout structured if the delay exceeds 30 hours?",
+    "How does the Loss of Frequent Flyer Miles coverage handle situations where miles are lost due to airline bankruptcy or insolvency, and are such scenarios excluded under general policy terms?",
+    "If a flight delay occurs due to quarantine requirements related to COVID-19, does the Flight Delay benefit under Add-On Coverages apply, and how do general exclusions for pandemics affect this?",
+    "Are there any requirements for reporting or documentation, such as carrier delay certificates or police reports, needed to claim the Flight Delay or Loss of Frequent Flyer Miles benefits?",
+    "How does the Emergency Medical Evacuation benefit for a Child under Add-On Coverages coordinate with other medical evacuation benefits in the policy, and does the Add-On amount stack or replace the base coverage?",
+    "In the event of a claim for Loss of Frequent Flyer Miles, how does the policy address the valuation of miles, and are there any limits on reimbursement based on the miles' redemption value?",
+    "Does the Flight Delay benefit cover delays caused by strikes or labor disputes, and how do such causes interact with general exclusions or Add-On Coverage terms?",
+    "For a child traveling under the Basic plan who requires emergency medical evacuation, what is the maximum coverage amount, and are there any conditions or exclusions specific to children in this Add-On Coverage?",
+    "How do the Add-On Coverages for Pre-Existing Medical Conditions, specifically Emergency Medical Evacuation for a Child, apply if the child is traveling with an immediate family member who is also insured under the policy?",
+    "If a policyholder experiences both a flight delay and loss of frequent flyer miles on the same trip, how are claims for these Add-On Coverages processed, and are there any combined limits or exclusions to be aware of?",
+    "Are there any age limits or definitions for 'Child' that affect eligibility for the Emergency Medical Evacuation benefit under Add-On Coverages, and how do these definitions interact with the plan tiers?"
+  ]
+}

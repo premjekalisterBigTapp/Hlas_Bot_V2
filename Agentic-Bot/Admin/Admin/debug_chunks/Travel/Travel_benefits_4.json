@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_benefits_4",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "benefits",
+    "source_file": "Travel_benefits.txt",
+    "chunk_index": 4,
+    "content_length": 1000,
+    "is_empty": false
+  },
+  "content": "a total of $10,000 for the Basic plan, $15,000 for the Silver plan, $20,000 for the Gold plan, and $25,000 for the Platinium plan.\nUnder the Medical And Other Expenses coverage, the Hospital Cash Benefit in Singapore provides S$200 for every 24 hours, up to a total of $600 for the Basic plan, $1,000 for the Silver plan, $1,600 for the Gold plan, and $2,000 for the Platinium plan.\nUnder the Personal Accident coverage for Accidental Death & Permanent Disablement, the benefit for an Adult (age 70 years and below) is $200,000 for the Basic plan, $250,000 for the Silver plan, $300,000 for the Gold plan, and $350,000 for the Platinium plan.\nUnder the Personal Accident coverage for Accidental Death & Permanent Disablement, the benefit for an Adult (age above 70 years) is $50,000 for the Basic, Silver, Gold, and Platinium plans.\nUnder the Personal Accident coverage for Accidental Death & Permanent Disablement, the benefit for a Child is $50,000 for the Basic, Silver, Gold, and Platinium plans.",
+  "questions": [
+    "How do the maximum coverage limits differ across the Basic, Silver, Gold, and Platinium plans for Medical and Other Expenses, and how does this affect claim amounts for hospital stays in Singapore?",
+    "What is the maximum total Hospital Cash Benefit payable under each plan, and how is the daily S$200 rate applied up to these maximums during hospitalisation in Singapore?",
+    "How does the Personal Accident coverage for Accidental Death & Permanent Disablement vary between adults aged 70 and below versus those above 70 across all plans?",
+    "What are the specific benefit amounts for children under the Personal Accident coverage for Accidental Death & Permanent Disablement, and do these amounts differ by plan?",
+    "In the event of a hospital stay in Singapore, how would the Hospital Cash Benefit be calculated for a 5-day admission under the Gold plan, considering the daily rate and maximum limit?",
+    "If an adult aged 72 suffers a permanent disablement, what is the maximum Personal Accident benefit payable under the Silver plan, and how does this compare to the benefit for an adult aged 68 under the same plan?",
+    "How do the Personal Accident benefits for children compare to those for adults above 70 years old across all plans, and what implications does this have for coverage adequacy?",
+    "What is the total maximum Medical and Other Expenses coverage available under the Platinium plan, and how does this relate to the Hospital Cash Benefit limits within the same plan?",
+    "How does the Hospital Cash Benefit cap under the Basic plan affect claims for hospital stays longer than three days, and what documentation might be required to support such claims?",
+    "For an adult insured under the Gold plan who suffers accidental death, what is the maximum benefit payable, and how does this amount change if the insured is above 70 years old?",
+    "Are the Personal Accident benefits for children uniform across all plans, and how might this standardisation impact families choosing between plans?",
+    "How do the different benefit limits for adults above and below 70 years old under Personal Accident coverage influence the overall risk assessment for older travelers?",
+    "What is the relationship between the Hospital Cash Benefit daily rate and the total maximum payout for each plan, and how does this structure incentivise or limit claims for extended hospitalisation?",
+    "In a scenario where an insured child is hospitalised in Singapore, how do the Hospital Cash Benefit and Personal Accident coverage interact under the Silver plan?",
+    "How might the fixed Personal Accident benefit for adults above 70 years old across all plans affect the decision to upgrade from Basic to Platinium plan?",
+    "What are the implications of having the same Personal Accident benefit for children across all plans on the perceived value of higher-tier plans?",
+    "How does the accumulation of Hospital Cash Benefits over multiple days work within the maximum limits for each plan, and what happens if the hospital stay exceeds the maximum benefit period?",
+    "For an adult insured under the Basic plan, how do the Medical and Other Expenses coverage limit and the Hospital Cash Benefit cap collectively define the maximum financial support during hospitalisation in Singapore?",
+    "How do the benefit structures for Personal Accident coverage address the differing risk profiles of adults below 70, adults above 70, and children, and what gaps might exist in coverage?",
+    "If an insured adult aged 69 is hospitalised for three days and suffers a permanent disablement, how would the benefits from Medical and Other Expenses, Hospital Cash Benefit, and Personal Accident coverage under the Gold plan be coordinated?"
+  ]
+}

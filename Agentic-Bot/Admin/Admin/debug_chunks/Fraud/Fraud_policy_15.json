@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_15",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 15,
+    "content_length": 801,
+    "is_empty": false
+  },
+  "content": "\"Injury\" means physical harm to Your body caused solely and directly by an Accident resulting in Accidental Death or Permanent Disablement and not by sickness, disease or gradual physical or mental wear and tear.\n\n\"Illness\" means a physical condition contracted marked by pathological deviation from the normal healthy state.\n\n\"Loss Event\" means:\n\n1. Identity Theft Event as defined in section 5 of this Policy;\n2. Cyber Event as defined in section 4 of this Policy;\n3. Cyber Extortion Threat; or\n4. Fund Transfer Fraud Event as defined in section 2 of this Policy.\n\n\"Malware\" means any malicious software or code designed to infiltrate, disrupt, corrupt or damage Your Computer System, including but not limited to viruses, worms, trojan horses, ransomware, adware, spyware and Cryptojacking scripts.",
+  "questions": [
+    "How does the policy differentiate between Injury and Illness in terms of coverage eligibility, and what implications does this have for claims related to physical harm caused by accidents versus diseases?",
+    "In what scenarios would a Loss Event be considered covered under the policy, and how do the definitions of Identity Theft Event, Cyber Event, Cyber Extortion Threat, and Fund Transfer Fraud Event interact to determine claim validity?",
+    "What are the specific conditions under which physical harm qualifies as Injury, particularly regarding the exclusion of sickness, disease, or gradual wear and tear, and how might this affect claims involving pre-existing conditions?",
+    "How does the policy define Malware, and what types of malicious software are explicitly included, potentially affecting claims related to Cyber Events or Loss Events involving computer system damage?",
+    "When a claim involves physical harm resulting from an Accident, how does the policy ensure that the harm is solely and directly caused by the Accident and not by any underlying Illness or gradual condition?",
+    "How might the definitions of Loss Event and Malware influence the coverage of cyber-related incidents, especially when multiple types of cyber threats occur simultaneously, such as a Malware attack leading to a Fund Transfer Fraud Event?",
+    "What documentation or proof might be required to establish that an Injury resulted solely from an Accident and not from sickness or disease, considering the policy's definitions?",
+    "How does the policy treat claims arising from Cyber Extortion Threats in relation to other Loss Events, and are there any exclusions or conditions that prioritize one type of event over another?",
+    "In cases where a physical condition is contracted during travel, how does the distinction between Injury and Illness affect the timing and scope of medical coverage under the policy?",
+    "How does the inclusion of Cryptojacking scripts within the Malware definition impact the policyholder's responsibility to secure their Computer System and the insurer's liability for related Loss Events?",
+    "What are the implications for coverage if an Injury is complicated by an underlying Illness, given the policy's strict separation between these two definitions?",
+    "How does the policy address situations where a Loss Event involves both Identity Theft and Cyber Event components, and what criteria determine which section of the policy applies?",
+    "In the context of Loss Events, how does the policy define the threshold for a Cyber Extortion Threat, and what evidence is necessary to substantiate such a claim?",
+    "How might the policy's definitions of Injury and Illness affect claims related to mental health conditions resulting from an Accident or disease?",
+    "What exclusions or limitations might apply to claims involving Malware, especially considering the broad range of malicious software types listed in the definition?",
+    "How does the policy ensure clarity in claims involving Fund Transfer Fraud Events, particularly when such events are facilitated by Malware or other cyber threats?",
+    "In what ways do the definitions provided influence the policy's treatment of gradual physical or mental wear and tear, and how might this affect long-term disability claims?",
+    "How are Loss Events differentiated from physical injuries or illnesses in terms of claim processing and coverage limits under the policy?",
+    "What role do the definitions of Injury and Illness play in determining eligibility for Accidental Death or Permanent Disablement benefits?",
+    "How does the policy handle overlapping incidents where a Malware attack leads to a Cyber Extortion Threat and subsequent Identity Theft Event, in terms of claim aggregation and exclusions?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_faq_20",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "faq",
+    "source_file": "Travel_FAQs.txt",
+    "chunk_index": 20,
+    "content_length": 118,
+    "is_empty": false
+  },
+  "content": "Q: Can I buy travel insurance after departure?\nA: No, travel insurance should be purchased before your trip commences.",
+  "questions": [
+    "How does the requirement to purchase travel insurance before trip commencement affect coverage eligibility for unforeseen events occurring shortly after departure?",
+    "What are the implications for claims if a traveler attempts to buy insurance after leaving their home country or starting their trip?",
+    "In what ways does the policy define the exact moment a trip commences for the purpose of insurance purchase timing?",
+    "How does the prohibition on buying insurance post-departure interact with coverage for trip interruptions or cancellations due to events occurring immediately after departure?",
+    "Are there any exceptions or special conditions under which travel insurance can be purchased after the trip has started, such as for extended coverage or optional add-ons?",
+    "How does the policy handle situations where a traveler forgets to purchase insurance before departure but experiences a covered loss during the trip?",
+    "What documentation or proof is required to establish the purchase date of travel insurance relative to the trip commencement?",
+    "How does the timing restriction on insurance purchase affect coverage for pre-existing conditions or newly diagnosed conditions discovered after departure?",
+    "In cases of emergency evacuation or medical treatment needed soon after departure, how does the pre-trip purchase requirement impact claim approval?",
+    "How does the policy address scenarios where a traveler’s trip is delayed or rescheduled after insurance purchase but before departure?",
+    "What are the consequences for coverage if a traveler purchases insurance on the day of departure but after leaving their home or point of origin?",
+    "How does the policy’s purchase timing rule interact with automatic extensions or policy renewals during an ongoing trip?",
+    "Are there any differences in the purchase timing requirement for different types of coverage within the travel insurance policy?",
+    "How does the policy define 'trip commencement' in multi-leg journeys or trips with stopovers, and how does this affect the timing of insurance purchase?",
+    "What are the policy’s general exclusions or limitations that might be triggered if insurance is bought after trip commencement despite the stated prohibition?",
+    "How does the purchase-before-departure rule affect coverage for quarantine or COVID-19 related claims arising during the trip?",
+    "In the event of a claim denial due to late purchase, what recourse or appeal options are available to the insured?",
+    "How does the policy ensure compliance with the purchase timing rule in online or last-minute insurance sales platforms?",
+    "What impact does the purchase timing requirement have on coverage for travel disruptions caused by publicly known events or travel alerts issued after departure?",
+    "How does the policy treat coverage for immediate family members or companions if their insurance purchase timing differs relative to the trip commencement?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_9",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 9,
+    "content_length": 973,
+    "is_empty": false
+  },
+  "content": "\"Cyber Extortion Threat\" means a demand for money or property accompanied by a credible threat by a Third Party to:\n\n1. release, divulge, disseminate, destroy, alter, permanently encrypt, or use Your Digital Assets stored in Your Computer System, acquired by fraudulently or maliciously accessing or using Your Computer System;\n2. introduce Malware into Your Computer System;\n3. corrupt, damage or destroy Your Computer System; or restrict or hinder access to Your Computer System or Your Digital Assets.\n\n\"Cyber Operation\" means the use of a Computer System by, at the direction of, or under the control of a State to:\n\n1. disrupt, deny access to, or degrade functionality of a Computer System, and/or\n2. copy, remove, manipulate, deny access to or destroy information in a Computer System.\n\n\"Cyber War\" means the use of a Computer System by or on behalf of a State to disrupt, deny, degrade, manipulate, or destroy information in a Computer System of or in another State.",
+  "questions": [
+    "How does the policy define a Cyber Extortion Threat, and what specific actions by a Third Party must accompany a demand for money or property to qualify as such?",
+    "In what ways does the policy distinguish between Cyber Extortion Threats involving Your Digital Assets and those involving Malware introduction or Computer System corruption?",
+    "What are the key differences between a Cyber Operation and a Cyber War as defined in the policy, particularly regarding the involvement of a State and the intended impact on Computer Systems?",
+    "How does the policy address threats involving permanent encryption of Digital Assets, and what documentation or proof might be required to substantiate a claim under Cyber Extortion Threat?",
+    "Under what circumstances would the introduction of Malware into Your Computer System be considered a Cyber Extortion Threat versus a Cyber Operation or Cyber War?",
+    "How does the policy treat actions that restrict or hinder access to Your Computer System or Digital Assets in the context of Cyber Extortion Threats compared to Cyber Operations?",
+    "What role does the origin or control by a State play in differentiating Cyber Operations and Cyber Wars, and how might this affect coverage or exclusions?",
+    "How are fraudulent or malicious access to Your Computer System distinguished from State-directed Cyber Operations in the policy definitions?",
+    "In cases where a Third Party demands money to prevent the destruction or alteration of Digital Assets, how does the policy define the credibility of such a threat for coverage purposes?",
+    "How might the policy handle claims arising from the copying, removal, or manipulation of information in a Computer System when these actions are conducted by a State versus a non-State Third Party?",
+    "What exclusions or limitations might apply if a Cyber Extortion Threat involves the use of Malware that also causes damage to the Computer System?",
+    "How does the policy define the scope of 'Your Digital Assets' and 'Your Computer System' in relation to Cyber Extortion Threats and Cyber Operations?",
+    "In the event of a Cyber War, how does the policy address the potential for widespread disruption or destruction of Computer Systems across multiple States?",
+    "What evidence or reporting requirements might the policy impose to verify that a Cyber Operation was conducted by or under the control of a State?",
+    "How does the policy differentiate between malicious third-party actions and State-sponsored cyber activities when determining coverage applicability?",
+    "Are there any specific conditions under which a Cyber Extortion Threat involving the dissemination or divulgence of Digital Assets would be excluded from coverage?",
+    "How does the policy treat the permanent encryption of Digital Assets in terms of coverage triggers and potential exclusions related to Cyber Extortion Threats?",
+    "What implications do the definitions of Cyber Operation and Cyber War have for claims involving denial of access to Computer Systems, and how might this affect the insured's responsibilities?",
+    "How might the policy address scenarios where a Cyber Extortion Threat and a Cyber Operation occur simultaneously or overlap in their effects on the insured's Computer System?",
+    "In what ways do the definitions provided impact the insured's obligations to mitigate damage or report incidents involving Cyber Extortion Threats, Cyber Operations, or Cyber Wars?"
+  ]
+}

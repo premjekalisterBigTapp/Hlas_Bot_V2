@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_88",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 88,
+    "content_length": 976,
+    "is_empty": false
+  },
+  "content": "## CLAIMS CONDITIONS\n\nIf You do not comply with the following claims conditions, We may refuse to pay a claim in whole or in part. You must comply with the following conditions if You discover a Loss Event or You believe You have a claim under the Policy.\n\n### Fraud Coverage - Sections 1 to 5\n\n(a) Notice shall be given to Us as soon as possible but in any case, within forty-eight (48) hours after the Loss Event is first discovered by You. For Online Shopping Fraud, within forty-eight (48) hours of sixty (60) days from the first date of purchase or scheduled arrival date, or such later date as informed by the Online Merchant.\n\n(b) You must report to the police and where applicable, the issuers of Your Payment Card and/or the financial institution which provides Your Personal Account within twenty-four (24) hours after the loss event is first discovered by You.\n\n(c) You must do everything reasonably possible to establish the credibility of a Cyber ExtortionThreat.",
+  "questions": [
+    "What are the required timeframes and reporting steps for notifying the insurer and authorities in the event of an Online Shopping Fraud loss, and how do these differ from other types of fraud under Sections 1 to 5?",
+    "How does the policy define the timing and sequence of notices to the insurer, police, and financial institutions following the discovery of a Loss Event related to fraud?",
+    "In cases of Cyber Extortion Threats, what specific actions must the insured take to establish credibility, and how might failure to do so affect claim payment?",
+    "How do the claims conditions for fraud coverage interact with general policy exclusions, particularly regarding delays in notification or incomplete reporting to the police and financial institutions?",
+    "What documentation or evidence is implied to be necessary to comply with the requirement to 'do everything reasonably possible' to establish a Cyber Extortion Threat's credibility?",
+    "If a Loss Event is discovered but the insured delays reporting to the police beyond 24 hours, how might this impact the insurer's obligation to pay under fraud coverage?",
+    "For Online Shopping Fraud, how does the 48-hour notification window relate to the 60-day period from purchase or scheduled arrival, and what exceptions might apply?",
+    "What are the consequences if the insured fails to notify the issuer of their payment card or financial institution within the stipulated 24-hour period after discovering a fraud-related Loss Event?",
+    "How does the policy address claims where the insured reports the Loss Event late but provides substantial evidence of the fraud, especially under the fraud coverage conditions?",
+    "In what ways might the claims conditions for fraud coverage overlap or conflict with other sections of the policy, and how should such conflicts be resolved?",
+    "How does the requirement to notify the insurer 'as soon as possible' but within 48 hours align with the need to report to the police within 24 hours, and what happens if these timelines are not met?",
+    "What specific steps should an insured take immediately after discovering a Loss Event to ensure compliance with all claims conditions related to fraud coverage?",
+    "How does the policy define the start of the 48-hour notification period for Online Shopping Fraud when the purchase date and scheduled arrival date differ?",
+    "What role do the issuers of payment cards and financial institutions play in the claims process for fraud coverage, and how critical is timely reporting to these entities?",
+    "How might the claims conditions for fraud coverage be affected if the Loss Event involves multiple payment cards or financial accounts?",
+    "What are the implications for claim payment if the insured fails to establish the credibility of a Cyber Extortion Threat despite timely notification and reporting?",
+    "How do the claims conditions ensure that fraudulent claims are minimized, and what mechanisms are in place to verify the legitimacy of reported Loss Events?",
+    "In scenarios where the Loss Event is discovered late but falls within the 60-day window for Online Shopping Fraud, how should the insured proceed to comply with claims conditions?",
+    "How does the policy handle situations where the insured reports a Loss Event to the police but does not receive a police report within the required timeframe?",
+    "What is the interplay between the claims conditions for fraud coverage and any potential general exclusions related to fraud or misrepresentation in the policy?"
+  ]
+}

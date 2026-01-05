@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_16",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 16,
+    "content_length": 579,
+    "is_empty": false
+  },
+  "content": "\"Mass Cyber-Attack\" means a coordinated and large-scale attack targeting multiple individuals or entities simultaneously to gain malicious and unauthorized access, steal data or cause damage to Computer Systems or computer networks that result in losses or damages.\n\n\"Medical Expenses\" means usual, reasonable, and customary medical, surgical, Hospital or nursing treatment expenses incurred by You within one (1) year from the date of such Injury in respect of any one Accident provided that the medical or surgical treatment are prescribed by a Registered Medical Practitioner.",
+  "questions": [
+    "How does the definition of 'Mass Cyber-Attack' influence coverage eligibility when multiple insured individuals experience simultaneous data theft or computer system damage during a coordinated cyber event?",
+    "In what ways do the requirements for 'Medical Expenses' coverage, including the one-year treatment window and prescription by a Registered Medical Practitioner, affect claims for injuries sustained in an accident?",
+    "How would losses caused by a Mass Cyber-Attack be evaluated under the policy if the attack targets computer networks but does not directly cause physical injury to the insured?",
+    "What documentation is necessary to prove that medical or surgical treatment qualifies as 'usual, reasonable, and customary' under the Medical Expenses definition, especially when treatment extends close to the one-year limit?",
+    "If an insured receives medical treatment from a non-Registered Medical Practitioner within one year of an accident, how does this affect the eligibility of Medical Expenses claims?",
+    "How does the policy distinguish between damages caused by a Mass Cyber-Attack and those resulting from isolated or individual cyber incidents in terms of coverage?",
+    "What are the implications for Medical Expenses claims if treatment is prescribed but not actually received within the one-year period following an accident?",
+    "How does the policy address situations where a Mass Cyber-Attack causes indirect financial losses but no physical injury requiring medical treatment?",
+    "In cases where multiple insured persons are affected by a Mass Cyber-Attack simultaneously, how does the policy handle aggregate limits or individual claim limits for related losses?",
+    "How does the definition of Medical Expenses apply to treatments that are surgical versus non-surgical, and what documentation is required to differentiate these under the policy?",
+    "If medical treatment for an injury is delayed beyond one year from the accident date, what impact does this have on the claim for Medical Expenses?",
+    "How does the policy verify that medical or surgical treatments are prescribed by a Registered Medical Practitioner, and what happens if this verification is not possible?",
+    "In the event of a Mass Cyber-Attack causing damage to insured computer systems, how does the policy define and measure the resulting losses or damages eligible for claims?",
+    "How are Hospital and nursing treatment expenses covered under Medical Expenses if the insured receives care in multiple facilities within the one-year period?",
+    "What exclusions or limitations might apply to claims arising from a Mass Cyber-Attack, considering the policy's general exclusions versus the specific definition provided?",
+    "How does the policy treat Medical Expenses claims if the injury results from an accident that also involves a cyber-attack component affecting medical devices or treatment facilities?",
+    "What is the interplay between the one-year limit for Medical Expenses and ongoing treatments that require periodic reassessment or additional prescriptions by a Registered Medical Practitioner?",
+    "How does the policy handle claims for Medical Expenses if the insured seeks alternative or complementary treatments not recognized as usual or customary by the policy?",
+    "In scenarios where a Mass Cyber-Attack leads to data theft but no physical injury, what coverage options, if any, does the policy provide for affected insured parties?",
+    "How does the policy define 'usual, reasonable, and customary' in the context of medical expenses, and what criteria are used to assess whether treatment costs meet this standard?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_policy_47",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "policy",
+    "source_file": "Hospital_policy.md",
+    "chunk_index": 47,
+    "content_length": 841,
+    "is_empty": false
+  },
+  "content": "12. **Eligibility**\n\nYou are eligible for cover under this Policy if:\n(a) The Insured Person is between the age of eighteen (18) to sixty-five (65) years old. Age is calculated as at last birthday.\n(b) You must be a Singapore Citizen, Singapore Permanent Resident, or expatriate or foreigner who is holding a valid employment pass, work permit, dependent pass, student pass or long term visit pass and ordinarily residing in Singapore. If you are away from Singapore, it shall be a period of not more than one hundred and eighty-three (183) days during the Period of Insurance.\n\n13. **Fraud, Misstatement or Concealment**\n\nAny fraud, misstatement or concealment in respect of this insurance or of any claim hereunder shall render this Policy null and void and any benefit due hereunder shall be or become forfeited.\n\n14. **Free Look Period**",
+  "questions": [
+    "How does the age eligibility requirement between 18 and 65 years old interact with the residency status conditions for coverage under this policy?",
+    "What documentation or proof might be required to verify that an insured person is ordinarily residing in Singapore and has not been away for more than 183 days during the Period of Insurance?",
+    "In cases where an insured person holds a valid employment pass but turns 66 during the Period of Insurance, how does the age eligibility clause affect their coverage?",
+    "How does the policy treat expatriates or foreigners with valid passes who temporarily leave Singapore for more than 183 days within the Period of Insurance?",
+    "What are the consequences under the policy if an insured person commits fraud or conceals material information when applying for coverage or making a claim?",
+    "How does the policy define the impact of misstatements or concealment on the validity of the entire policy and any benefits payable?",
+    "If a claim is made based on information later found to be fraudulent, how does the policy address the forfeiture of benefits and the status of the policy?",
+    "How might the eligibility criteria affect a Singapore Permanent Resident who is on a student pass but has been outside Singapore for 190 days during the Period of Insurance?",
+    "What is the relationship between the eligibility conditions and the policy’s general exclusions related to residency and age?",
+    "How does the policy ensure that the insured person’s age is calculated, and what implications does this have for eligibility if the birthday falls during the Period of Insurance?",
+    "In what ways could the fraud, misstatement, or concealment clause override or interact with other section-specific exclusions or benefits within the policy?",
+    "How does the policy handle eligibility for individuals holding a long-term visit pass who may not meet the residency requirement of being ordinarily in Singapore?",
+    "What are the potential edge cases involving eligibility for coverage when an insured person’s pass status changes during the Period of Insurance?",
+    "How does the policy address eligibility if an insured person is exactly 18 years old on the last birthday but turns 66 during the coverage period?",
+    "What are the implications of the fraud, misstatement, or concealment clause on claims related to pre-existing conditions or other optional covers?",
+    "How does the policy’s eligibility clause interact with the free look period mentioned immediately after, particularly in cases of misrepresentation discovered during that period?",
+    "What documentation or verification processes might be necessary to confirm compliance with the 183-day maximum absence rule for insured persons residing in Singapore?",
+    "How does the policy treat eligibility for foreign students holding a student pass who travel frequently and may exceed the 183-day absence limit?",
+    "In the event of a dispute regarding eligibility based on residency or age, how might the policy’s clauses on fraud or misstatement influence the outcome?",
+    "How does the policy’s eligibility criteria apply to insured persons who change their pass type (e.g., from work permit to dependent pass) during the Period of Insurance?"
+  ]
+}

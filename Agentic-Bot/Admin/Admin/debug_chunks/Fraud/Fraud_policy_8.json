@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_8",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 8,
+    "content_length": 760,
+    "is_empty": false
+  },
+  "content": "\"Cryptojacking\" means the unauthorised use of Your Computer System by a Third Party for mining Cryptocurrency.\n\n\"Cyberterrorism\" means the premeditated use of disruptive activities against Your Computer System or Your Digital Assets by an individual or group of individuals, or the explicit threat by an individual or group of individuals to use such activities, with the intention to cause harm, further social, ideological, religious, political or similar objectives, or to intimidate any person(s) in furtherance of such objectives. Cyberterrorism does not include any such activities which are part of or in support of any War or Cyber War\n\n\"Cyber Extortion Threat\" means a demand for money or property accompanied by a credible threat by a Third Party to:",
+  "questions": [
+    "How does the policy define 'Cryptojacking' and what implications might this have for coverage related to unauthorized use of your computer system for cryptocurrency mining?",
+    "In what ways does the definition of 'Cyberterrorism' distinguish between acts intended to cause harm for ideological objectives and those acts that are part of or support War or Cyber War, and how might this affect claim eligibility?",
+    "What are the criteria for an event to be classified as a 'Cyber Extortion Threat' under this policy, and how does the requirement of a credible threat influence the coverage?",
+    "How might the exclusion of Cyberterrorism acts that are part of War or Cyber War interact with general policy exclusions related to acts of war or terrorism?",
+    "Considering the definitions provided, how would a claim involving unauthorized cryptocurrency mining by a third party be evaluated in terms of coverage and exclusions?",
+    "What documentation or evidence might be necessary to prove a 'Cyber Extortion Threat' involving a demand for money or property accompanied by a credible threat?",
+    "How does the policy's definition of 'Cyberterrorism' address the intent behind disruptive activities, and what challenges could arise in proving such intent for a claim?",
+    "In scenarios where a third party uses your computer system without authorization for cryptocurrency mining, how does the policy differentiate between Cryptojacking and other cyber incidents?",
+    "How might the policy treat incidents where a cyber attack is claimed to be politically motivated but is also linked to a declared Cyber War, given the exclusions stated?",
+    "What are the potential implications for coverage if a cyber incident involves a threat to intimidate individuals for religious objectives, according to the Cyberterrorism definition?",
+    "How does the policy define the scope of 'Your Computer System' and 'Your Digital Assets' in relation to Cyberterrorism and Cryptojacking, and how could this affect claim boundaries?",
+    "In the event of a Cyber Extortion Threat, how does the policy address the timing and nature of the demand and threat to qualify for coverage?",
+    "What distinctions does the policy make between Cyberterrorism and other forms of cybercrime, and how might these distinctions impact claim processing?",
+    "How would the policy handle a claim involving a cyber attack that disrupts your computer system but lacks an explicit threat, in light of the Cyberterrorism definition?",
+    "What exclusions might apply if a cyber incident is linked to a group acting with social or ideological objectives but is not clearly part of a Cyberterrorism act as defined?",
+    "How does the policy's definition of Cyberterrorism exclude activities related to War or Cyber War, and what documentation might be required to establish this exclusion?",
+    "In cases of Cryptojacking, how might the policy address the recovery of losses or damages resulting from unauthorized cryptocurrency mining activities?",
+    "How does the policy's language around credible threats in Cyber Extortion Threats influence the assessment of threats that are ambiguous or unverified?",
+    "What role does the intent behind cyber activities play in distinguishing covered Cyberterrorism events from general cyber incidents under this policy?",
+    "How might the definitions provided affect the interaction between this cyber coverage and other policy sections that address terrorism, war, or criminal acts?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Home_policy_22",
+  "metadata": {
+    "product_name": "Home",
+    "doc_type": "policy",
+    "source_file": "Home_policy.md",
+    "chunk_index": 22,
+    "content_length": 955,
+    "is_empty": false
+  },
+  "content": "**\"Insured\"**\nThe Person named as Insured in the Policy Schedule.\n\n**\"Insured Perils\"**\n1. Fire, explosion, lightning or thunderbolt\n2. Hurricane, cyclone, typhoon, windstorm or flood\n3. Bursting, leaking, discharging or overflowing of water pipes\n4. Earthquake, earthquake shock, subterranean fire or volcanic eruption\n5. Impact by aircraft and other aerial or spatial devices and articles dropped therefrom\n6. Riot\n7. Malicious act\n8. Theft, attempted theft or burglary\n\n**\"Money\"**\nCurrent legal tender bank or currency notes, crossed cheques, postal and money orders belonging to You, kept in Your Home and used solely for private, social and domestic purposes.\n\n**\"Period of Insurance\"**\nThe period up to and including the Expiry Date of the Policy during which the Policy is effective and has not been cancelled or otherwise terminated and shall only be extended upon payment of the monthly, annual, three (3) or five (5) year premium as applicable.",
+  "questions": [
+    "How does the definition of 'Insured' affect the eligibility for claims under the policy, especially when multiple persons are named or when coverage is extended to family members?",
+    "In what scenarios would damage caused by 'Insured Perils' such as riot or malicious act be covered, and how do these perils interact with general exclusions like war or terrorism?",
+    "How are losses due to theft or attempted theft handled under the policy, and what documentation is required to prove the occurrence of such insured perils?",
+    "What limitations apply to the coverage of 'Money' kept at home, and how does the policy define acceptable forms of money for claim purposes?",
+    "How does the policy treat damage caused by natural disasters like earthquake or flood, and are there any special conditions or exclusions that apply to these perils?",
+    "What is the significance of the 'Period of Insurance' in relation to premium payments, and how does non-payment affect the continuation or termination of coverage?",
+    "How are losses caused by impact from aircraft or aerial devices covered, and what proof is required to substantiate such claims under the insured perils?",
+    "In the event of damage from bursting or leaking water pipes, what conditions must be met for the loss to be considered under the insured perils, and are there any exclusions related to maintenance or wear and tear?",
+    "How does the policy define the geographical scope of coverage during the 'Period of Insurance,' and does the period include automatic extensions in case of travel delays?",
+    "What are the implications of the policy's definition of 'Money' for claims involving theft outside the home or for business-related funds?",
+    "How do the insured perils related to weather events like hurricane or typhoon interact with exclusions for pre-existing structural damage or lack of maintenance?",
+    "What procedures must the insured follow to ensure that coverage remains effective throughout the 'Period of Insurance,' especially when opting for multi-year premium payments?",
+    "How does the policy address claims arising from malicious acts, and what evidence is necessary to differentiate these from accidental damage or general negligence?",
+    "Are there any age or condition restrictions implied by the definition of 'Insured' that affect eligibility for coverage under the policy?",
+    "How does the policy handle claims for losses caused by riot, considering the potential for widespread civil unrest and the need for police reports or other documentation?",
+    "What are the policy's requirements regarding the storage and use of 'Money' at home to qualify for coverage, and how might misuse affect claim validity?",
+    "How does the policy define the start and end of the 'Period of Insurance' in relation to policy cancellation or termination, and what are the consequences for claims made after termination?",
+    "In cases where multiple insured perils occur simultaneously, such as fire caused by an earthquake, how does the policy determine coverage applicability and claim processing?",
+    "What exclusions or limitations might override coverage for insured perils like theft or malicious acts, particularly in cases involving negligence or failure to secure property?",
+    "How does the policy ensure that coverage for insured perils remains consistent across different types of property or locations within the insured's home?"
+  ]
+}

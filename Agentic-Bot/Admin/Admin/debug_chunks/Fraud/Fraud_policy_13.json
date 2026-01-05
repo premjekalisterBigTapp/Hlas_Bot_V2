@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_13",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 13,
+    "content_length": 876,
+    "is_empty": false
+  },
+  "content": "\"Home\" means Your primary residential property that You ordinarily reside in and which is used solely for domestic purposes.\n\n\"Hospital\" means an institution lawfully operated for the care and treatment of injured or sick persons with organized facilities for diagnosis and surgery, having twenty-four (24) hours per day nursing services by legally qualified registered nurses and medical supervision under Registered Medical Practitioners, but not including any institution used primarily as a clinic, a nursing or convalescent home, a place of rest, a geriatric care facility, a mental institution, a rehabilitation centre, community care facilities, community treatment facilities or such extended care facility as may be designated for treatment by the Ministry of Health in Singapore from time to time, or a place for the care or treatments of alcoholics or drug addicts.",
+  "questions": [
+    "How does the definition of 'Home' as Your primary residential property used solely for domestic purposes affect eligibility for claims related to property damage or theft when the property is used partially for business activities?",
+    "In what scenarios would treatment received at a facility not classified as a 'Hospital' under this policy, such as a nursing home or rehabilitation centre, be excluded from coverage for medical expenses?",
+    "How does the requirement for a 'Hospital' to have 24-hour nursing services by legally qualified registered nurses and supervision by Registered Medical Practitioners impact claims for emergency treatments received at clinics or day surgery centres?",
+    "What are the implications for coverage if a patient is admitted to a mental institution or geriatric care facility that is explicitly excluded from the definition of 'Hospital' in this policy?",
+    "How does the exclusion of facilities primarily used as places of rest or community care affect claims for prolonged treatments or convalescence following an injury or illness?",
+    "If a treatment is received at a facility designated by the Ministry of Health in Singapore as an extended care facility, how does this designation influence the applicability of hospital-related benefits under the policy?",
+    "How does the policy distinguish between coverage for medical treatment received at a hospital versus a clinic, and what documentation is required to prove the facility meets the 'Hospital' definition?",
+    "In cases where a patient is transferred from a hospital to a rehabilitation centre or nursing home, how does the policy address coverage for ongoing care at the excluded facilities?",
+    "How does the definition of 'Home' affect claims related to temporary residences or secondary properties where the insured may reside during travel or work assignments?",
+    "What are the consequences for claims if the insured receives treatment at a facility primarily used for the care of alcoholics or drug addicts, given the exclusion in the hospital definition?",
+    "How does the policy handle situations where a facility provides both hospital services and excluded services like mental health or geriatric care within the same institution?",
+    "What documentation or proof is required to establish that a facility qualifies as a 'Hospital' under this policy's definition when submitting a claim for medical expenses?",
+    "How does the exclusion of community treatment facilities from the hospital definition impact coverage for outpatient treatments or therapies received at such centres?",
+    "In what ways does the policy's definition of 'Home' limit coverage for incidents occurring at properties used for mixed domestic and commercial purposes?",
+    "How does the policy address claims for medical treatment received overseas at institutions that may not meet the Singapore-specific hospital definition provided?",
+    "What is the impact on coverage if nursing services at a facility are provided by personnel who are not legally qualified registered nurses as specified in the hospital definition?",
+    "How does the exclusion of rehabilitation centres and convalescent homes from the hospital definition affect claims for post-surgical recovery care?",
+    "If an insured is admitted to a hospital that lacks organized facilities for diagnosis and surgery, how does this affect the validity of claims for inpatient treatment?",
+    "How does the policy treat claims for medical supervision provided by practitioners who are not Registered Medical Practitioners as defined in the hospital criteria?",
+    "What are the implications for coverage if the insured's primary residence ('Home') is temporarily unoccupied or used for non-domestic purposes during the policy period?"
+  ]
+}

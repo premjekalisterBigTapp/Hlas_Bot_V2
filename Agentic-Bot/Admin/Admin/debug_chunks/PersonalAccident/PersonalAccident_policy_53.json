@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_53",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 53,
+    "content_length": 932,
+    "is_empty": false
+  },
+  "content": "* **Period of Coverage (Not Exceeding):** 2 months\n    * **Premium Refund (% of Annual Premium):** 60%\n* **Period of Coverage (Not Exceeding):** 3 months\n    * **Premium Refund (% of Annual Premium):** 50%\n* **Period of Coverage (Not Exceeding):** 4 months\n    * **Premium Refund (% of Annual Premium):** 40%\n* **Period of Coverage (Not Exceeding):** 5 months\n    * **Premium Refund (% of Annual Premium):** 30%\n* **Period of Coverage (Not Exceeding):** 6 months\n    * **Premium Refund (% of Annual Premium):** 20%\n* **Period of Coverage (Not Exceeding):** Exceeding 6 months\n    * **Premium Refund (% of Annual Premium):** 0%\n\n**4. Contract (Rights of Third Parties) Act 2001**\nA person who is not a party to this Policy shall have no right under the Contracts (Rights of Third Parties) Act 2001 to enforce any of its terms.\n\n**5. Currency**\nAll amounts shown are in Singapore dollars. All claims will be paid in Singapore dollars.",
+  "questions": [
+    "How does the premium refund percentage change based on the period of coverage not exceeding 2 to over 6 months, and what implications does this have for policyholders who terminate their coverage early?",
+    "In what ways does the policy's limitation on premium refunds for coverage periods exceeding 6 months affect the financial recovery options for long-term insured individuals?",
+    "How does the policy handle premium refunds for coverage periods exactly at the boundary months (e.g., exactly 2 months, exactly 3 months), and what documentation might be required to prove the period of coverage for refund eligibility?",
+    "What are the consequences for a policyholder seeking a premium refund if their coverage period is extended beyond 6 months, considering the refund percentage is zero?",
+    "How does the policy's specification of all amounts and claims being paid in Singapore dollars impact claimants who incur expenses in foreign currencies during their coverage period?",
+    "What legal limitations does the Contract (Rights of Third Parties) Act 2001 impose on third parties attempting to enforce any terms of this insurance policy, and how might this affect beneficiaries or dependents not named in the policy?",
+    "How might the premium refund scale interact with policy cancellation requests made at different times within the coverage period, and what potential disputes could arise regarding the exact timing and refund amount?",
+    "Considering the premium refund percentages, how should a policyholder plan their coverage duration to maximize potential refunds if they anticipate an early termination of the policy?",
+    "How does the policy ensure clarity and fairness in refund calculations when the coverage period is close to but does not exceed a refund threshold (e.g., 2 months vs. 2 months and 1 day)?",
+    "What are the implications of the policy's currency clause for claim payments when exchange rates fluctuate significantly between the time of expense and claim settlement?",
+    "How does the exclusion of third-party rights under the Contracts (Rights of Third Parties) Act 2001 affect claims made by immediate family members or travel companions who are not policyholders?",
+    "In scenarios where a policyholder's coverage period is extended multiple times but ultimately exceeds 6 months, how does the zero percent premium refund clause apply, and what are the policyholder's options?",
+    "How does the policy address premium refunds in cases where the insured cancels coverage due to unforeseen circumstances within the first two months, and what documentation is necessary to support such claims?",
+    "What legal protections or limitations exist for agents or brokers who might attempt to enforce policy terms on behalf of clients, given the third-party rights exclusion?",
+    "How does the policy's refund schedule align with typical travel durations, and what strategic advice could be given to travelers planning trips of varying lengths to optimize premium refunds?",
+    "In the event of a dispute over the currency conversion for claim payments, what recourse does the insured have given that all claims are paid in Singapore dollars?",
+    "How might the premium refund percentages influence a policyholder's decision to upgrade or downgrade their coverage period mid-term, especially in relation to potential refund losses?",
+    "What are the potential legal ramifications if a third party attempts to claim benefits or enforce terms under this policy despite the explicit exclusion of third-party rights?",
+    "How does the policy define the start and end of the coverage period for the purpose of calculating premium refunds, and what evidence is required to verify these dates?",
+    "In what ways could the policyholder's understanding of the refund scale and currency clause affect their financial planning when purchasing annual coverage but only traveling for a shorter period?"
+  ]
+}

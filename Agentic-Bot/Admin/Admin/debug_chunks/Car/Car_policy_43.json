@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_43",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 43,
+    "content_length": 718,
+    "is_empty": false
+  },
+  "content": "If We shall consent to a transfer of interest in this Policy, the period during which the interest was in the Transferor shall not accrue to the benefit of the Transferee.\n\nYou cannot transfer the No Claim Discount (NCD) to anyone else.\n\nNo Claim Discount (NCD) shall be reduced if one or more claims have been made during a Period of Insurance as follows:\n\n**NCD Table 2**\n* With a current NCD of 50%, the reduced NCD is 20% if one claim is made, and 0% if two or more claims are made.\n* With a current NCD of 40%, the reduced NCD is 10% if one claim is made, and 0% if two or more claims are made.\n* With a current NCD of 10% to 30%, the reduced NCD is 0% if one claim is made, and 0% if two or more claims are made.",
+  "questions": [
+    "How does the policy handle the transfer of interest in the policy between parties, and what impact does this have on the accumulation of benefits during the transferor's period of interest?",
+    "In what ways is the No Claim Discount (NCD) non-transferable, and what are the implications for policyholders wishing to assign their NCD to another person?",
+    "How is the No Claim Discount (NCD) adjusted if one claim is made during a Period of Insurance when the current NCD is at 50%, and how does this compare to adjustments when two or more claims are made?",
+    "What are the specific NCD reduction percentages applied when the current NCD is 40% and one claim is made versus when two or more claims are made during the Period of Insurance?",
+    "How does the policy reduce the NCD when the current NCD is between 10% and 30% and one or more claims are made, and what does this imply about the minimum NCD after claims?",
+    "What conditions must be met for the period during which the interest was held by the transferor to not accrue to the transferee, and how does this affect the transferee's benefits?",
+    "How does the policy define the relationship between the number of claims made in a Period of Insurance and the corresponding reduction in No Claim Discount across different initial NCD levels?",
+    "If a policyholder with a 50% NCD makes two claims in a Period of Insurance, what is the resulting NCD, and how does this compare to making only one claim?",
+    "What is the effect on the NCD if a policyholder with a 40% NCD makes no claims during the Period of Insurance, and how does this contrast with making one or more claims?",
+    "Can the No Claim Discount be partially transferred or shared between policyholders, and what policy provisions govern this?",
+    "How does the policy ensure that the benefits accrued during the transferor's ownership period are not unfairly transferred to the transferee, and what are the potential consequences for the transferee?",
+    "What are the implications for a policyholder's premium if their NCD is reduced from 50% to 20% due to one claim, and how might this affect future renewal costs?",
+    "How does the policy treat multiple claims within a single Period of Insurance in terms of NCD reduction, and what thresholds trigger the maximum reduction?",
+    "If a policyholder with an initial NCD of 30% makes one claim, what is their new NCD, and how does this compare to the NCD after two or more claims?",
+    "What rationale might underlie the policy's decision to not allow the transfer of NCD, and how does this align with common insurance industry practices?",
+    "How does the policy's NCD reduction schedule incentivize claim-free periods, and what are the financial impacts of making claims at different NCD levels?",
+    "In the event of a policy interest transfer, how does the policy prevent the transferee from benefiting from the transferor's claim history or accrued discounts?",
+    "What documentation or consent might be required for the insurer to approve a transfer of interest in the policy, and how does this affect the NCD and other benefits?",
+    "How does the policy address scenarios where multiple claims are made in quick succession within the same Period of Insurance in relation to NCD adjustments?",
+    "What are the potential consequences for a policyholder's renewal premium if their NCD is reduced to 0% due to claims, and how might this influence their decision to file claims?"
+  ]
+}

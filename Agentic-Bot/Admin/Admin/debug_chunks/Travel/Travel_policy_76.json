@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_policy_76",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "policy",
+    "source_file": "Travel_policy.md",
+    "chunk_index": 76,
+    "content_length": 775,
+    "is_empty": false
+  },
+  "content": "**Covered Events and Percentage of Benefit Limit:**\n* **Covered Event 1 (Death):** 100% of Benefit Limit\n* **Covered Event 2 (Permanent Total Disablement):** 100% of Benefit Limit\n* **Covered Event 3 (Loss of two eyes, two limbs or one eye and one limb):** 100% of Benefit Limit\n* **Covered Event 4 (Loss of one eye or one limb):** 50% of Benefit Limit\n* **Covered Event 5 (Major Burns):** 100% of Benefit Limit\n\nIn the event of Your death, the benefits payable for death under this Section will be paid to Your legal personal representative(s).\n\n**Exclusions Applicable to Section 10**\nNo benefit will be payable under Section 10:\n1.  Unless death or loss occurs within twelve (12) months from the date of the relevant Bodily Injury.\n2.  For more than one (1) Covered Event.",
+  "questions": [
+    "How does the policy determine the percentage of the benefit limit payable for different types of bodily injuries such as death, permanent total disablement, loss of limbs or eyes, and major burns, and what documentation is required to support these claims?",
+    "What is the time limit within which death or loss must occur following the bodily injury to qualify for benefits under Section 10, and how does this interact with the requirement for reporting and medical evidence?",
+    "If a claimant suffers multiple covered events from the same bodily injury, how does the policy limit the benefits payable under Section 10, and what are the implications for partial versus total losses?",
+    "In the event of the insured's death, who is entitled to receive the death benefit under Section 10, and what legal documentation must be provided to establish entitlement?",
+    "How does the policy define and differentiate between permanent total disablement and loss of limbs or eyes for the purpose of benefit calculation under Section 10?",
+    "What exclusions apply specifically to Section 10 regarding the timing of death or loss, and how might these exclusions override general policy coverage for bodily injury claims?",
+    "How are major burns classified under Section 10 in terms of benefit percentage, and what medical criteria or evidence are necessary to substantiate a claim for major burns?",
+    "If a bodily injury results in the loss of one eye and one limb, how is the benefit percentage calculated under Section 10, and how does this compare to losses involving only one eye or one limb?",
+    "What happens if death or loss occurs after twelve months from the date of the bodily injury, and how does this exclusion affect claims for delayed complications or secondary conditions?",
+    "How does the policy handle claims where more than one covered event is claimed from the same injury, and what documentation or medical assessments are required to determine the applicable benefit?",
+    "In cases where the insured suffers permanent total disablement but also has major burns, how does the policy apply the single covered event limitation under Section 10?",
+    "What are the procedural requirements for submitting a claim under Section 10, including timelines and proof of injury or death, to ensure compliance with the twelve-month occurrence rule?",
+    "How does the policy address situations where the insured survives a bodily injury but later dies from complications related to that injury within the twelve-month period?",
+    "Are there any exceptions or waivers to the exclusion of benefits if death or loss occurs beyond twelve months, such as in cases of medical negligence or delayed diagnosis?",
+    "How does the policy define the loss of a limb or eye for benefit calculation purposes, and what medical or legal standards are referenced to confirm such losses?",
+    "In the event that the insured suffers a covered event but the legal personal representative is not immediately known or appointed, how does the policy manage the payment of death benefits under Section 10?",
+    "How does the exclusion of benefits for more than one covered event affect claims involving complex injuries with multiple impairments, and what guidance does the policy provide for prioritizing claims?",
+    "What impact does the twelve-month time limit have on claims involving progressive conditions resulting from the initial bodily injury, such as worsening disability or partial loss evolving into total loss?",
+    "How are benefits calculated and paid if the insured suffers a loss of one eye or one limb and subsequently experiences permanent total disablement from the same injury within the twelve-month period?",
+    "What is the interaction between Section 10 exclusions and any general policy exclusions related to pre-existing conditions or intentional self-harm in the context of bodily injury claims?"
+  ]
+}

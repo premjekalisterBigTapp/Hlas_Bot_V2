@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_67",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 67,
+    "content_length": 965,
+    "is_empty": false
+  },
+  "content": "## GENERAL EXCLUSIONS (Applicable to the whole Policy)\n\n1. Any willful, malicious, criminal or unlawful acts committed by You and/or any person acting on the Your behalf.\n2. Nuclear weapons material or ionizing radiation or contamination by radioactivity from any nuclear fuel or from any nuclear waste from the combustion of nuclear fuel. For the purpose of these Exclusions, combustion shall include any self-sustaining process of nuclear fission.\n3. War, invasion, acts of foreign enemies, hostilities, or warlike operations (whether War be declared or not), civil war, mutiny, revolution, insurrection, conspiracy, civil commotion assuming the proportions of or amounting to an uprising, military or usurped power. This endorsement also excludes loss, damage, cost or expense of whatsoever nature directly or indirectly caused by, resulting from or in connection with any action taken in controlling, preventing, suppressing or in any way relating to the above.",
+  "questions": [
+    "How does the policy address claims arising from willful or criminal acts committed by the insured or their representatives, and what documentation is required to prove the nature of such acts?",
+    "In what scenarios would losses caused by nuclear weapons material or ionizing radiation be excluded, and how does the definition of combustion affect coverage for contamination from nuclear fuel?",
+    "How are claims impacted if the insured is involved in events related to war, invasion, or civil commotion, and does the exclusion apply even if war is not officially declared?",
+    "What is the interplay between the general exclusion for warlike operations and any potential coverage for losses incurred during military or usurped power situations?",
+    "If a loss occurs during an insurrection or revolution, how does the policy determine coverage eligibility, and are there any exceptions or conditions that might override this exclusion?",
+    "How does the exclusion for nuclear contamination apply to indirect losses or expenses resulting from such contamination, and what examples illustrate this indirect impact?",
+    "In cases where the insured's actions are deemed malicious but unintentional, how does the policy interpret the willful or malicious acts exclusion?",
+    "How does the policy treat claims related to civil commotion that do not reach the level of an uprising, and what thresholds determine applicability of the exclusion?",
+    "What documentation or evidence is required to establish that a loss was caused by or connected to warlike operations or military power, affecting claim approval?",
+    "How does the exclusion for conspiracy relate to claims arising from coordinated unlawful acts, and does it extend to third parties acting on behalf of the insured?",
+    "Are losses resulting from preventive or suppressive actions taken by authorities during war or civil unrest covered, or are they excluded under the policy?",
+    "How does the policy define 'acts of foreign enemies' in the context of exclusions, and what implications does this have for claims during international conflicts?",
+    "If a claim involves damage from radioactive contamination during peacetime nuclear accidents, how does the exclusion for nuclear fuel combustion apply?",
+    "How does the policy handle claims arising from mutiny or military uprisings within the insured's country, and are there any geographic limitations to this exclusion?",
+    "In what ways do the general exclusions override any section-specific coverage that might otherwise apply to losses related to war or nuclear incidents?",
+    "How does the policy address scenarios where the insured unknowingly participates in unlawful acts, and what impact does this have on claim validity?",
+    "What are the implications of the exclusion for losses indirectly caused by war or civil commotion, such as supply chain disruptions or travel delays?",
+    "How does the policy distinguish between lawful civil protests and civil commotion amounting to an uprising for the purpose of exclusions?",
+    "If a loss occurs during a declared state of emergency but not during active hostilities, how does the war exclusion apply?",
+    "How do the general exclusions interact with any optional covers or riders that might provide limited coverage for acts related to political unrest or nuclear incidents?"
+  ]
+}

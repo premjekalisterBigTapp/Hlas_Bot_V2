@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_policy_188",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "policy",
+    "source_file": "Travel_policy.md",
+    "chunk_index": 188,
+    "content_length": 684,
+    "is_empty": false
+  },
+  "content": "* (a) Loss of or damage to data or software, in particular any detrimental change in data, software or computer programs that is caused by a deletion, a corruption or a deformation of the original structure, and any business interruption losses resulting from such loss or damage. Notwithstanding this exclusion, loss of or damage to data or software which is the direct consequence of insured physical damage to the substance of property shall be covered.\n    * (b) Loss or damage resulting from an impairment in the function, availability, range of use or accessibility of data, software or computer programs, and any business interruption losses resulting from such loss or damage.",
+  "questions": [
+    "How does the policy differentiate coverage between physical damage to property causing data loss and direct data or software corruption without physical damage, and what implications does this have for business interruption claims?",
+    "In what scenarios would loss or damage to software due to deletion or corruption be excluded, and how does this exclusion interact with claims involving insured physical damage to the property?",
+    "How are business interruption losses treated when they result from data or software impairment without any physical damage to the insured property?",
+    "What documentation or evidence might be required to prove that data loss was a direct consequence of insured physical damage to property to qualify for coverage?",
+    "If data or software becomes inaccessible due to a functional impairment rather than physical damage, how does the policy address coverage and exclusions for such losses?",
+    "How does the exclusion of loss or damage from deformation of data or software affect claims arising from cyber incidents that do not involve physical property damage?",
+    "In cases where data corruption leads to a loss of use of software, how does the policy distinguish between covered physical damage and excluded functional impairments?",
+    "What are the limits or conditions under which business interruption losses caused by data or software damage are covered, considering the exclusions stated?",
+    "How does the policy treat claims involving loss of data stored on physical devices that have suffered insured physical damage versus claims involving purely digital data loss?",
+    "Are there any exceptions to the exclusion of loss or damage resulting from impairment in accessibility or range of use of software, particularly when linked to physical damage?",
+    "How would the policy handle a claim where software is damaged due to a virus causing corruption but no physical damage to hardware occurred?",
+    "What is the impact of the exclusion on claims for loss of data caused by accidental deletion by the insured, and how does this differ from data loss due to physical damage?",
+    "In the event of a business interruption caused by software malfunction without physical property damage, what exclusions apply and how might this affect claim eligibility?",
+    "How does the policy define 'insured physical damage to the substance of property' in relation to coverage for data or software loss?",
+    "What role does the cause of data or software damage (physical vs. non-physical) play in determining coverage for consequential business interruption losses?",
+    "How are impairments in the function or availability of software treated differently from physical damage under the policy's exclusions and coverage provisions?",
+    "If data loss occurs as a secondary effect of physical damage to property, how does the policy address the timing and proof requirements for such claims?",
+    "Does the policy provide any coverage for loss or damage to data or software resulting from external cyberattacks that do not cause physical damage to insured property?",
+    "How do the exclusions related to data and software loss interact with general policy exclusions, such as those for intentional acts or wear and tear?",
+    "In what ways might the policy's exclusion of data and software impairment losses affect claims involving modern digital devices or cloud-based software used during travel?"
+  ]
+}

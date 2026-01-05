@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_32",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 32,
+    "content_length": 830,
+    "is_empty": false
+  },
+  "content": "### EXCLUSIONS TO SECTION II\n1. death of or bodily injury to an employee arising out of and in the course of employment by a person insured under this Policy,\n2. damage to property belonging to or held in trust by or in the custody or control of:\n   (i) the Policyholder or any member of his household,\n   (ii) any Authorised Driver claiming to be indemnified under Section II-1 or any member of his household.\n\n### SECTION III - MEDICAL EXPENSES\nIf You, Your Authorised Driver or any passenger in the Insured Vehicle suffer(s) bodily injury, sustained as the direct and immediate result of an accident to the Insured Vehicle during the Period of Insurance and caused by accidental, violent, external and visible means, We will pay the reasonable medical expenses incurred, subject to a maximum of S$1,000 per person per accident.",
+  "questions": [
+    "How does the exclusion of bodily injury to employees arising out of employment affect claims under Section III for medical expenses following an accident involving the insured vehicle?",
+    "In what scenarios would damage to property held in trust by the policyholder or their household members be excluded from coverage under Section II, and how does this exclusion interact with claims for medical expenses under Section III?",
+    "If an authorised driver or their household member suffers bodily injury in an accident involving the insured vehicle, how do the exclusions in Section II impact the eligibility for medical expense reimbursement under Section III?",
+    "What are the conditions under which medical expenses for bodily injury to passengers in the insured vehicle are covered, and how do the exclusions related to property damage in Section II influence these claims?",
+    "How does the policy define the timing and cause requirements for bodily injury to qualify for medical expense coverage under Section III, and what documentation might be necessary to prove the injury was caused by accidental, violent, external, and visible means?",
+    "What is the maximum medical expense payable per person per accident under Section III, and how might this limit interact with multiple injured parties in a single accident involving the insured vehicle?",
+    "How do the exclusions related to damage to property in the custody or control of the policyholder or authorised drivers affect claims for medical expenses if property damage and bodily injury occur simultaneously in an accident?",
+    "If an employee of the policyholder is injured while driving the insured vehicle during employment, how do the Section II exclusions and Section III medical expense coverage apply or conflict?",
+    "Under what circumstances would bodily injury to an authorised driver be excluded from medical expense coverage due to the exclusions in Section II, and how does this exclusion relate to the definition of 'authorised driver' in the policy?",
+    "How does the policy address medical expenses for bodily injury sustained by passengers who are not employees or household members of the policyholder or authorised drivers, considering the exclusions in Section II?",
+    "What types of bodily injury are excluded from medical expense coverage under Section III due to the requirement that the injury must be caused by accidental, violent, external, and visible means, and how might this affect claims involving internal injuries without visible signs?",
+    "How do the exclusions in Section II regarding property damage to household members interact with claims for medical expenses if a household member is injured in an accident involving the insured vehicle?",
+    "In the event of an accident causing both property damage and bodily injury, how does the policy distinguish between exclusions applicable to property damage under Section II and coverage for medical expenses under Section III?",
+    "What documentation or evidence is likely required to demonstrate that bodily injury was the direct and immediate result of an accident to the insured vehicle, as stipulated in Section III, especially when exclusions in Section II might complicate the claim?",
+    "How does the policy handle claims for medical expenses if the bodily injury occurs outside the period of insurance or is not directly caused by an accident to the insured vehicle, considering the exclusions and conditions in Sections II and III?",
+    "If an authorised driver claims indemnity under Section II-1 but suffers bodily injury in an accident, how do the exclusions to Section II affect their entitlement to medical expense reimbursement under Section III?",
+    "How do the exclusions related to property damage held in trust or custody by the policyholder or authorised drivers impact the overall liability coverage, and do these exclusions extend to medical expenses for bodily injury under Section III?",
+    "What is the interplay between the exclusion of employee injuries arising out of employment under Section II and the coverage for medical expenses under Section III when the injured party is both an employee and a passenger in the insured vehicle?",
+    "How does the policy define 'accidental, violent, external and visible means' in the context of bodily injury for medical expense claims, and what exclusions in Section II might limit coverage despite meeting this definition?",
+    "In cases where multiple parties including employees, authorised drivers, household members, and passengers are injured in a single accident, how do the Section II exclusions and Section III medical expense limits collectively determine the scope of coverage?"
+  ]
+}

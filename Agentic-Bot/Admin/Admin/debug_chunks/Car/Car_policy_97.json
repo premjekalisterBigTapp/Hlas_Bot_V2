@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_97",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 97,
+    "content_length": 871,
+    "is_empty": false
+  },
+  "content": "#### M12-No Claim Discount Protection\nYour No Claim Discount (NCD) entitlement in this Policy is protected on the next renewal of the Policy as follow:\n\n* **With an Existing No Claim Discount of 30%:**\n    * If one (1) claim is made, the NCD on renewal is 30%.\n    * If two (2) claims are made, the NCD on renewal is 0%.\n    * If three or more (>3) claims are made, the NCD on renewal is 0%.\n* **With an Existing No Claim Discount of 40%:**\n    * If one (1) claim is made, the NCD on renewal is 40%.\n    * If two (2) claims are made, the NCD on renewal is 10%.\n    * If three or more (>3) claims are made, the NCD on renewal is 0%.\n* **With an Existing No Claim Discount of 50%:**\n    * If one (1) claim is made, the NCD on renewal is 50%.\n    * If two (2) claims are made, the NCD on renewal is 20%.\n    * If three or more (>3) claims are made, the NCD on renewal is 0%.",
+  "questions": [
+    "How does the number of claims made during the policy period affect the No Claim Discount (NCD) entitlement on renewal for a policyholder with an existing 30% NCD, and what happens if more than three claims are made?",
+    "For a policyholder with an existing 40% NCD, how is the renewal NCD adjusted if exactly two claims are made, and how does this compare to the adjustment if only one claim is made?",
+    "What is the impact on the renewal NCD for a policyholder starting with a 50% NCD if they make three or more claims during the policy period, and how does this differ from making just one claim?",
+    "In what way does the NCD protection differ between policyholders with existing NCDs of 30%, 40%, and 50% when exactly one claim is made during the policy period?",
+    "If a policyholder with a 40% existing NCD makes two claims, what is their NCD on renewal, and how does this compare to the renewal NCD for a policyholder with a 30% existing NCD making the same number of claims?",
+    "How does the policy treat the renewal NCD for a policyholder with a 50% existing NCD who makes two claims, and what is the minimum NCD they can have on renewal under this scenario?",
+    "What are the consequences on the renewal NCD if a policyholder with any existing NCD level makes more than three claims during the policy period?",
+    "How does the policy ensure protection of the NCD for policyholders who make only one claim, regardless of their existing NCD percentage?",
+    "Can a policyholder with an existing 30% NCD maintain any NCD on renewal if they make two claims, and what is the exact percentage if so?",
+    "For a policyholder with a 50% existing NCD, what is the renewal NCD if no claims are made, and how does this compare to the renewal NCD if one claim is made?",
+    "How does the policy define the threshold for reducing the NCD to zero, and does this threshold vary depending on the existing NCD percentage?",
+    "If a policyholder with a 40% NCD makes three claims, what is their renewal NCD, and how does this compare to the renewal NCD if they make only one claim?",
+    "What is the renewal NCD for a policyholder with a 30% existing NCD who makes no claims during the policy period, based on the information provided?",
+    "How does the policy handle the renewal NCD for a policyholder with a 50% existing NCD who makes exactly two claims, and what is the percentage difference compared to making one claim?",
+    "Is there any scenario under the policy where a policyholder's renewal NCD increases after making claims, and what does the policy specify about this?",
+    "How does the policy's NCD protection mechanism balance between encouraging no claims and penalizing multiple claims across different existing NCD levels?",
+    "What is the renewal NCD for a policyholder with an existing 40% NCD who makes no claims, and how does this compare to the renewal NCD after one claim?",
+    "How does the policy treat the renewal NCD for a policyholder with an existing 30% NCD who makes three claims, and what is the implication for their premium?",
+    "For a policyholder with a 50% existing NCD, what is the renewal NCD if they make more than three claims, and how does this compare to making two claims?",
+    "How does the policy's NCD protection clause interact with the number of claims made to determine the renewal discount, and what are the specific renewal percentages for each claim count and existing NCD level?"
+  ]
+}

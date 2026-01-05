@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_policy_31",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "policy",
+    "source_file": "Hospital_policy.md",
+    "chunk_index": 31,
+    "content_length": 948,
+    "is_empty": false
+  },
+  "content": "### Section 6. No Claim Bonus\n\nIf no claim has been made under this Policy after twelve (12) consecutive months, We will refund 20% of the premium that You have paid at the end of each annual period. Provided that:\n\n(a) There has been no interruption of cover for a period of twelve (12) consecutive months.\n\n(b) Premium has been fully paid. Should a claim be made or reported for the preceding annual period after a refund has been made to You, We shall have the rights to recover any refund made.\n\nA claim is considered to have been made in the preceding annual period if any covered event falls within this period, regardless of the date of submission of the claim.\n\n## GENERAL EXCLUSIONS\n\nUnless otherwise expressly stated or extended in the Policy, this Policy does not insure any consequential loss or any legal liability or any Injury, Illness or disease and death to You directly or indirectly caused by, or contributed to, or arising from:",
+  "questions": [
+    "How does the No Claim Bonus refund calculation interact with the requirement of uninterrupted coverage and full premium payment over the twelve-month period?",
+    "In what scenarios can the insurer recover a previously paid No Claim Bonus refund if a claim is subsequently made or reported for the preceding annual period?",
+    "How is a claim defined for the purpose of determining eligibility for the No Claim Bonus, particularly regarding the timing of the covered event versus the claim submission date?",
+    "What are the implications of a policy interruption within the twelve consecutive months on the entitlement to the No Claim Bonus refund?",
+    "How do the General Exclusions affect the applicability of the No Claim Bonus if a claim involves consequential loss or legal liability?",
+    "Can a claim related to Injury, Illness, or death caused indirectly by an excluded event affect the No Claim Bonus refund eligibility?",
+    "What documentation or proof is required to establish that no claim has been made during the twelve-month period to qualify for the No Claim Bonus?",
+    "How does the policy handle situations where a claim event occurs within the twelve-month period but is reported after the refund has been issued?",
+    "Are there any exceptions within the policy that would allow a claim excluded under General Exclusions to still impact the No Claim Bonus?",
+    "How does the requirement of full premium payment influence the timing and amount of the No Claim Bonus refund?",
+    "What happens to the No Claim Bonus if a policyholder cancels the policy before completing twelve consecutive months of coverage?",
+    "How does the policy define 'interruption of cover' in relation to the No Claim Bonus eligibility?",
+    "In cases where multiple claims are made within a twelve-month period, how is the No Claim Bonus affected?",
+    "Does the No Claim Bonus apply if a claim is made for an event that occurred before the current twelve-month period but reported during it?",
+    "How do the General Exclusions on legal liability and consequential loss interact with claims that might otherwise qualify for the No Claim Bonus?",
+    "What is the process for the insurer to recover a No Claim Bonus refund if a claim is made after the refund has been paid?",
+    "How does the policy treat claims related to diseases or injuries that develop gradually over the twelve-month period in relation to the No Claim Bonus?",
+    "Are there any provisions for partial refunds or adjustments to the No Claim Bonus if a claim is only partially covered under the policy?",
+    "How does the No Claim Bonus provision coordinate with other policy sections that might extend coverage or override General Exclusions?",
+    "What are the consequences for the No Claim Bonus if the premium payment is late or incomplete during the twelve-month period?"
+  ]
+}

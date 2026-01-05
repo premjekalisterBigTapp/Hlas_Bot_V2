@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_49",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 49,
+    "content_length": 942,
+    "is_empty": false
+  },
+  "content": "(b) **Cancellation by Policyholder**\n* For a policy before inception, the premium refund is 87.50% of the annual premium.\n* For a period of coverage not exceeding 1 week, the premium refund is 87.50% of the annual premium.\n* For a period of coverage not exceeding 1 month, the premium refund is 75.00% of the annual premium.\n* For a period of coverage not exceeding 2 months, the premium refund is 62.50% of the annual premium.\n* For a period of coverage not exceeding 3 months, the premium refund is 50.00% of the annual premium.\n* For a period of coverage not exceeding 4 months, the premium refund is 37.50% of the annual premium.\n* For a period of coverage not exceeding 5 months, the premium refund is 35.00% of the annual premium.\n* For a period of coverage not exceeding 6 months, the premium refund is 25.00% of the annual premium.\n* For a period of coverage not exceeding 7 months, the premium refund is 20.00% of the annual premium.",
+  "questions": [
+    "How does the premium refund percentage vary depending on the length of the coverage period when a policyholder cancels the policy before inception versus after inception?",
+    "What is the premium refund percentage if a policyholder cancels a policy with a coverage period not exceeding 3 months, and how does this compare to cancellation within 1 month?",
+    "If a policyholder cancels a policy after 5 months of coverage, what refund percentage applies, and how does this differ from cancellation after 6 months?",
+    "In the event of cancellation by the policyholder for a coverage period not exceeding 7 months, what is the minimum premium refund percentage they can expect?",
+    "How does the refund percentage change between cancellation for coverage periods not exceeding 2 months and those not exceeding 4 months?",
+    "What refund percentage applies if a policyholder cancels a policy with a coverage period not exceeding 1 week, and how does this relate to cancellation before policy inception?",
+    "If a policyholder cancels a policy after 4 months of coverage, what refund percentage applies, and what implications does this have for longer coverage periods up to 7 months?",
+    "How are premium refunds calculated for cancellations occurring at various coverage durations, and what is the pattern or trend in refund percentages as coverage length increases?",
+    "What refund percentage is applicable if a policyholder cancels a policy with coverage not exceeding 5 months, and how does this compare to cancellation at 3 months?",
+    "How does the policy handle premium refunds for cancellations occurring exactly at the boundary of coverage periods, such as exactly 1 month or exactly 6 months?",
+    "What is the refund percentage difference between cancelling a policy before inception and cancelling it after coverage has started but not exceeding 1 week?",
+    "If a policyholder cancels a policy after 2 months of coverage, what refund percentage applies, and how does this compare to cancellation after 7 months?",
+    "How does the refund percentage for cancellation by the policyholder change between coverage periods not exceeding 1 month and those not exceeding 2 months?",
+    "What refund percentage applies if a policyholder cancels a policy after 6 months of coverage, and how does this compare to cancellation after 7 months?",
+    "How does the policy define the refund percentage for cancellations occurring within the first month of coverage compared to cancellations occurring after 3 months?",
+    "If a policyholder cancels a policy with coverage not exceeding 4 months, what refund percentage applies, and how does this compare to cancellation within 2 months?",
+    "What is the refund percentage for cancellation by the policyholder if the coverage period does not exceed 5 months, and how does this percentage trend as coverage duration increases?",
+    "How does the refund percentage change between cancellation for coverage periods not exceeding 1 week and those not exceeding 1 month?",
+    "What refund percentage is given if a policyholder cancels a policy before inception, and how does this compare to cancellation after 7 months of coverage?",
+    "How does the policy's refund schedule incentivize early cancellation versus late cancellation by the policyholder in terms of premium refund percentages?"
+  ]
+}

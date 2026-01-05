@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_17",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 17,
+    "content_length": 538,
+    "is_empty": false
+  },
+  "content": "**\"Effective Date\"** means this Policy shall become effective and commence on the date specified in the Policy Schedule.\n\n**\"Expiry Date of the Policy\"** means the last day of every monthly or annual period starting from the Effective Date of the Policy stated on the Policy Schedule where Our liability thereunder shall only be extended upon payment of the monthly or annual premium as applicable.\n\n**\"Death\"** means the cessation of all Your biological functions occurring within twelve (12) calendar months of the date of the Accident.",
+  "questions": [
+    "How does the Effective Date specified in the Policy Schedule determine when coverage begins, and what implications does this have for incidents occurring before this date?",
+    "In what ways does the Expiry Date of the Policy limit the insurer's liability, and how does the requirement for premium payment affect the continuation of coverage beyond this date?",
+    "How is the definition of Death as cessation of all biological functions within twelve months of an Accident relevant to claims involving delayed fatalities, and what documentation might be required to establish this timeframe?",
+    "What happens if a claim for Death occurs after the twelve-month period following the Accident, and how does this interact with the policy's Effective and Expiry Dates?",
+    "How do monthly versus annual premium payments influence the policy's Expiry Date and the insurer's liability period?",
+    "If the premium is not paid on time, how does this affect the policy's Expiry Date and the coverage for incidents occurring near that date?",
+    "How does the policy define the commencement of coverage in relation to the Effective Date, and are there any conditions that could delay or invalidate this commencement?",
+    "In cases where an Accident occurs on the last day of the policy period, how does the twelve-month Death definition apply if death occurs after the policy Expiry Date?",
+    "What are the implications for coverage if the policyholder renews the policy after the Expiry Date, considering the Effective Date and liability extension?",
+    "How does the policy handle claims for Death resulting from an Accident that occurred before the Effective Date but death occurs after the policy commencement?",
+    "What documentation or proof might be necessary to confirm that Death occurred within twelve calendar months of the Accident as defined in the policy?",
+    "How does the policy address the scenario where the policyholder dies from causes unrelated to an Accident within the policy period?",
+    "In what ways do the definitions of Effective Date and Expiry Date interact to determine the valid coverage period for claims related to Accidents and Death?",
+    "How might the policy's liability be affected if the premium payment is made late but before the Expiry Date, considering the policy's terms on coverage extension?",
+    "What are the consequences for coverage if the policyholder attempts to claim Death benefits for an Accident occurring after the policy's Expiry Date?",
+    "How does the policy define the start and end of coverage periods for monthly policies compared to annual policies, and how does this affect claims for Death within twelve months of an Accident?",
+    "If an Accident occurs shortly before the Expiry Date, how does the policy ensure coverage for Death occurring within the twelve-month window after the Accident?",
+    "How does the policy's definition of Death interact with any general exclusions or conditions related to the timing of claims and policy periods?",
+    "What is the significance of specifying that the policy's liability is only extended upon payment of the premium in relation to the Effective and Expiry Dates?",
+    "How does the policy treat coverage for Death if the policyholder renews the policy after a lapse, considering the definitions of Effective Date and Expiry Date?"
+  ]
+}

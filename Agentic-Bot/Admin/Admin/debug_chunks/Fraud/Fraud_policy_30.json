@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_30",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 30,
+    "content_length": 897,
+    "is_empty": false
+  },
+  "content": "### Exclusions Applicable to Section 2\n\nNo benefit will be payable under Section 2:\n\n1. If You have not tried to reverse or cancel the charge made to Your Payment Card or Digital Wallet by contacting the bank or financial institution.\n2. If You have not tried to reverse or cancel the transfer of funds or property from Your Personal Account by contacting the bank or financial institution.\n3. If a request for Your confidential banking information and/or a transfer of funds or property was through any mode of communication other than through an Electronic Communication.\n\n### Section 3. Cyber Extortion\n\nWe will pay You to the extent insurable, up to the Benefit Limit, for the:\n\n1. Extortion Payment; or\n2. the fees, costs and expenses of an external expert appointed by Us to advise on, investigate and respond to the Cyber Extortion Threat or to mitigate the amount of any Extortion Payment,",
+  "questions": [
+    "How does the requirement to attempt reversing or canceling charges with the bank or financial institution affect the eligibility for benefits under Section 2 in cases of unauthorized Payment Card or Digital Wallet transactions?",
+    "In what scenarios would a failure to contact the bank or financial institution to reverse or cancel fund transfers from a Personal Account lead to exclusion of benefits under Section 2?",
+    "How does the mode of communication used to request confidential banking information or fund transfers impact the coverage under Section 2, particularly when the communication is not via Electronic Communication?",
+    "What are the implications of the exclusions in Section 2 on claims involving fraudulent transfers initiated through non-electronic means?",
+    "Under Section 3 Cyber Extortion, what types of payments and expenses are covered up to the Benefit Limit, and how does the appointment of an external expert influence the claim process?",
+    "How does the policy define and limit coverage for Extortion Payments and related expert fees under the Cyber Extortion section?",
+    "In cases where a Cyber Extortion Threat occurs, how does the insurer’s appointment of an external expert affect the insured’s ability to claim fees, costs, and expenses?",
+    "What documentation or proof might be required to demonstrate that an insured has attempted to reverse or cancel a Payment Card charge or fund transfer to avoid exclusions under Section 2?",
+    "How do the exclusions related to contacting financial institutions interact with the general requirement for timely notification of fraudulent transactions under travel insurance policies?",
+    "If a transfer of funds from a Personal Account was made after a request through a phone call rather than an Electronic Communication, how would this affect coverage under Section 2?",
+    "Can benefits under Section 2 be claimed if the insured failed to contact their bank but the transfer was made through an Electronic Communication, and what are the nuances involved?",
+    "How does the exclusion of non-electronic communication requests for confidential banking information align with common fraud scenarios in travel insurance claims?",
+    "What are the limits and conditions under which fees and expenses of an external expert appointed by the insurer for Cyber Extortion threats are payable, and how do these interact with the overall Benefit Limit?",
+    "In the event of a Cyber Extortion Threat, how does the policy distinguish between Extortion Payments made by the insured and the costs incurred for expert advice and mitigation?",
+    "How might the exclusions in Section 2 affect claims involving digital wallet fraud where the insured did not attempt to reverse the charge with the financial institution?",
+    "What is the significance of the policy specifying Electronic Communication as the only acceptable mode for requests of confidential banking information in relation to coverage exclusions?",
+    "How do the exclusions in Section 2 impact claims where the insured attempted to reverse a charge but did so after the insurer’s specified timeframe or without proper documentation?",
+    "In what ways does the Cyber Extortion coverage under Section 3 provide protection beyond direct Extortion Payments, and what conditions must be met for these additional costs to be covered?",
+    "How do the exclusions in Section 2 interact with the Cyber Extortion coverage in Section 3 when a cyber extortion event involves unauthorized fund transfers from a Personal Account?",
+    "What are the potential challenges in proving compliance with the requirement to contact the bank or financial institution to reverse charges or transfers, and how might this affect claim outcomes under Section 2?"
+  ]
+}

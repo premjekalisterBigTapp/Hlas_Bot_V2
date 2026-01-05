@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_62",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 62,
+    "content_length": 477,
+    "is_empty": false
+  },
+  "content": "iv. A credit in favour of Us or the intermediary is made through an electronic medium including the internet.\nb. In the event that the total premium due is not paid to the Us (or the intermediary through whom this Policy or Bond was effected) on or before the inception date or the renewal date, then the insurance shall not attach and no benefits whatsoever shall be payable by Us.\nc. Any payment received thereafter shall be of no effect whatsoever as cover has not attached.",
+  "questions": [
+    "How does the requirement for premium payment through electronic mediums affect the validity of coverage if payment is delayed past the inception or renewal date?",
+    "What are the consequences if the total premium is not received by the insurer or intermediary on or before the policy inception date in terms of benefit entitlement?",
+    "In cases where the premium payment is made after the inception or renewal date, how does the policy treat such payments regarding coverage attachment and claim eligibility?",
+    "How does the policy define the timing and method of premium payment to ensure that insurance coverage attaches properly?",
+    "What role does the intermediary play in the premium payment process, and how does this impact the attachment of coverage if payment is late?",
+    "If a policyholder attempts to pay the premium after the renewal date, what documentation or proof is required to demonstrate that coverage has or has not attached?",
+    "How does the policy handle situations where a credit is made in favor of the insurer electronically but after the inception date—does this affect the policy's validity?",
+    "What are the implications for claims if the premium payment is not received on time, considering the policy's clause that no benefits are payable if coverage has not attached?",
+    "How does the policy address the scenario where partial premium payments are made before the inception date—does coverage attach or is full payment required?",
+    "In the event of a renewal, how strict is the timing for premium payment to ensure continuous coverage without gaps?",
+    "What exclusions or limitations arise from the policy's warranty that premium must be paid on or before the inception or renewal date?",
+    "How does the policy distinguish between payments made directly to the insurer versus those made through an intermediary in terms of coverage attachment?",
+    "What happens if there is a delay in electronic credit processing of the premium payment—does the policy consider the payment date or the credit date for coverage attachment?",
+    "How does the policy's payment-before-cover warranty interact with any grace periods or automatic extensions that might otherwise apply?",
+    "Are there any exceptions or special conditions under which coverage might attach despite late premium payment according to this clause?",
+    "How does the policy ensure that the insured is aware of the requirement for timely premium payment to avoid non-attachment of coverage?",
+    "What is the impact on subrogation rights or insurer recovery if a claim is made but the premium was not paid on or before the inception date?",
+    "How does the policy handle disputes regarding the timing of premium payment when coverage attachment is contested?",
+    "In what ways does the policy's clause on premium payment timing protect the insurer from risks associated with late payments?",
+    "How does the policy's requirement for premium payment on or before inception or renewal date align with general exclusions or other section-specific exclusions related to coverage eligibility?"
+  ]
+}

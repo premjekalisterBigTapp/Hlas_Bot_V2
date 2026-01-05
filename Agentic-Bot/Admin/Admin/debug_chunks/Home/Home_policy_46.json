@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Home_policy_46",
+  "metadata": {
+    "product_name": "Home",
+    "doc_type": "policy",
+    "source_file": "Home_policy.md",
+    "chunk_index": 46,
+    "content_length": 955,
+    "is_empty": false
+  },
+  "content": "* For the event of Third degree burns to the head equal to or greater than 8%, the Percentage of Benefit is 100%.\n* For the event of Third degree burns to the head equal to or greater than 5% but less than 8%, the Percentage of Benefit is 75%.\n* For the event of Third degree burns to the head equal to or greater than 2% but less than 5%, the Percentage of Benefit is 50%.\n* For the event of Third degree burns to the body equal to or greater than 20%, the Percentage of Benefit is 100%.\n* For the event of Third degree burns to the body equal to or greater than 15% but less than 20%, the Percentage of Benefit is 75%.\n* For the event of Third degree burns to the body equal to or greater than 10% but less than 15%, the Percentage of Benefit is 50%.\n* For the event of Total and permanent loss of hearing in two ears, the Percentage of Benefit is 75%.\n* For the event of Total and permanent loss of hearing in one ear, the Percentage of Benefit is 25%.",
+  "questions": [
+    "How does the policy determine the percentage of benefit payable for third degree burns on the head when the affected area is between 5% and 8%, and how does this compare to burns covering 8% or more?",
+    "What percentage of benefit is payable for third degree burns to the body when the affected area is between 10% and 15%, and how does this scale with higher percentages of body burns?",
+    "In the case of total and permanent loss of hearing, how does the benefit percentage differ between losing hearing in one ear versus both ears, and what documentation might be required to prove permanence?",
+    "If a claimant suffers third degree burns to the head covering exactly 2%, what percentage of benefit applies, and how does this threshold affect claims just below or above this percentage?",
+    "How are benefits structured for third degree burns to the body when the affected area is between 15% and 20%, and what implications does this have for claims involving burns slightly below 15%?",
+    "What are the differences in benefit percentages for third degree burns to the head versus the body, and how might these differences impact a claim involving burns to both areas?",
+    "For a claimant with third degree burns to the head covering 4%, what percentage of benefit is payable, and how does this compare to burns covering 5% or more but less than 8%?",
+    "How does the policy address the percentage of benefit for third degree burns to the body that are exactly 20%, and what benefit applies if the burns are just under this threshold?",
+    "In cases of total and permanent loss of hearing, what conditions might affect the determination of 'total and permanent,' and how does this influence the benefit percentage for one ear versus two ears?",
+    "How does the policy differentiate benefit percentages for third degree burns to the head when the affected area is less than 2%, and are such cases covered under this section?",
+    "What is the percentage of benefit for third degree burns to the body covering less than 10%, and how does the policy treat burns that do not meet the minimum percentage thresholds listed?",
+    "How might the policy handle a claim involving both third degree burns to the head and total and permanent loss of hearing, in terms of benefit percentages and combined payouts?",
+    "Are there any conditions or exclusions that could affect the payment of benefits for third degree burns or hearing loss, and how do these interact with the percentage of benefit schedule provided?",
+    "How does the policy define the measurement of burn percentage for the head and body, and what documentation or medical evidence is required to substantiate the extent of third degree burns for claims?",
+    "In the event of partial hearing loss that is not total and permanent, how does the policy address benefit eligibility, and what distinctions are made compared to total and permanent loss?",
+    "How does the policy treat cases where third degree burns to the head and body are present simultaneously but each does not meet the minimum percentage for the highest benefit tier individually?",
+    "What is the impact on benefit percentage if third degree burns to the head are exactly 8%, and how does this compare to burns slightly below this threshold, such as 7.9%?",
+    "How are claims handled if the total and permanent loss of hearing occurs after the policy period but is a result of an injury sustained during the coverage period?",
+    "What procedures must a claimant follow to prove the extent of third degree burns and hearing loss, and how do timing and medical assessments affect the benefit payout?",
+    "How does the policy address the scenario where a claimant has third degree burns to the body covering 18%, and also suffers total and permanent loss of hearing in one ear, in terms of combined benefit calculation?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_policy_33",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "policy",
+    "source_file": "PersonalAccident_policy.md",
+    "chunk_index": 33,
+    "content_length": 993,
+    "is_empty": false
+  },
+  "content": "**COMPENSATION LIMITS**\n\nWe shall not pay for:\na. any specific item of Permanent Disablement where that item is also comprised in any other item of Permanent Disablement for which a greater amount of compensation is payable in the circumstances. If benefit is payable for loss of use of a whole member of the body, the benefit for parts of the member cannot also be claimed.\nb. Death in addition to any Permanent Disablement if caused by the same Accident, except that if a payment has been made under any part of Permanent Disablement and Death occurs subsequently solely caused by and twelve (12) months of the Accident, then We will pay any difference if the Compensation payable for Death is greater than that already paid for Permanent Disablement.\nc. more than 100% of the Benefit Limit in aggregate of all percentages payable under Permanent Disablement in any one Period of Insurance\n\nWe will not pay for any Permanent Disablement that is not listed in the scale of compensation above.",
+  "questions": [
+    "How does the policy handle compensation when multiple Permanent Disablement items overlap, such as a whole member loss versus partial loss of parts of that member, and what are the implications for claimants seeking benefits for both?",
+    "In what circumstances can a claimant receive both Death and Permanent Disablement benefits from the same Accident, and how does the timing of Death relative to the Accident affect the payment of any difference in compensation?",
+    "What is the maximum aggregate compensation payable under Permanent Disablement within a single Period of Insurance, and how does this limit interact with multiple claims for different disablement percentages?",
+    "If a Permanent Disablement condition is not explicitly listed in the scale of compensation, how does the policy treat such claims, and are there any exceptions or alternative coverages available?",
+    "How does the policy determine which Permanent Disablement item has a greater compensation amount when multiple items are involved in the same Accident, and what documentation or medical evidence is required to support this determination?",
+    "When Death occurs more than twelve months after the Accident but is solely caused by it, does the policy provide any compensation adjustment related to prior Permanent Disablement payments?",
+    "How does the policy address scenarios where a claimant suffers Permanent Disablement and subsequently dies from unrelated causes within the twelve-month window, in terms of Death benefit eligibility?",
+    "What are the implications of the 100% Benefit Limit cap on Permanent Disablement claims for insured persons who experience multiple disabling injuries in one Period of Insurance?",
+    "In cases where a claimant has already received Permanent Disablement compensation for a partial loss and later suffers Death from the same Accident within twelve months, how is the difference in compensation calculated and paid?",
+    "How does the policy define 'whole member of the body' in relation to Permanent Disablement claims, and what examples illustrate the exclusion of benefits for parts of that member once the whole member benefit is paid?",
+    "Are there any policy provisions or exclusions that affect the timing or reporting requirements for Permanent Disablement claims to qualify for compensation under the stated limits?",
+    "How does the policy treat Permanent Disablement claims arising from accidents that occur near the end of the Period of Insurance, especially in relation to the 100% aggregate Benefit Limit?",
+    "What documentation or medical assessments are necessary to establish the percentage of Permanent Disablement for each item claimed, and how does this affect the total compensation calculation?",
+    "If a claimant suffers Permanent Disablement from multiple accidents within the same Period of Insurance, how does the policy apply the 100% aggregate Benefit Limit across these separate incidents?",
+    "How does the policy's Compensation Limits section interact with any General Exclusions that might exclude certain types of Permanent Disablement or accidents?",
+    "In the event of a dispute over the degree of Permanent Disablement or the applicable compensation item, what procedures or arbitration mechanisms does the policy provide to resolve such conflicts?",
+    "Does the policy provide any guidance on how to apportion compensation when Permanent Disablement involves multiple body parts that are not clearly defined as whole members or parts thereof?",
+    "How does the policy ensure that claimants do not receive double compensation for overlapping Permanent Disablement items, and what are the consequences of attempting to claim both?",
+    "Are there any special considerations or exceptions in the Compensation Limits for Permanent Disablement caused by specific types of accidents, such as those involving Common Carriers or public transportation?",
+    "How does the policy handle Permanent Disablement claims when the insured person has pre-existing conditions that may affect the degree of disablement or the compensation payable?"
+  ]
+}

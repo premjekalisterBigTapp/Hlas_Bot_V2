@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Early_policy_35",
+  "metadata": {
+    "product_name": "Early",
+    "doc_type": "policy",
+    "source_file": "Early_policy.md",
+    "chunk_index": 35,
+    "content_length": 939,
+    "is_empty": false
+  },
+  "content": "For the above definition, the following are excluded:\n    * Angina;\n    * Heart attack of indeterminate age; and\n    * A rise in cardiac biomarkers or Troponin T or I following an intra-arterial cardiac procedure including, but not limited to, coronary angiography and coronary angioplasty.\n\n    Explanatory note: $0.5ng/ml=0.5ug/L=500pg/m$\n\n3.  **Stroke with Permanent Neurological Deficit**\n    A cerebrovascular incident including infarction of brain tissue, cerebral and subarachnoid haemorrhage, intracerebral embolism and cerebral thrombosis resulting in Permanent Neurological Deficit. This diagnosis must be supported by all of the following conditions:\n    * Evidence of permanent clinical neurological deficit confirmed by a neurologist at least 6 weeks after the event; and\n    * Findings on Magnetic Resonance Imaging, Computerised Tomography, or other reliable imaging techniques consistent with the diagnosis of a new stroke.",
+  "questions": [
+    "How does the policy define exclusions related to cardiac events, specifically regarding angina, heart attacks of indeterminate age, and rises in cardiac biomarkers after intra-arterial cardiac procedures?",
+    "What are the specific cardiac biomarker thresholds or types excluded from coverage following intra-arterial cardiac procedures, and how is the explanatory note on measurement units relevant?",
+    "In the context of stroke coverage, what are the required clinical and diagnostic criteria that must be met for a cerebrovascular incident to qualify as a 'Stroke with Permanent Neurological Deficit'?",
+    "How does the timing of neurological assessment affect stroke claim eligibility, particularly the requirement for confirmation by a neurologist at least 6 weeks after the event?",
+    "What imaging techniques are accepted as evidence for diagnosing a new stroke under this policy, and how must their findings correlate with the clinical diagnosis?",
+    "How do the exclusions related to heart attacks of indeterminate age interact with the requirement for imaging and clinical confirmation in stroke claims?",
+    "If a claimant experiences a rise in Troponin T or I after a coronary angioplasty, how does this policy treat such a biomarker increase in terms of coverage eligibility?",
+    "How might the exclusion of angina impact claims for cardiac-related events that do not meet the criteria for heart attack or biomarker rise exclusions?",
+    "What documentation is necessary to prove a permanent neurological deficit for stroke claims, and how does the policy define permanence in this context?",
+    "How does the policy distinguish between a new stroke event and other cerebrovascular incidents that might not meet the permanent neurological deficit requirement?",
+    "In cases where imaging findings are inconclusive or inconsistent with clinical symptoms, how would this affect the stroke claim under the policy's requirements?",
+    "How does the policy handle claims for strokes that occur but do not result in permanent neurological deficits, considering the specified definition and exclusions?",
+    "What is the significance of the explanatory note on biomarker measurement units in interpreting laboratory results for cardiac-related exclusions?",
+    "How does the policy address the timing and confirmation of cardiac events versus stroke events, particularly regarding the need for specialist confirmation and diagnostic evidence?",
+    "Are there any implied conditions or limitations on the types of intra-arterial cardiac procedures that trigger the biomarker rise exclusion, and how might this affect coverage?",
+    "How would a claim be evaluated if a patient had a stroke diagnosis supported by imaging but lacked neurologist confirmation after 6 weeks?",
+    "What role does the neurologist's confirmation play in differentiating between temporary and permanent neurological deficits for stroke claims?",
+    "How do the policy's exclusions for cardiac events affect the overall coverage for cardiovascular-related incidents during the insured trip?",
+    "In what ways might the policy's specific exclusions for cardiac biomarker rises after procedures limit claims for post-procedural complications?",
+    "How does the policy ensure that only new strokes with permanent neurological deficits are covered, and what safeguards are in place to exclude pre-existing or transient conditions?"
+  ]
+}

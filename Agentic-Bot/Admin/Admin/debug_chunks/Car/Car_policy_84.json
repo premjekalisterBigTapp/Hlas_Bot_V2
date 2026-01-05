@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_84",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 84,
+    "content_length": 384,
+    "is_empty": false
+  },
+  "content": "#### M04 - Non Cancellation Clause\nThe Company undertakes to obtain consent of the Owners/Lessors specified in the Schedule prior to their cancellation of the Policy if instructions have been received for the cancellation of the Policy and also to advise the Owners/Lessors specified immediately of any other material changes which are proposed to be made in the Terms of this Policy.",
+  "questions": [
+    "How does the insurer's obligation to obtain consent from Owners/Lessors before policy cancellation interact with instructions received for cancellation, and what is the process for notifying Owners/Lessors of material changes to policy terms?",
+    "In what scenarios must the Company seek consent from Owners/Lessors prior to cancelling the policy, and how is this consent documented or verified according to the clause?",
+    "What constitutes a 'material change' in the terms of the policy that requires immediate notification to the Owners/Lessors, and how does this affect the policyholder's rights?",
+    "If instructions for policy cancellation are received but Owners/Lessors do not consent, what are the implications for the continuation or termination of the policy under this clause?",
+    "How does the non-cancellation clause affect the timing and validity of cancellation requests initiated by the policyholder or other parties?",
+    "What is the role of Owners/Lessors specified in the Schedule in the management of policy cancellation and amendments, and how does this clause ensure their involvement?",
+    "How might the requirement to obtain Owners/Lessors' consent before cancellation impact claims processing or coverage during the period between instruction receipt and consent?",
+    "Are there any exceptions or exclusions to the obligation of the Company to obtain Owners/Lessors' consent prior to cancellation, and how are these handled if present elsewhere in the policy?",
+    "How does the clause address situations where multiple Owners/Lessors are specified in the Schedule with potentially conflicting views on cancellation or changes?",
+    "What documentation or evidence is required to prove that the Company has advised Owners/Lessors immediately of proposed material changes to the policy terms?",
+    "In cases where the policyholder attempts to cancel the policy but the Owners/Lessors do not consent, how does this clause interact with any general policy-wide cancellation provisions or exclusions?",
+    "How does this non-cancellation clause affect automatic policy renewals or extensions, particularly if Owners/Lessors have not been consulted or notified?",
+    "What are the potential consequences for the Company if it fails to obtain Owners/Lessors' consent prior to cancellation or fails to notify them of material changes as required?",
+    "How does the clause define or imply the timeframe for 'immediate' notification to Owners/Lessors regarding material changes, and what impact does this have on policy administration?",
+    "In what ways might this clause interact with any payment-before-cover warranties or conditions precedent to coverage in the policy?",
+    "How does the involvement of Owners/Lessors in cancellation and changes affect the policyholder's ability to exercise rights such as claims, endorsements, or reinstatements?",
+    "What is the significance of specifying Owners/Lessors in the Schedule in relation to this clause, and how might changes to the Schedule affect the application of the non-cancellation clause?",
+    "How does this clause protect the interests of Owners/Lessors compared to the policyholder, and what conflicts might arise from this protection?",
+    "In the event of a dispute between the Company, Owners/Lessors, and the policyholder regarding cancellation or material changes, how might this clause influence resolution or arbitration procedures?",
+    "How does the non-cancellation clause interact with any general exclusions or limitations on cancellation found elsewhere in the policy, particularly regarding timing, consent, or notification requirements?"
+  ]
+}

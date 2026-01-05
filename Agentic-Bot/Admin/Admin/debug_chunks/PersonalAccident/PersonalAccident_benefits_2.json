@@ -1,0 +1,34 @@
+{
+  "chunk_id": "PersonalAccident_benefits_2",
+  "metadata": {
+    "product_name": "PersonalAccident",
+    "doc_type": "benefits",
+    "source_file": "PersonalAccident_benefits.txt",
+    "chunk_index": 2,
+    "content_length": 1000,
+    "is_empty": false
+  },
+  "content": "mum benefit payable per child is $100 for the Bronze plan, $200 for Silver, $500 for Premier, and $700 for Platinum.\nFor the Child's Education Grant, the maximum benefit payable is $3,500 for the Bronze plan, $7,000 for Silver, $17,500 for Premier, and $24,500 for Platinum.\nFor the Parent's Support Grant, the maximum benefit payable is $1,500 for the Bronze plan, $3,000 for Silver, $7,500 for Premier, and $10,500 for Platinum.\nThe No Claim Bonus is 15% for the Bronze, Silver, Premier, and Platinum plans.\nFor the Family Cash Relief benefit, the maximum benefit payable per adult is $500 for the Bronze plan, $1,000 for Silver, $2,500 for Premier, and $3,500 for Platinum.\nFor the Family Cash Relief benefit, the maximum benefit payable per child is $100 for the Bronze plan, $200 for Silver, $500 for Premier, and $700 for Platinum.\nThe Income Protector benefit is not available for the Bronze and Silver plans, while the total maximum benefit is $6,000 ($1,000 per month) for the Premier plan a",
+  "questions": [
+    "How do the maximum benefit limits for the Child's Education Grant vary across the Bronze, Silver, Premier, and Platinum plans, and what implications does this have for families with multiple children?",
+    "In what ways does the Family Cash Relief benefit differ in maximum payable amounts per adult and per child among the four plans, and how might this affect claim planning for families?",
+    "What is the maximum Parent's Support Grant payable under each plan, and how does this benefit interact with other family-related grants in the policy?",
+    "How does the No Claim Bonus of 15% apply uniformly across all plans, and what conditions or exclusions might affect eligibility for this bonus?",
+    "Considering the Income Protector benefit is unavailable for Bronze and Silver plans but capped at $6,000 for Premier, how does this limitation impact insured persons choosing lower-tier plans?",
+    "What are the monthly payout conditions and total limits for the Income Protector benefit under the Premier plan, and how might these affect long-term income protection claims?",
+    "How do the maximum benefit amounts for Family Cash Relief per adult compare to those per child within each plan, and what scenarios could influence the distribution of these benefits?",
+    "Are there any plan-specific exclusions or conditions that could reduce or negate the Child's Education Grant despite the stated maximum benefits?",
+    "How might the combined limits of the Parent's Support Grant and Family Cash Relief benefits affect total family support in the event of multiple claims under the same policy?",
+    "What documentation or proof might be required to claim the No Claim Bonus, and how does this interact with claims made under other family-related benefits?",
+    "In cases where a family has both adults and children covered, how do the differing maximum benefit amounts for Family Cash Relief per adult and per child influence overall claim strategy?",
+    "How does the policy define eligibility for the Parent's Support Grant, and are there any age or relationship restrictions that could affect claim approval?",
+    "What are the implications of the Income Protector benefit being unavailable in Bronze and Silver plans for insured persons with pre-existing income protection needs?",
+    "How does the policy handle situations where the total claimed amount for Child's Education Grant exceeds the maximum benefit payable under the selected plan?",
+    "Are there any interactions or cumulative limits between the Child's Education Grant and the Parent's Support Grant that policyholders should be aware of when filing claims?",
+    "How does the No Claim Bonus percentage apply if a claim is made under one benefit but not others within the same policy period?",
+    "What conditions or events might trigger the Family Cash Relief benefit, and how do these conditions vary or remain consistent across the different plan tiers?",
+    "How does the policy address partial claims or multiple claims within the same benefit category, such as multiple Family Cash Relief claims for different family members?",
+    "In what ways do the benefit limits for children differ from those for adults across the various grants and relief benefits, and how might this affect families with mixed age groups?",
+    "How does the policy ensure that the total payout across all family-related benefits does not exceed the aggregate limits set for each plan, and what happens if claims approach or exceed these limits?"
+  ]
+}

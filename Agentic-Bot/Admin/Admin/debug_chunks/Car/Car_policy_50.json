@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_50",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 50,
+    "content_length": 303,
+    "is_empty": false
+  },
+  "content": "* For a period of coverage not exceeding 7 months, the premium refund is 20.00% of the annual premium.\n* For a period of coverage not exceeding 8 months, the premium refund is 12.50% of the annual premium.\n* For a period of coverage exceeding 8 months, the premium refund is 0.00% of the annual premium.",
+  "questions": [
+    "How does the premium refund percentage vary based on the length of the coverage period, specifically for durations not exceeding 7 months, not exceeding 8 months, and exceeding 8 months?",
+    "What are the refund implications if a policyholder cancels coverage after 7 months but before reaching 8 months of coverage?",
+    "If a policyholder terminates coverage exactly at 8 months, what percentage of the annual premium is refundable?",
+    "How does the policy handle premium refunds for coverage periods that exceed 8 months, and are there any exceptions to this rule?",
+    "In what scenarios would a policyholder be eligible for a 20% premium refund, and what documentation or proof might be required to support such a claim?",
+    "How does the refund structure affect policyholders who purchase coverage for less than a full year but more than 7 months?",
+    "Are there any conditions under which a policyholder might receive a partial refund if the coverage period is terminated early, and how do these conditions relate to the stated refund percentages?",
+    "How might the premium refund policy interact with general exclusions or other policy clauses that affect coverage duration or cancellation?",
+    "What is the impact on premium refunds if a policyholder's coverage is automatically extended beyond 8 months due to unforeseen circumstances?",
+    "How does the refund policy address situations where the coverage period is interrupted or paused, and how is the total coverage duration calculated in such cases?",
+    "If a policyholder requests a refund after a coverage period of 6 months, what percentage of the annual premium will they receive, and how does this compare to a refund requested after 8 months?",
+    "Are there any differences in refund percentages for different types of coverage or plans within the policy, or is the refund structure uniform regardless of plan type?",
+    "How does the refund policy apply to policyholders who have paid the annual premium upfront but only use the coverage for a short period, such as 5 months?",
+    "What documentation or proof might be required to process a premium refund based on the coverage period, and how does timing affect the refund eligibility?",
+    "How does the policy define the start and end of the coverage period for the purpose of calculating premium refunds?",
+    "In cases where coverage is terminated due to a claim or other insured event, how does this affect the premium refund percentages outlined?",
+    "How does the refund policy interact with any payment-before-cover warranties or conditions that might affect the validity of the refund?",
+    "Are there any exclusions or limitations that override the premium refund percentages, such as sanctions, subrogation rights, or policy-wide general exclusions?",
+    "How might the refund percentages be affected if the policyholder is subject to travel restrictions or quarantine measures that alter the intended coverage period?",
+    "What are the implications for premium refunds if the policyholder's trip or coverage period is extended or shortened due to changes in travel plans or external events?"
+  ]
+}

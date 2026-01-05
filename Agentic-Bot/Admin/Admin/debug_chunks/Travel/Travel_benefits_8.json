@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Travel_benefits_8",
+  "metadata": {
+    "product_name": "Travel",
+    "doc_type": "benefits",
+    "source_file": "Travel_benefits.txt",
+    "chunk_index": 8,
+    "content_length": 1000,
+    "is_empty": false
+  },
+  "content": "500 for the Basic plan, $1,000 for the Silver plan, $1,500 for the Gold plan, and $2,000 for the Platinium plan.\nUnder the Travel Inconvenience coverage, the Travel Misconnections benefit provides S$100 for every 6 hours, up to a total of $200 for the Basic, Silver, Gold, and Platinium plans.\nUnder the Travel Inconvenience coverage, the Trip Disruption benefit is $500 for the Basic plan, $1,000 for the Silver plan, $2,000 for the Gold plan, and $3,000 for the Platinium plan.\nUnder the Travel Inconvenience coverage, the Flight Overbooked benefit provides S$100 for every 6 hours, up to a total of $100 for the Basic, Silver, Gold, and Platinium plans.\nUnder the Travel Inconvenience coverage, the Flight Diversion benefit provides S$100 for every 6 hours, up to a total of $1,000 for the Basic, Silver, Gold, and Platinium plans.\nUnder the Travel Inconvenience coverage, the Hijack of Common Carrier benefit provides S$100 for every 6 hours, up to a total of $500 for the Basic plan, $1,000 for ",
+  "questions": [
+    "How do the maximum benefit limits differ across the Basic, Silver, Gold, and Platinium plans for the Trip Disruption and Hijack of Common Carrier benefits under the Travel Inconvenience coverage, and what are the implications for claimants experiencing these events?",
+    "In the event of a flight diversion lasting 18 hours, how would the Travel Inconvenience coverage calculate the total compensation under the Flight Diversion benefit for each plan, considering the per 6-hour payment and maximum limits?",
+    "What is the maximum total compensation available under the Travel Misconnections benefit for a delay of 12 hours, and how does this compare across all four plans under the Travel Inconvenience coverage?",
+    "If a traveler experiences an overbooked flight delay of 12 hours, how does the Flight Overbooked benefit apply in terms of hourly compensation and maximum payout, and does this differ between the Basic and Platinium plans?",
+    "How do the per 6-hour incremental payments for Travel Misconnections, Flight Overbooked, Flight Diversion, and Hijack of Common Carrier benefits interact with their respective maximum limits within the Travel Inconvenience coverage?",
+    "For a hijack event lasting 36 hours, how would the compensation under the Hijack of Common Carrier benefit be calculated for the Gold plan, and what documentation or proof might be required to support such a claim?",
+    "Considering the Travel Inconvenience coverage, how do the benefit limits for Trip Disruption compare to those for Flight Diversion across all plans, and what scenarios might lead to claims under both benefits simultaneously?",
+    "If a traveler experiences multiple travel inconveniences such as a misconnection followed by a flight diversion, how does the policy handle cumulative claims under these benefits, and are there any combined maximum limits or exclusions that apply?",
+    "What are the conditions under which the Flight Overbooked benefit would be payable, and how might general policy exclusions or definitions of Common Carrier affect eligibility for this benefit?",
+    "How does the policy define the timing and duration requirements for each of the Travel Inconvenience benefits that pay per 6 hours, and what happens if the delay or event duration is not a multiple of 6 hours?",
+    "In cases where a traveler’s trip is disrupted resulting in both Trip Disruption and Travel Misconnections claims, how does the policy address overlapping coverage, and are there any priority rules or exclusions that limit total compensation?",
+    "What documentation and proof are typically required to substantiate claims for the Flight Diversion and Hijack of Common Carrier benefits, and how might police or carrier reports influence claim approval?",
+    "How do the Travel Inconvenience benefits interact with any general policy exclusions related to publicly known events or travel alerts, especially in scenarios involving trip disruption or flight delays?",
+    "Are there any age-related or pre-existing condition exclusions that specifically affect eligibility for the Travel Inconvenience coverage benefits such as Trip Disruption or Flight Overbooked?",
+    "How does the policy handle claims for Travel Inconvenience benefits if the traveler fails to notify the carrier or obtain a Property Irregularity Report for delays or overbooked flights?",
+    "In the event of a hijack of a Common Carrier, how does the policy determine the start and end times for calculating the per 6-hour payments, and what exclusions might apply to such a claim?",
+    "If a traveler’s flight is diverted multiple times during a single trip, how does the Flight Diversion benefit apply in terms of cumulative compensation and maximum limits across all plans?",
+    "How do the Travel Inconvenience benefits address scenarios where delays or disruptions are caused by strikes, natural disasters, or other force majeure events, and are these covered or excluded under the policy?",
+    "What is the impact of the pair-and-sets clause or unattended property exclusions on claims related to Travel Inconvenience benefits, particularly if personal belongings are lost or delayed during a trip disruption?",
+    "How do the Travel Inconvenience coverage limits and payment structures align with the overall policy’s payment-before-cover warranty and subrogation rights in the event of a claim for trip disruption or flight delay?"
+  ]
+}

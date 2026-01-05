@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_37",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 37,
+    "content_length": 807,
+    "is_empty": false
+  },
+  "content": "1. **Betterment** - Any upgrade or increase of speed, capacity or functionality of Your Computer System beyond the level that existed prior to a Loss Event occurring.\n2. **Bodily Injury** - Any physical injury, sickness, disease, disability, shock, mental anguish, mental injury, or Death at any time resulting therefrom.\n3. **Business activities** - Any activities carried out by You for trade, business or professional purposes, including any access through Your Computer System to the Computer System of a Third Party for trade, business or professional purposes, and any loss connected to an account with a financial institution that is used for trade, business or professional purposes.\n4. **Business Costs** - Any costs incurred to a business that is associated with You as a result of any Loss Event.",
+  "questions": [
+    "How does the policy define 'Betterment' in relation to upgrades or improvements made to Your Computer System after a Loss Event, and how might this affect claim settlements for repairs or replacements?",
+    "In what ways does the definition of 'Bodily Injury' extend beyond physical harm to include mental injury, shock, and death, and how could this influence coverage for claims involving psychological trauma?",
+    "How are 'Business activities' characterized in terms of usage of Your Computer System for trade or professional purposes, and what implications does this have for coverage exclusions related to business use?",
+    "What types of expenses are encompassed under 'Business Costs' incurred by a business associated with You due to a Loss Event, and how might these costs be documented and claimed under the policy?",
+    "If a Loss Event results in an upgrade to Your Computer System's speed or capacity, how does the concept of 'Betterment' impact the amount payable under the policy, especially if the upgrade exceeds the pre-loss condition?",
+    "How does the inclusion of access to a Third Party's Computer System for business purposes within 'Business activities' affect the scope of coverage and potential exclusions for cyber-related losses?",
+    "In cases where a Loss Event causes mental anguish or mental injury without physical symptoms, how does the definition of 'Bodily Injury' support or limit claims for such non-physical damages?",
+    "When a Loss Event leads to costs incurred by a business associated with You, what criteria determine whether these 'Business Costs' are eligible for reimbursement, considering the policy's definitions?",
+    "How might claims involving death resulting from a Loss Event be processed differently given the broad definition of 'Bodily Injury' that includes death at any time resulting therefrom?",
+    "What are the potential challenges in distinguishing between personal and business use of Your Computer System under the 'Business activities' definition when assessing coverage eligibility?",
+    "How does the policy address situations where a Loss Event causes both physical injury and subsequent mental injury, given the comprehensive definition of 'Bodily Injury'?",
+    "In what scenarios could the policy's definition of 'Betterment' lead to a reduction in claim payout due to the insured receiving an improved Computer System post-loss?",
+    "How does the policy treat losses connected to financial institution accounts used for business purposes under the 'Business activities' definition, and what exclusions might apply?",
+    "What documentation or proof might be required to substantiate claims for 'Business Costs' incurred as a result of a Loss Event affecting a business associated with You?",
+    "How does the policy's definition of 'Bodily Injury' encompass disabilities and diseases, and what implications does this have for claims arising from latent or long-term health effects?",
+    "In the context of 'Business activities,' how does unauthorized access to a Third Party's Computer System through Your Computer System impact coverage and liability?",
+    "How might the policy differentiate between losses arising from personal use versus business use of Your Computer System when both uses are present during a Loss Event?",
+    "What role does the timing of a Loss Event play in determining whether an upgrade to Your Computer System constitutes 'Betterment' and affects claim valuation?",
+    "How does the policy's broad definition of 'Bodily Injury' influence the handling of claims involving psychological conditions that manifest after the initial physical injury?",
+    "In what ways could the definition of 'Business Costs' intersect with general policy exclusions related to business activities, and how should insured parties navigate these overlaps when filing claims?"
+  ]
+}

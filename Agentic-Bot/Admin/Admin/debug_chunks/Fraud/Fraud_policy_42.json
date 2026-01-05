@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_42",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 42,
+    "content_length": 947,
+    "is_empty": false
+  },
+  "content": "15. **Legal Liability, Fines and Penalties** - Any amount owed by You to a Third Party for damages, fines or penalties.\n16. **Legal Proceedings** - Any costs incurred by You to institute or defend legal proceedings against a person or entity without Our prior written consent.\n17. **Maintenance Costs** - Any maintenance of Your Computer System or Your Digital Assets, not attributable to a Loss Event including any costs You have paid or have agreed to pay as part of any maintenance contract.\n18. **Abnormal Conditions/State of Emergency/Mass Cyber Attack** - Any loss based upon, arising from or as consequence of any abnormal conditions or state of emergency as declared by the local authorities (whether physical or otherwise) or Mass Cyber-Attack except to the extent that you are able to prove that such loss happened independently of such abnormal conditions or state of emergency as declared by the local authorities or Mass Cyber-Attack.",
+  "questions": [
+    "How does the policy address coverage for amounts owed to third parties for damages, fines, or penalties, and what exclusions apply to legal liability claims?",
+    "Under what conditions does the policy exclude coverage for costs related to instituting or defending legal proceedings, and how does the requirement for prior written consent affect claim eligibility?",
+    "In what scenarios are maintenance costs for computer systems or digital assets excluded from coverage, particularly when such costs are not linked to a loss event?",
+    "How does the policy define and handle losses arising from abnormal conditions, states of emergency, or mass cyber-attacks, and what proof is required to demonstrate that a loss occurred independently of these events?",
+    "What is the interplay between exclusions for legal liability amounts owed to third parties and the general policy exclusions related to legal proceedings and maintenance costs?",
+    "If a loss occurs during a declared state of emergency but the insured can prove the loss was independent of that emergency, how does the policy determine coverage eligibility?",
+    "How are fines and penalties distinguished from damages owed to third parties in the context of legal liability coverage and exclusions?",
+    "What documentation or prior approvals are necessary to claim costs incurred in legal proceedings, and how might failure to obtain prior written consent impact a claim?",
+    "Are maintenance costs under a contract that includes both covered loss events and routine upkeep partially covered, or are all maintenance costs excluded regardless of cause?",
+    "How does the exclusion for losses arising from mass cyber-attacks interact with coverage for cyber-related loss events that are not linked to such attacks?",
+    "In cases where legal proceedings are initiated without the insurer's prior written consent, what are the consequences for coverage of associated legal costs?",
+    "Does the policy provide any exceptions to the exclusion of maintenance costs if the maintenance is directly attributable to a covered loss event?",
+    "How does the policy treat losses that occur during abnormal conditions declared by local authorities but are indirectly caused by those conditions rather than directly?",
+    "What constitutes a 'Mass Cyber-Attack' under the policy, and how does this definition affect the scope of coverage for cyber-related losses?",
+    "If a third party imposes fines or penalties that are not related to damages owed by the insured, are these amounts covered or excluded under legal liability?",
+    "How does the policy handle situations where legal liability amounts, fines, or penalties overlap with costs of legal proceedings, especially regarding prior consent requirements?",
+    "What evidence must the insured provide to prove that a loss was independent of an abnormal condition or state of emergency to overcome the exclusion?",
+    "Are there any circumstances under which maintenance costs for digital assets could be considered part of a covered loss event, despite the general exclusion?",
+    "How does the exclusion of legal proceedings costs without prior written consent affect the insured's ability to defend against claims arising from covered loss events?",
+    "In the event of a mass cyber-attack declared by authorities, how does the policy differentiate between losses caused by the attack and those coincidentally occurring during the same period?"
+  ]
+}

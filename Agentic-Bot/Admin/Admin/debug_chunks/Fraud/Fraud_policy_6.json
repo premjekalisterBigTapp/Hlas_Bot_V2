@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_6",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 6,
+    "content_length": 991,
+    "is_empty": false
+  },
+  "content": "## POLICY DEFINITIONS\n\nThis Policy and the Policy Schedule shall be read together as one contract and any word or expression to which a specific meaning has been attached in any part of this Policy or the Policy Schedule shall bear such meaning whenever it may appear.\n\n\"Accident/Accidental\" means a specific event which is sudden, unforeseen and unexpected which occurs during the Period of Insurance.\n\n\"Accidental Death\" means Death resulting from the Accident.\n\n\"Benefit Limit\" means the Maximum Benefit Payable as stated in the Coverage Outline of the Policy Schedule.\n\n\"Chinese Physician / Chiropractor\" means a person qualified by a medical degree/certification and duly licensed or registered to practice Chinese medicine or Chiropractic in the geographical area of his practice, and who in rendering such services is practicing within the scope of his licensing and training but excluding a Chinese Physician or Chiropractor who is You or Your spouse, Your relative or Your employee.",
+  "questions": [
+    "How does the definition of 'Accident' as a sudden, unforeseen, and unexpected event during the Period of Insurance affect the eligibility of claims for injuries occurring outside this period or from gradual conditions?",
+    "In what ways does the term 'Accidental Death' specifically link to the occurrence of an Accident, and how might this impact claims where death results from complications rather than the immediate Accident?",
+    "How is the 'Benefit Limit' defined and applied across different coverages within the Policy Schedule, and what implications does this have for maximum claim payouts?",
+    "What qualifications and licensing requirements must a Chinese Physician or Chiropractor meet to be recognized under this Policy, and how does this affect claims for treatments rendered by practitioners outside the insured's geographical area?",
+    "How does the exclusion of Chinese Physicians or Chiropractors who are the insured, their spouse, relatives, or employees impact the validity of claims for treatments provided by such individuals?",
+    "When the Policy and Policy Schedule are read together as one contract, how are conflicting definitions or terms resolved, especially if a specific meaning is attached in one document but not the other?",
+    "How does the requirement that an Accident be sudden, unforeseen, and unexpected interact with claims arising from events that are sudden but potentially foreseeable, such as known hazardous activities?",
+    "In cases where death occurs after the Period of Insurance but results from an Accident during the coverage period, how does the definition of 'Accidental Death' apply to claim eligibility?",
+    "How might the definition of 'Benefit Limit' influence the handling of multiple claims arising from a single Accident or event within the Period of Insurance?",
+    "What are the implications for claims if a Chinese Physician or Chiropractor practices outside the scope of their licensing or training, despite being qualified and licensed in their geographical area?",
+    "How does the Policy treat treatments or services rendered by a Chinese Physician or Chiropractor who is related to the insured but not excluded by the policy, and what documentation is required to prove independence?",
+    "In what scenarios could the definition of 'Accident' exclude certain injuries or events that are gradual or cumulative, and how does this affect coverage for such conditions?",
+    "How does the Policy ensure that the definitions provided are consistently applied across different sections, especially when terms like 'Accident' and 'Accidental Death' are foundational to multiple coverages?",
+    "What is the significance of specifying that the Chinese Physician or Chiropractor must be licensed in the geographical area of practice, particularly for insured persons traveling or receiving treatment abroad?",
+    "How does the exclusion of certain Chinese Physicians or Chiropractors related to the insured prevent potential conflicts of interest or fraudulent claims, and what evidence is required to enforce this exclusion?",
+    "How are the terms 'You' and 'Your' interpreted in relation to the exclusions for Chinese Physicians or Chiropractors, and how might this affect claims involving extended family members or household employees?",
+    "In the context of the Policy, how does the definition of 'Accident' interact with pre-existing medical conditions that may be aggravated by an unforeseen event during the Period of Insurance?",
+    "How does the Policy address situations where the Policy Schedule and the main Policy document provide differing definitions or benefit limits, and which document takes precedence?",
+    "What documentation or proof is required to establish that an event qualifies as an 'Accident' under the Policy's definition, especially in cases where the event's suddenness or unexpected nature is disputed?",
+    "How do the definitions provided impact the interpretation of coverage for alternative medical treatments, such as those by Chinese Physicians or Chiropractors, in relation to conventional medical practitioners?"
+  ]
+}

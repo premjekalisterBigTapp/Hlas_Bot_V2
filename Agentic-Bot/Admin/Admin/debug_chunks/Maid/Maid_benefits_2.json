@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Maid_benefits_2",
+  "metadata": {
+    "product_name": "Maid",
+    "doc_type": "benefits",
+    "source_file": "Maid_benefits.txt",
+    "chunk_index": 2,
+    "content_length": 1000,
+    "is_empty": false
+  },
+  "content": "vides fifty dollars per visit for Basic plan, seventy five dollars per visit for Enhanced plan, one hundred dollars per visit for Premier plan, and two hundred dollars per visit for Exclusive plan.\n\nDental treatment coverage provides no coverage for Basic plan, 100$ benefit coverage for Enhanced plan, $250 per accident for Premier plan, and four hundred dollars per accident for Exclusive plan.\n\nAmbulance Fee coverage provides no coverage for Basic plan, one hundred dollars per year for Enhanced plan, one hundred dollars per year for Premier plan, and one hundred dollars per year for Exclusive plan.\n\nTreatment by a Chinese Physician provides no coverage for Basic plan, no coverage for Enhanced plan, one hundred dollars per accident for Premier plan, and two hundred dollars per accident for Exclusive plan.\n\nPhysiotherapy coverage provides no coverage for Basic plan, no coverage for Enhanced plan, two hundred fifty dollars per year for Premier plan, and three hundred dollars per year for ",
+  "questions": [
+    "How does the per-visit benefit amount vary across the Basic, Enhanced, Premier, and Exclusive plans, and what are the implications for claim limits when multiple visits occur?",
+    "What are the differences in dental treatment coverage limits among the Enhanced, Premier, and Exclusive plans, and how does the absence of coverage in the Basic plan affect insured individuals seeking dental care after an accident?",
+    "Considering ambulance fee coverage is absent in the Basic plan but capped at one hundred dollars per year in the other plans, how does this annual limit impact claims for multiple ambulance uses within a policy year?",
+    "How does the coverage for treatment by a Chinese Physician differ between the Premier and Exclusive plans, and what are the consequences for insured persons under the Basic and Enhanced plans who seek such treatment?",
+    "What are the annual coverage limits for physiotherapy under the Premier and Exclusive plans, and how does the lack of coverage in the Basic and Enhanced plans affect insured persons requiring physiotherapy after an accident?",
+    "In scenarios where an insured person under the Premier plan receives both dental treatment and physiotherapy after an accident, how do the per-accident and annual limits interact to determine total claimable amounts?",
+    "How do the absence of ambulance fee and Chinese Physician treatment coverage in the Basic and Enhanced plans influence the overall medical expense benefits available to insured persons under these plans?",
+    "If an insured person under the Exclusive plan requires multiple visits to a Chinese Physician and physiotherapy sessions within the same accident year, how do the per-accident and annual limits apply to these treatments respectively?",
+    "What documentation or proof might be required to substantiate claims for ambulance fees, dental treatment, and physiotherapy under plans that provide coverage, and how might these requirements differ across plan levels?",
+    "How does the policy define an 'accident' in relation to dental treatment and Chinese Physician treatment coverage, and what impact does this definition have on the applicability of per-accident limits?",
+    "Are there any conditions or exclusions that might limit or exclude coverage for physiotherapy or Chinese Physician treatment even under plans that provide such benefits, and how do these interact with the stated monetary limits?",
+    "How does the policy handle situations where an insured person under the Enhanced plan incurs ambulance fees exceeding one hundred dollars in a year, given the annual coverage cap?",
+    "In the event of multiple accidents within a policy year, how do the per-accident limits for dental treatment and Chinese Physician treatment apply, particularly under the Premier and Exclusive plans?",
+    "How might the absence of dental treatment coverage in the Basic plan affect claims for dental injuries resulting from accidents, and what alternative benefits, if any, might be available under this plan?",
+    "For insured persons under the Premier plan, how do the combined limits for ambulance fees, dental treatment, physiotherapy, and Chinese Physician treatment impact the overall medical expense coverage after an accident?",
+    "What are the implications for insured persons under the Enhanced plan who require physiotherapy or Chinese Physician treatment, given that these benefits are not covered under this plan?",
+    "How does the policy address coverage for ambulance fees if the insured person uses ambulance services multiple times in a year, and how does this differ across the Enhanced, Premier, and Exclusive plans?",
+    "In cases where treatment by a Chinese Physician is sought, how do the per-accident limits under the Premier and Exclusive plans affect the maximum reimbursable amount, and what happens if treatment costs exceed these limits?",
+    "How do the different benefit amounts per visit for medical treatments under each plan influence the insured person's choice of plan based on anticipated medical needs during travel?",
+    "Are there any provisions or exceptions in the policy that allow for coverage of physiotherapy or Chinese Physician treatment under the Basic or Enhanced plans despite the stated lack of coverage, such as rider options or endorsements?"
+  ]
+}

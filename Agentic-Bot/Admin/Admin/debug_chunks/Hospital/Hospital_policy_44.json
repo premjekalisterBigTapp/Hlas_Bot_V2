@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_policy_44",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "policy",
+    "source_file": "Hospital_policy.md",
+    "chunk_index": 44,
+    "content_length": 933,
+    "is_empty": false
+  },
+  "content": "7. **Currency**\n\nAll amount shown are in Singapore dollars. All claims will be paid in Singapore dollars.\n\n8. **Data Privacy**\n\nIt is hereby declared that as a condition precedent to the liability of Us, You have agreed that any personal information in relation to You provided by or on behalf of You to Us may be held, used and disclosed to enable Us or individuals / organisations associated with Us or any independent third party (within or outside of Singapore) to:\n(a) process and assess the Insurer's application or any matter arising from the Policy Schedule and any other application for insurance cover and/or;\n(b) provide all services related to this Policy.\n\n9. **Declaration**\n\nThe validity of this Policy is subject to the condition precedent that:\n\na. for the risk insured, You have never had any insurance terminated in the last twelve (12) months due solely or in part to a breach of any premium payment condition; or",
+  "questions": [
+    "How does the policy handle currency conversion and payment when claims involve expenses incurred in foreign currencies, and what implications does paying all claims in Singapore dollars have for claimants?",
+    "What are the conditions under which the insurer can use, hold, or disclose your personal information, and how might this affect your privacy rights when third parties inside or outside Singapore are involved?",
+    "In what ways does the data privacy clause enable the insurer and associated parties to process your insurance application and provide services, and what limitations or safeguards might apply to this data usage?",
+    "How does the requirement for agreement to data privacy terms act as a condition precedent to the insurer’s liability, and what are the consequences if you withhold consent to personal data usage?",
+    "What is the significance of the declaration regarding previous insurance terminations related to premium payment breaches within the last twelve months, and how does this affect the validity of your current policy?",
+    "How might a prior insurance termination due to premium payment breaches impact your eligibility for coverage under this policy, and what documentation might be required to prove compliance with this declaration?",
+    "If you had an insurance policy terminated more than twelve months ago due to premium payment issues, how would that affect your current policy’s validity under this declaration clause?",
+    "How do the currency clause and data privacy clause interact when claims involve international medical providers or services, particularly regarding payment and information sharing?",
+    "What are the insurer’s rights and your obligations concerning the disclosure of personal information to independent third parties outside Singapore, and how might this affect cross-border claims processing?",
+    "How does the policy define the scope of 'any matter arising from the Policy Schedule' in relation to data privacy and personal information usage, especially for claims or disputes?",
+    "What are the potential risks and benefits to you of allowing the insurer to disclose your personal information to associated organizations and independent third parties as stated in the data privacy clause?",
+    "How does the insurer’s payment in Singapore dollars affect claim settlements when the insured incurs expenses in countries with volatile exchange rates or during periods of currency fluctuation?",
+    "What are the implications for claimants if the insurer requires all claims to be paid in Singapore dollars, particularly regarding reimbursement amounts and timing?",
+    "How does the declaration clause regarding previous insurance terminations serve as a warranty or condition precedent, and what legal effects does this have on claim acceptance or denial?",
+    "In what scenarios could the insurer deny liability based on the declaration about past insurance terminations, and how might this interact with other general exclusions or conditions in the policy?",
+    "How might the insurer verify your declaration about no insurance termination due to premium payment breaches in the past twelve months, and what evidence would be acceptable?",
+    "What protections or recourse do you have if the insurer uses or discloses your personal information in a manner inconsistent with the data privacy clause?",
+    "How does the policy ensure compliance with data privacy laws when personal information is transferred to third parties outside Singapore, and what impact does this have on your rights?",
+    "If there is a dispute regarding the validity of your policy based on the declaration about previous insurance terminations, how might the insurer’s data privacy clause assist in resolving the matter?",
+    "How do the currency, data privacy, and declaration clauses collectively influence the overall administration, claims process, and enforcement of the policy?"
+  ]
+}

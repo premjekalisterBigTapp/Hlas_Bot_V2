@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_11",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 11,
+    "content_length": 813,
+    "is_empty": false
+  },
+  "content": "\"Digital Wallet\" means an e-wallet associated with a user account with an Online Merchant intended for effecting payment for the purchase of goods through the Online Merchant's website.\n\n\"Effective Date\" means the date from which the Policy shall become effective and will be with reference to the date and time specified in the Policy Schedule.\n\n\"Electronic Communication\" means any information sent between particular parties over a phone line or internet connection:\n\n1. Emails; or\n2. SMS and WhatsApp messages received by mobile phone.\n\n\"Expiry Date of the Policy\" means the last day of every monthly or annual period starting from the Effective Date of the Policy stated on the Policy Schedule where Our liability thereunder shall only be extended upon payment of the monthly or annual premium as applicable.",
+  "questions": [
+    "How does the definition of 'Digital Wallet' affect the coverage of purchases made through Online Merchants, and what documentation is required to prove such transactions in a claim?",
+    "In what ways does the 'Effective Date' influence the commencement of coverage, and how is it determined relative to the Policy Schedule's specified date and time?",
+    "How do 'Electronic Communications' such as emails, SMS, and WhatsApp messages serve as acceptable evidence in claims, and what limitations might apply to their use as proof?",
+    "What is the significance of the 'Expiry Date of the Policy' in determining the end of coverage, and how does the requirement of premium payment affect the continuation of liability?",
+    "How do monthly versus annual premium payments impact the calculation of the 'Expiry Date of the Policy' and the policyholder's obligation to maintain coverage?",
+    "In scenarios where an Online Merchant transaction is disputed, how might the definition of 'Digital Wallet' influence the insurer's assessment of the claim?",
+    "What are the implications if the 'Effective Date' and the actual purchase date via a Digital Wallet do not align, particularly in relation to coverage eligibility?",
+    "How might the insurer verify the authenticity of 'Electronic Communications' submitted as part of a claim, and what challenges could arise from relying on SMS or WhatsApp messages?",
+    "If a policyholder fails to pay the premium by the 'Expiry Date of the Policy,' how does this affect the insurer's liability for claims arising immediately after that date?",
+    "How does the policy define the interaction between the 'Effective Date' and 'Expiry Date of the Policy' in cases of policy renewal or reinstatement?",
+    "In what ways could the timing of electronic communications impact the determination of claim validity, especially if messages are received before the 'Effective Date' or after the 'Expiry Date of the Policy'?",
+    "How does the policy treat transactions made through a Digital Wallet that are linked to multiple Online Merchants, and what documentation is required to substantiate such claims?",
+    "What conditions must be met for the insurer to accept electronic communications as proof of purchase or claim notification, considering potential exclusions or fraud prevention measures?",
+    "How does the policy address the scenario where the 'Expiry Date of the Policy' falls on a non-business day, and what effect does this have on premium payment and coverage continuation?",
+    "What are the consequences if the policyholder's payment for renewal is delayed beyond the 'Expiry Date of the Policy,' and how does this affect the insurer's liability for ongoing claims?",
+    "How might the definitions provided influence the handling of claims involving digital transactions that occur across different time zones relative to the 'Effective Date' and 'Expiry Date of the Policy'?",
+    "In the event of a dispute over the timing of a claim notification sent via electronic communication, how does the policy determine the official receipt date and its impact on coverage?",
+    "How does the policy ensure that electronic communications used as evidence are securely linked to the policyholder's account to prevent fraudulent claims?",
+    "What role does the 'Digital Wallet' definition play in distinguishing between authorized and unauthorized transactions, and how does this affect claim eligibility?",
+    "How are overlapping periods handled if a policyholder holds multiple policies with different 'Effective Dates' and 'Expiry Dates of the Policy' covering the same digital transaction?"
+  ]
+}

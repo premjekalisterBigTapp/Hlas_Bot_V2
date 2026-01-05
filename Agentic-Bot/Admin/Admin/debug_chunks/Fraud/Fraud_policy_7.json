@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_7",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 7,
+    "content_length": 703,
+    "is_empty": false
+  },
+  "content": "\"Computer System\" means any computer, hardware, software, router, communications system, electronic device (including but not limited to, smart phone, laptop, tablet, wearable device), server, cloud infrastructure or microcontroller including any similar system or any configuration of the aforementioned and including any associated input, output, data storage device, networking equipment or back up facility which is not Your Computer System.\n\n\"Cryptocurrency\" means a digital or virtual currency operating independently of a central bank that uses cryptographical functions for security.\n\n\"Cryptojacking\" means the unauthorised use of Your Computer System by a Third Party for mining Cryptocurrency.",
+  "questions": [
+    "How does the definition of 'Computer System' encompass various electronic devices and infrastructure, and what implications does this have for coverage of hardware versus software components?",
+    "In what scenarios would the exclusion of 'Your Computer System' from the definition affect claims related to unauthorized access or damage?",
+    "How is 'Cryptocurrency' defined in terms of its independence from central banks and use of cryptographical security, and how might this affect coverage of digital asset losses?",
+    "What conditions must be met for an incident to be classified as 'Cryptojacking,' and how does the involvement of a Third Party influence claim eligibility?",
+    "How do the definitions of 'Computer System' and 'Cryptojacking' interact when a wearable device is used without authorization for mining Cryptocurrency?",
+    "If a cloud infrastructure is compromised for Cryptocurrency mining, how does the policy's definition of 'Computer System' determine the scope of coverage?",
+    "How might the inclusion of networking equipment and backup facilities in the 'Computer System' definition affect claims involving data loss due to Cryptojacking?",
+    "What documentation or proof might be required to establish that a Third Party has engaged in Cryptojacking on a covered Computer System?",
+    "How does the policy distinguish between authorized and unauthorized use of a Computer System in the context of Cryptocurrency mining?",
+    "In cases where a microcontroller within a device is used for Cryptojacking, how does the policy's definition of Computer System apply to coverage?",
+    "How does the definition of 'Cryptocurrency' exclude or include tokens or digital assets that are not secured by cryptographical functions?",
+    "What are the implications for coverage if the unauthorized use of a Computer System for Cryptocurrency mining is conducted by an insider rather than an external Third Party?",
+    "How does the policy address situations where a device similar to a smartphone but not explicitly listed is used in Cryptojacking activities?",
+    "If a policyholder's server is used without consent for mining Cryptocurrency, how does the definition of Computer System and Cryptojacking affect claim processing?",
+    "How might the inclusion of 'any configuration' of computer systems impact claims involving hybrid or integrated electronic devices used in Cryptojacking?",
+    "What exclusions or limitations might apply if the unauthorized use of a Computer System for Cryptocurrency mining results from a software vulnerability?",
+    "How does the policy treat claims involving Cryptojacking when the affected Computer System includes both hardware and associated data storage devices?",
+    "In what ways does the definition of 'Third Party' influence the determination of unauthorized use in Cryptojacking claims?",
+    "How does the policy differentiate between damage caused by Cryptojacking and other forms of cyberattacks on the Computer System?",
+    "What role does the definition of 'Your Computer System' play in establishing coverage boundaries for incidents involving Cryptocurrency and Cryptojacking?"
+  ]
+}

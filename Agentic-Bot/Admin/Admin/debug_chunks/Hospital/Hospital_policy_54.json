@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_policy_54",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "policy",
+    "source_file": "Hospital_policy.md",
+    "chunk_index": 54,
+    "content_length": 987,
+    "is_empty": false
+  },
+  "content": "24. **Renewal of Your Policy**\n\nThis Policy will be automatically renewed by Us on the Expiry Date of the Policy upon satisfaction of the following:\n(a) Payment of the premium under General Condition 22;\n(b) There is no prior written notice of cancellation given in accordance with General Condition 3 before the Expiry Date of the Policy; and\n(c) The Policy has not been otherwise terminated\n\n25. **Sanction Limitation and Exclusion Clause**\n\nNotwithstanding any provision to the contrary within this Policy or any endorsement thereto, this insurance shall, in no case, be deemed to provide cover and be liable to pay any claim or provide any benefit hereunder to the extent that the provision of such cover, payment of such claim or provision of such benefit would expose the Company to any sanction, prohibition or restriction under United Nations resolutions or the trade or economic sanctions, laws or regulations of the European Union or United Kingdom or United States of America.",
+  "questions": [
+    "What are the conditions that must be met for the automatic renewal of the policy, and how does prior written notice of cancellation affect this process?",
+    "How does the payment of premium under General Condition 22 influence the renewal of the policy, and what happens if this payment is not made by the Expiry Date?",
+    "In what scenarios would the policy be considered terminated prior to the Expiry Date, thereby preventing automatic renewal?",
+    "How does the Sanction Limitation and Exclusion Clause interact with other policy provisions when a claim involves a country or entity subject to United Nations or other specified sanctions?",
+    "If a claim arises that would expose the insurer to economic sanctions under EU or US laws, how does the policy address coverage and liability for that claim?",
+    "Can the insurer deny a claim based on the Sanction Limitation and Exclusion Clause even if the claim otherwise meets all policy conditions?",
+    "How do the renewal conditions and the sanction exclusion clause together affect the insurer’s obligations if a policyholder is located in a sanctioned country at the time of renewal?",
+    "What is the impact of a written cancellation notice given after the Expiry Date on the automatic renewal of the policy?",
+    "How does the policy define the effect of trade or economic sanctions from multiple jurisdictions (UN, EU, UK, USA) on the insurer’s liability?",
+    "If the policyholder fails to pay the premium but no cancellation notice is given, will the policy still renew automatically according to the renewal clause?",
+    "How does the Sanction Limitation and Exclusion Clause limit coverage for claims involving benefits that would violate UK or US trade restrictions?",
+    "What documentation or proof is required to demonstrate that the policy has not been otherwise terminated before the Expiry Date to allow automatic renewal?",
+    "In the event of a conflict between the Sanction Limitation and Exclusion Clause and other policy endorsements, which provision takes precedence?",
+    "How does the insurer handle claims submitted after the policy has been automatically renewed but before the premium payment is confirmed?",
+    "What are the implications for policyholders traveling to or residing in countries under sanctions when it comes to policy renewal and claim eligibility?",
+    "Does the Sanction Limitation and Exclusion Clause apply to all types of claims and benefits under the policy, or are there exceptions?",
+    "How does the policy address the scenario where sanctions are newly imposed after the policy has been renewed but before a claim is made?",
+    "What role does the timing of premium payment play in the interaction between the renewal clause and the sanction exclusion clause?",
+    "If a policyholder receives a notice of cancellation but disputes it, how does this affect the automatic renewal and potential claim payments under the sanction clause?",
+    "How are economic sanctions from different jurisdictions coordinated within the policy’s exclusion clause to determine coverage denial?"
+  ]
+}

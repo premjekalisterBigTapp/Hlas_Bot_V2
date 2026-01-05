@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_32",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 32,
+    "content_length": 826,
+    "is_empty": false
+  },
+  "content": "We will pay You, up to the Benefit Limit, for the reasonable and necessary costs and expenses You incur, with Our prior written consent, to:\n\n(a) investigate, reconfigure and repair any damage to Your Computer System;\n\n(b) retrieve or replace Your Digital Assets;\n\n(c) locate and remove Malware from Your Computer System following a Cyber Event; or\n\n(d) restore Your Computer System back to its condition prior to the Cyber Event if damaged, altered or corrupted.\n\n### Section 5. Identity Theft\n\nIf during the Period of Insurance, You first discovered the occurrence of an Identity Theft Event, i.e., the online theft, modification, alteration or corruption of Your Personal Data by a Third Party to commit fraud using Your identify for financial, criminal or for other gain, We will pay You, up to the Benefit Limit, for the:",
+  "questions": [
+    "How does the requirement for Our prior written consent affect the reimbursement of costs incurred for investigating, reconfiguring, or repairing damage to Your Computer System after a Cyber Event?",
+    "In what scenarios would the policy cover the retrieval or replacement of Digital Assets, and how does this interact with the overall Benefit Limit?",
+    "What conditions must be met for the policy to pay for locating and removing Malware from Your Computer System, and how is this process linked to the definition of a Cyber Event?",
+    "How does the policy define the restoration of Your Computer System to its prior condition, and what types of damage, alteration, or corruption qualify for coverage under this provision?",
+    "During the Period of Insurance, what constitutes the first discovery of an Identity Theft Event, and how does this timing affect eligibility for benefits under Section 5?",
+    "What types of fraudulent activities committed by a Third Party using Your Personal Data are covered under the Identity Theft Event definition, and how does this influence claim acceptance?",
+    "How do the coverage limits for Cyber Event-related Computer System repairs compare to those for Identity Theft Event expenses, and are these limits combined or separate?",
+    "What documentation or proof might be required to demonstrate that a Cyber Event has occurred and that costs incurred were reasonable and necessary for coverage to apply?",
+    "How does the policy address costs incurred without obtaining prior written consent from the insurer for Cyber Event-related repairs or Digital Asset retrieval?",
+    "In the event of a Cyber Event causing both damage to the Computer System and loss of Digital Assets, how are claims prioritized or combined under the policy's Benefit Limit?",
+    "What exclusions or general policy conditions might limit coverage for the restoration of a Computer System following a Cyber Event, especially regarding pre-existing vulnerabilities or negligence?",
+    "How does the policy distinguish between damage caused by Malware and other types of Cyber Events when determining coverage eligibility for removal and repair costs?",
+    "What is the relationship between the timing of discovering an Identity Theft Event and the policy's Period of Insurance, particularly if the event occurred prior but was discovered during the coverage period?",
+    "How are costs related to the investigation of an Identity Theft Event covered, and do they require prior written consent similar to Cyber Event-related expenses?",
+    "Does the policy provide coverage for indirect losses resulting from Identity Theft, such as financial fraud or criminal acts committed using Your identity, or is coverage limited to direct costs?",
+    "How does the policy define 'Digital Assets' in the context of retrieval or replacement, and are there any limitations on the types or values of assets covered?",
+    "In cases where Malware removal leads to partial data loss or system downtime, how does the policy address compensation for such consequential impacts?",
+    "What are the implications if a Cyber Event causes damage that cannot be fully restored to the prior condition—does the policy cover partial restoration or replacement costs?",
+    "How does the policy coordinate coverage for Identity Theft Events with other sections that might cover fraud or financial loss, to avoid duplication of benefits?",
+    "Are there any specific exclusions or conditions in the policy that would negate coverage for Identity Theft Events discovered during the Period of Insurance but resulting from actions by a Third Party known to You before the policy started?"
+  ]
+}

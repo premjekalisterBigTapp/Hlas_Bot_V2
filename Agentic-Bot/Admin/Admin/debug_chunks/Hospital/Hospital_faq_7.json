@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_faq_7",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "faq",
+    "source_file": "Hospital_FAQs.txt",
+    "chunk_index": 7,
+    "content_length": 176,
+    "is_empty": false
+  },
+  "content": "Q: Does this policy premium increase with age?\nA: Yes, the premium will increase upon renewal of the policy, if the insured’s age during renewal entered into the next age band.",
+  "questions": [
+    "How does the policy handle premium adjustments upon renewal when the insured's age moves into a higher age band, and what documentation is required to verify the insured's age at renewal?",
+    "If an insured's age increases during the policy term but renewal has not yet occurred, does the premium increase immediately or only upon the next renewal, and how does this affect coverage?",
+    "Are there any exceptions or waivers to the premium increase upon renewal for insured persons who enter the next age band, such as for senior citizens or long-term policyholders?",
+    "How does the policy define the age bands that trigger premium increases upon renewal, and are these age bands consistent across all insured individuals regardless of plan type?",
+    "In the event of a mid-term policy extension or automatic renewal, how is the premium recalculated if the insured has entered a new age band, and does this affect the effective date of coverage?",
+    "Does the policy provide any grace period or notification requirement to the insured before applying a premium increase due to age band changes at renewal?",
+    "How does the premium increase upon renewal interact with any optional covers or riders that may have age-based pricing or eligibility criteria?",
+    "If the insured's age is misreported or documentation is delayed at the time of renewal, how does the policy address premium adjustments and coverage validity related to age band changes?",
+    "Are there any general exclusions or conditions in the policy that override or modify the premium increase upon renewal due to age band changes?",
+    "How does the policy treat premium increases upon renewal for insured persons who have reached the maximum age limit for coverage, if any?",
+    "In cases where the insured renews the policy after the expiry date, how is the premium recalculated if the insured has entered a new age band during the lapse period?",
+    "Does the policy allow for premium increases upon renewal due to age band changes to be spread over multiple payments, or must the full increased premium be paid upfront?",
+    "How does the policy address premium increases upon renewal for insured persons who have multiple policies or family plans, especially if only some members enter a new age band?",
+    "Are there any provisions in the policy for premium refunds or adjustments if the insured cancels the policy shortly after a renewal premium increase due to age band changes?",
+    "How does the policy define the insured's age for the purpose of premium increases upon renewal—based on the date of birth or policy anniversary date?",
+    "If the insured's age band changes during a policy term due to a birthday, but the policy is not renewed until later, does the premium increase retroactively apply or only from the renewal date?",
+    "How does the premium increase upon renewal due to age band changes affect the insured's eligibility for claims or benefits under the policy?",
+    "Are there any interactions between premium increases upon renewal due to age band changes and other policy features such as no-claim bonuses or loyalty discounts?",
+    "Does the policy specify how premium increases upon renewal are communicated to the insured, and what recourse the insured has if they dispute the age band classification?",
+    "In the case of joint or family policies, how is the premium increase upon renewal calculated if only some insured members enter a higher age band?"
+  ]
+}

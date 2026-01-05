@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_36",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 36,
+    "content_length": 826,
+    "is_empty": false
+  },
+  "content": "(e) Take reasonable measures to safeguard Your Personal Data, Payment Cards, Your Personal Accounts and Your accounts with Online Merchants\n\n(f) Take reasonable measures to authenticate and verify the identity of the sender of any Electronic Communication to You requesting the transfer of funds, prior to such funds being transferred from You to an account of a Third Party.\n\n(g) Not disclose, either personally or through any person or entity acting on Your behalf or at Your direction, to any Third Party the existence and Terms of this Policy but You may disclose the existence of this Policy to the extent that You are required to do so by law or where We consent to the disclosure in writing.\n\n## EXCLUSIONS APPLICABLE TO CYBER\n\nThis Policy does not cover any loss or any other costs directly or indirectly arising from:",
+  "questions": [
+    "What reasonable measures must You take to safeguard Your Personal Data, Payment Cards, Personal Accounts, and Online Merchant accounts to comply with the policy, and how might failure to do so affect coverage?",
+    "How does the policy define the required process for authenticating and verifying the identity of a sender of Electronic Communications requesting fund transfers, and what are the implications for claims if this process is not followed?",
+    "Under what circumstances can You disclose the existence and Terms of this Policy to a Third Party without breaching the policy, and what documentation or consent is required for such disclosure?",
+    "How do the general exclusions of the policy interact with the Cyber-specific exclusions regarding losses arising from Electronic Communications and fund transfers?",
+    "What types of losses or costs arising directly or indirectly from Cyber incidents are excluded under this policy, and how might these exclusions affect claims related to identity theft or online fraud?",
+    "In the event of a fraudulent Electronic Communication requesting fund transfer, what steps must You have taken to authenticate the sender to maintain eligibility for coverage?",
+    "How does the policy address the safeguarding of Payment Cards and what are the consequences if You fail to take reasonable measures to protect them?",
+    "What are the policy’s requirements regarding the disclosure of the policy’s existence and Terms, and how do these requirements balance legal obligations versus insurer consent?",
+    "If a Third Party obtains Your Personal Data due to Your failure to take reasonable safeguarding measures, how does this impact the coverage under the Cyber section?",
+    "How does the policy define 'reasonable measures' in the context of safeguarding accounts and authenticating Electronic Communications, and what evidence might be required to prove compliance?",
+    "What is the role of Online Merchants accounts in the Cyber coverage, and how must You protect these accounts to avoid exclusions?",
+    "How do the Cyber-specific exclusions apply to losses resulting from social engineering attacks where the sender’s identity was not properly verified?",
+    "What documentation or proof might be required to demonstrate that You took reasonable measures to authenticate Electronic Communications before transferring funds?",
+    "How does the policy handle situations where You disclose the existence of the policy without written consent but are legally required to do so, and what are the implications for coverage?",
+    "Are there any exclusions related to indirect losses arising from Cyber incidents, and how might these affect claims for consequential damages?",
+    "How do the Cyber exclusions interact with other sections of the policy if a loss involves both Cyber elements and other covered perils?",
+    "What are the potential consequences if You or a person acting on Your behalf disclose the policy Terms to a Third Party without insurer consent or legal requirement?",
+    "How does the policy address the safeguarding of Your Personal Accounts in relation to Online Merchants, and what specific risks are covered or excluded?",
+    "In cases where funds are transferred to a Third Party account following an Electronic Communication, how does the policy determine whether the transfer was authorized or fraudulent based on Your authentication efforts?",
+    "What are the limitations or exclusions on coverage for losses arising from failure to verify the identity of the sender in Electronic Communications requesting fund transfers?"
+  ]
+}

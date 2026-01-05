@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_38",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 38,
+    "content_length": 709,
+    "is_empty": false
+  },
+  "content": "4. **Business Costs** - Any costs incurred to a business that is associated with You as a result of any Loss Event.\n5. **Confidence Scam** - Any loss based upon, arising from or as consequence of a confidence trick involving feigned intentions towards You, such as but not limited to romantic intentions, investments, contracts, loans and the like, gaining Your confidence or affections, and then using that goodwill to commit fraud.\n6. **Confiscation by Public Authority** - Any seizure, confiscation, nationalisation, requisition or destruction of Your Computer System, Your Digital Assets, or any other electronic equipment or any other property by or under the order of any government or public authority.",
+  "questions": [
+    "How does the policy define and handle business costs incurred due to a loss event involving You, and what documentation is required to substantiate such claims?",
+    "In what scenarios would losses resulting from a confidence scam, including feigned romantic intentions or fraudulent investments, be excluded from coverage under this policy?",
+    "How does the exclusion of confiscation by public authority apply to losses involving Your Computer System, Digital Assets, or other electronic equipment, and are there any exceptions for government-ordered seizures?",
+    "If a business incurs costs due to a loss event affecting You, how does the policy differentiate between personal loss and business-related loss for claim purposes?",
+    "What evidence must be provided to prove that a loss was caused by a confidence scam, and how does this affect the eligibility of the claim under the policy?",
+    "Are losses due to confiscation by public authority covered if the confiscation is temporary versus permanent, and how does the policy address destruction versus requisition?",
+    "How do the general exclusions of the policy interact with the specific exclusion of losses arising from confidence scams involving feigned intentions?",
+    "In the event of confiscation by public authority, what steps must You take to report the loss, and how does this impact the claim process and timing?",
+    "Does the policy provide any coverage for indirect losses or consequential business costs resulting from confiscation of Your Digital Assets by a government authority?",
+    "How does the policy treat losses from confidence scams that involve digital assets or electronic equipment, considering both the confidence scam and confiscation exclusions?",
+    "If Your Computer System is seized by a public authority during a loss event, how does the policy address recovery or replacement costs, and are business costs related to this seizure covered?",
+    "What limitations or conditions apply to claims for business costs associated with You, especially when the costs arise from events excluded elsewhere in the policy such as confidence scams or confiscation?",
+    "How does the policy define 'Your Digital Assets' in the context of confiscation by public authority, and what documentation is required to prove ownership and loss?",
+    "Are losses due to fraud schemes that combine confidence scams with government confiscation treated differently under the policy, and how are such complex scenarios adjudicated?",
+    "What is the impact of the confidence scam exclusion on claims involving loans or contracts entered into under false pretenses, and how does this exclusion interact with other fraud-related provisions?",
+    "In cases where business costs arise from a loss event that also involves confiscation by public authority, how does the policy apportion coverage or exclusions between these aspects?",
+    "Does the policy exclude coverage for any loss events that are a consequence of a confidence scam even if the scam was not the direct cause of the loss, and how is causation determined?",
+    "How are losses from confiscation by public authority handled if the seizure is related to alleged illegal activities versus lawful requisition, and what proof is required to support the claim?",
+    "What are the policyholder's obligations to mitigate losses related to business costs, confidence scams, or confiscation by public authority, and how do failure to comply affect claim outcomes?",
+    "How does the policy address overlapping exclusions when a loss event involves both a confidence scam and confiscation by public authority, particularly regarding electronic equipment or digital assets?"
+  ]
+}

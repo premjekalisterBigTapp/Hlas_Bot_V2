@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_40",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 40,
+    "content_length": 895,
+    "is_empty": false
+  },
+  "content": "9. **Default password** - Any failure by You to change the default or original password of Your Computer System.\n10. **Defective Equipment** - Any defective equipment, ordinary wear and tear or deterioration, faulty design or construction, software error, or by internet speed, bandwidth or data allowance or digital memory or processing power that is insufficient to meet the needs of Your Computer System.\n11. **Digital Currency** - Any unregulated digital currency of any kind, unregulated virtual currency of any kind or unregulated cryptocurrency of any kind. However, this exclusion does not apply to: a) any Extortion Payment; or b) any costs arising from Cryptojacking.\n12. **Electromagnetic** - Any electromagnetic field, electromagnetic radiation or electromagnetism.\n13. **Face to face ransom** - Any Extortion Payment surrendered in a face to face encounter.\n14. **Infrastructure** -",
+  "questions": [
+    "How does the failure to change the default password on Your Computer System affect coverage, and are there any exceptions or conditions under which this exclusion might not apply?",
+    "In what ways do defects in equipment, including ordinary wear and tear, faulty design, software errors, or limitations in internet speed and digital memory, impact claims related to Your Computer System?",
+    "How is coverage affected by losses involving unregulated digital currencies, virtual currencies, or cryptocurrencies, and what are the specific exceptions related to Extortion Payments and Cryptojacking?",
+    "What are the implications of electromagnetic fields, radiation, or electromagnetism on coverage, and are there any scenarios where such exclusions might be overridden?",
+    "How does the policy treat Extortion Payments made during face-to-face encounters, and how does this exclusion interact with other extortion-related coverages?",
+    "If a claim involves defective equipment that also suffers from software errors and insufficient processing power, how are these combined factors considered under the exclusion for Defective Equipment?",
+    "When a loss involves digital currency that is regulated versus unregulated, how does the policy distinguish coverage, especially in relation to Extortion Payments and Cryptojacking costs?",
+    "How do the exclusions related to electromagnetic phenomena apply if the damage is caused indirectly through electromagnetic interference affecting Your Computer System?",
+    "In the event of an Extortion Payment made both remotely and in a face-to-face encounter, how does the policy determine which exclusion applies?",
+    "What documentation or proof is required to demonstrate that an Extortion Payment was not made in a face-to-face encounter to ensure coverage eligibility?",
+    "How does the exclusion for defective equipment address situations where ordinary wear and tear leads to a software error that causes a claim?",
+    "Are there any conditions under which losses related to internet speed, bandwidth, or data allowance limitations might be covered despite the Defective Equipment exclusion?",
+    "How does the policy define 'Extortion Payment' in relation to digital currency, and how does this definition affect claims involving cryptocurrency ransom demands?",
+    "If a claim involves costs arising from Cryptojacking, what specific coverage applies, and how is this distinguished from other digital currency-related exclusions?",
+    "How does the exclusion for electromagnetic fields interact with claims involving electronic data loss or corruption caused by electromagnetic interference?",
+    "In cases where the insured fails to change the default password but suffers a loss due to a third-party cyberattack, how does this exclusion impact claim validity?",
+    "What are the policy implications if defective equipment is part of a larger infrastructure failure, and how does the exclusion for Infrastructure relate to Defective Equipment?",
+    "How does the policy address situations where Extortion Payments are demanded via digital currency, considering the exclusions and exceptions for unregulated currencies?",
+    "If a loss involves both defective equipment and electromagnetic interference, how are these exclusions applied together to determine coverage?",
+    "What are the consequences of the default password exclusion on claims involving unauthorized access to Your Computer System, and how does this interact with other cyber-related coverages?"
+  ]
+}

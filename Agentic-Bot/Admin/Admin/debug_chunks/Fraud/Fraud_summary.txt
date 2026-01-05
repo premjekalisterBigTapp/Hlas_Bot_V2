@@ -1,0 +1,16 @@
+CHUNK ANALYSIS SUMMARY FOR Fraud
+==================================================
+
+Total Chunks: 93
+Empty Chunks: 0
+Valid Chunks: 93
+
+BREAKDOWN BY DOCUMENT TYPE:
+------------------------------
+benefits: 3 total, 3 valid, 0 empty
+policy: 90 total, 90 valid, 0 empty
+
+BREAKDOWN BY SOURCE FILE:
+------------------------------
+Fraud_benefits.txt: 3 total, 3 valid, 0 empty
+Fraud_policy.md: 90 total, 90 valid, 0 empty

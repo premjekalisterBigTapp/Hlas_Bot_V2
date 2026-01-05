@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_faq_5",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "faq",
+    "source_file": "Hospital_FAQs.txt",
+    "chunk_index": 5,
+    "content_length": 432,
+    "is_empty": false
+  },
+  "content": "Q: How many days of hospitalization is covered?\nA: In the event that you sustain an injury or illness during the period of insurance and is considered medically necessary by a Medical Registered Practitioner that you will be hospitalised to receive in-patient treatment. For each injury and illness: Up to 365 days under Section 1 – Daily Hospital Cash or Up to 30 days under Section 2 – Triple Daily Hospital Cash (in ICU) benefit.",
+  "questions": [
+    "How does the policy define the maximum number of hospitalization days covered for in-patient treatment under Section 1 and Section 2, and what medical criteria must be met for coverage eligibility?",
+    "In the event of an injury requiring ICU admission, how does the coverage duration differ between Section 1 and Section 2, and what documentation is necessary to prove medical necessity?",
+    "What are the conditions under which hospitalization benefits apply for illness versus injury, and how do the daily cash benefits vary between standard hospitalization and ICU care?",
+    "If a policyholder is hospitalized multiple times for different injuries or illnesses during the insurance period, how is the maximum coverage period calculated under the daily hospital cash benefits?",
+    "How does the policy handle coverage if hospitalization extends beyond 365 days for an injury or illness, and are there any exclusions or limitations for prolonged stays?",
+    "What is the role of a Medical Registered Practitioner in determining the necessity of hospitalization, and how might this affect claims for daily hospital cash benefits?",
+    "Under what circumstances would a claim for Triple Daily Hospital Cash be valid, and how does this benefit interact with the standard Daily Hospital Cash benefit?",
+    "How does the policy distinguish between in-patient treatment eligible for daily hospital cash benefits and other types of medical care that might not qualify?",
+    "Are there any specific exclusions or general policy limitations that could affect the payment of daily hospital cash benefits for hospitalization due to injury or illness?",
+    "How does the policy address hospitalization coverage if the injury or illness occurs outside the insured period or if the treatment starts after the insurance period ends?",
+    "What documentation or proof is required to substantiate a claim for up to 30 days of ICU hospitalization under Section 2, and how is ICU status verified?",
+    "How does the policy treat hospitalization benefits if the insured is admitted to hospital but does not receive in-patient treatment, such as observation or outpatient care?",
+    "In cases where a policyholder is hospitalized for both injury and illness during the same trip, how are the maximum coverage days allocated between Section 1 and Section 2 benefits?",
+    "Does the policy provide any automatic extensions or exceptions to the 365-day or 30-day hospitalization limits in cases of quarantine or COVID-19 related hospitalization?",
+    "How do general policy exclusions interact with the hospitalization benefits, particularly if the injury or illness is related to pre-existing conditions or excluded causes?",
+    "What happens to the hospitalization benefits if the insured fails to obtain certification from a Medical Registered Practitioner confirming the necessity of in-patient treatment?",
+    "Are there any age restrictions or eligibility criteria that affect the availability of daily hospital cash or triple daily hospital cash benefits under this policy?",
+    "How does the policy define the 'period of insurance' in relation to hospitalization coverage, and what implications does this have for claims involving extended hospital stays?",
+    "If a policyholder is hospitalized in a foreign country, how does the policy address the coverage limits and medical necessity requirements for daily hospital cash benefits?",
+    "In the event of a claim for hospitalization benefits, how does the policy handle situations where the insured receives partial treatment in ICU and partial in general wards within the same hospital stay?"
+  ]
+}

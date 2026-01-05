@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_10",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 10,
+    "content_length": 849,
+    "is_empty": false
+  },
+  "content": "\"Cyber War\" means the use of a Computer System by or on behalf of a State to disrupt, deny, degrade, manipulate, or destroy information in a Computer System of or in another State.\n\n\"Data Protection Legislation\" means the Personal Data Protection Act 2012 and applicable laws, codes, regulations and guidelines in Singapore related to the protection of personal data.\n\n\"Death\" means the cessation of all of Your biological functions occurring within twelve (12) calendar months of the date of the Accident.\n\n\"Digital Assets\" means software, programmes, Your personal electronic data, digital photos, digital music or digital video stored on Your Computer System.\n\n\"Digital Wallet\" means an e-wallet associated with a user account with an Online Merchant intended for effecting payment for the purchase of goods through the Online Merchant's website.",
+  "questions": [
+    "How does the definition of 'Cyber War' impact coverage for damages caused by state-sponsored cyber attacks on your Computer System during your trip?",
+    "In what ways does the policy address the protection or loss of 'Digital Assets' such as personal electronic data, digital photos, and digital music stored on your Computer System while traveling?",
+    "What are the implications of the 'Death' definition requiring cessation of all biological functions within twelve months of an Accident for accidental death claims under the policy?",
+    "How might the policy's reference to 'Data Protection Legislation' influence the handling and confidentiality of your personal data submitted during a claim process?",
+    "Under what circumstances would losses involving a 'Digital Wallet' linked to an Online Merchant be covered or excluded, considering its definition in the policy?",
+    "How does the policy distinguish between damages caused by 'Cyber War' and other cyber incidents not involving state actors, and what exclusions might apply?",
+    "What documentation or proof might be required to establish that a death occurred within the twelve-month period following an Accident as defined by the policy?",
+    "How does the inclusion of 'Digital Assets' in the policy definitions affect claims related to loss or corruption of software or personal electronic data due to insured events?",
+    "In the event of a cyber incident affecting your Digital Wallet, what conditions or limitations might the policy impose based on the definition provided?",
+    "How does the policy's definition of 'Cyber War' interact with general exclusions related to war or terrorism in determining claim eligibility?",
+    "What role does the Personal Data Protection Act 2012 and related Singapore laws play in the insurer's obligations when handling your personal data during claims?",
+    "How might the policy treat claims involving loss or damage to Digital Assets stored on your Computer System caused by a non-state cyber attack versus a Cyber War event?",
+    "What are the potential challenges in proving that an incident qualifies as 'Cyber War' under the policy's definition when filing a claim?",
+    "How does the policy define the time frame for accidental death claims, and what happens if death occurs after the twelve-month period?",
+    "In what ways could the definition of 'Digital Wallet' affect coverage for fraudulent transactions made through online merchant platforms during your trip?",
+    "How does the policy ensure compliance with Data Protection Legislation when sharing your personal data with third parties during the claims process?",
+    "What exclusions or limitations might apply to claims involving loss of Digital Assets due to cyber incidents not caused by a state actor as per the Cyber War definition?",
+    "How does the policy address the potential overlap between losses caused by Cyber War and other forms of cybercrime or hacking?",
+    "What evidence is necessary to demonstrate that a digital asset loss occurred on your Computer System during the insured period to qualify for coverage?",
+    "How might the policy's definitions influence the handling of claims involving death resulting from an Accident that also involves cyber-related causes?"
+  ]
+}

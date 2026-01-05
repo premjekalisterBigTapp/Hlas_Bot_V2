@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_faq_12",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "faq",
+    "source_file": "Car_FAQs.txt",
+    "chunk_index": 12,
+    "content_length": 199,
+    "is_empty": false
+  },
+  "content": "Q: When will the renewal or new car insurance policy information be transmitted and updated into LTA database for Road Tax Renewal?\nA: The data will be transmitted to LTA in real-time/near real-time.",
+  "questions": [
+    "How does the real-time or near real-time transmission of renewal or new car insurance policy information to the LTA database affect the timing of Road Tax Renewal eligibility?",
+    "In what scenarios might delays in updating the LTA database with new car insurance policy information impact a vehicle owner's ability to renew Road Tax on time?",
+    "What documentation or proof is required from the insured to confirm that their car insurance policy information has been successfully transmitted to the LTA for Road Tax Renewal?",
+    "How does the policy handle cases where the insurance information is transmitted but not immediately reflected in the LTA database for Road Tax Renewal purposes?",
+    "Are there any exclusions or conditions under which the insurance policy information would not be transmitted to the LTA database for Road Tax Renewal?",
+    "How does the real-time data transmission to LTA interact with any general exclusions related to policy activation timing or payment-before-cover warranties?",
+    "What are the implications for insured drivers if their renewal or new car insurance policy information is not updated in the LTA database before the Road Tax expiry date?",
+    "Does the policy provide any automatic extensions or grace periods for Road Tax Renewal if there is a delay in transmitting insurance information to the LTA?",
+    "How does the transmission of insurance policy data to the LTA database handle cases involving changes in coverage, such as upgrades or downgrades, before Road Tax Renewal?",
+    "What is the process for correcting errors if incorrect or incomplete car insurance policy information is transmitted to the LTA database affecting Road Tax Renewal?",
+    "How does the policy address situations where the insured has multiple vehicles and multiple insurance policies, in terms of data transmission to the LTA for Road Tax Renewal?",
+    "Are there any specific timing windows or cut-off times during which insurance policy information must be transmitted to the LTA to ensure Road Tax Renewal without penalty?",
+    "How do sanctions or regulatory compliance requirements impact the transmission of car insurance policy information to the LTA database for Road Tax Renewal?",
+    "In cases where the insured cancels or postpones their car insurance policy, how is the LTA database updated to reflect these changes for Road Tax Renewal purposes?",
+    "What role does the insured's confirmation or acknowledgment play in the transmission and updating of car insurance policy information to the LTA database?",
+    "How does the policy ensure data privacy and security during the real-time or near real-time transmission of insurance policy information to the LTA?",
+    "Are there any exclusions related to the type of vehicle or insurance coverage that affect whether the policy information is transmitted to the LTA for Road Tax Renewal?",
+    "How does the transmission process handle cases where the insured's policy includes optional covers or endorsements that may affect Road Tax Renewal eligibility?",
+    "What happens if the insured's car insurance policy is underwritten by a third party or broker—does this affect the transmission of policy information to the LTA for Road Tax Renewal?",
+    "How does the policy define the term 'real-time' or 'near real-time' in the context of data transmission to the LTA, and what are the acceptable timeframes for updating the Road Tax Renewal status?"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Hospital_policy_28",
+  "metadata": {
+    "product_name": "Hospital",
+    "doc_type": "policy",
+    "source_file": "Hospital_policy.md",
+    "chunk_index": 28,
+    "content_length": 859,
+    "is_empty": false
+  },
+  "content": "1. If the positive results of the Insured Person's Polymerase Chain Reaction (PCR) test is not submitted with any claims.\n2. If You have been Diagnosed with COVID-19 with or without displaying any symptoms but may not have required treatment.\n3. Any breach or non-adherence to safety measures or guidelines.\n4. The Insured Person and/or Immediate Family Member being diagnosed or suspected to be infected with COVID-19 at the time of application for this insurance.\n5. Any elective treatment, aromatherapy, tonic medication, services provided by a health spa, massage parlour, convalescent or nursing home or any rehabilitation centre.\n6. Surgery or medical treatment for a Pre-Existing Medical Condition, which is not directly related to or arising from the COVID-19.\n7. Any positive diagnosis of COVID-19 within 14 days of the Effective Date of Your Policy.",
+  "questions": [
+    "How does the requirement to submit positive PCR test results affect the eligibility of claims related to COVID-19 diagnosis and treatment, and what documentation must be provided to satisfy this condition?",
+    "In what ways does a COVID-19 diagnosis without symptoms or treatment impact claim coverage, and how does this interact with the policy's exclusions for asymptomatic cases?",
+    "What are the consequences of breaching or not adhering to prescribed safety measures or guidelines on COVID-19 related claims, and how does this exclusion apply across different sections of the policy?",
+    "How does a diagnosis or suspicion of COVID-19 infection in the Insured Person or Immediate Family Member at the time of insurance application affect the validity of the policy and subsequent claims?",
+    "Are elective treatments, such as aromatherapy, tonic medication, and services from health spas or rehabilitation centers, covered under COVID-19 related medical claims, and how do these exclusions interact with claims for necessary medical treatment?",
+    "How does the policy treat surgery or medical treatment for Pre-Existing Medical Conditions that are unrelated to COVID-19, and what documentation or proof is required to establish the direct relation or lack thereof to COVID-19?",
+    "What is the significance of the 14-day waiting period from the Effective Date of the policy concerning positive COVID-19 diagnoses, and how does this affect coverage for infections diagnosed within this timeframe?",
+    "How do the exclusions related to COVID-19 diagnosis at the time of application and the 14-day post-effective date diagnosis exclusion collectively impact the coverage for COVID-19 claims during the initial period of the policy?",
+    "In cases where the Insured Person is diagnosed with COVID-19 but does not require treatment, how does the policy define treatment requirements, and what implications does this have on claim acceptance?",
+    "What interplay exists between the requirement for PCR test results and the exclusion of claims for asymptomatic COVID-19 diagnoses, particularly in establishing proof of infection for claim purposes?",
+    "How does the policy distinguish between elective treatments and medically necessary treatments in the context of COVID-19, and what exclusions apply to services provided by nursing homes or convalescent centers?",
+    "If an Insured Person has a Pre-Existing Medical Condition and contracts COVID-19, how does the policy determine whether surgery or treatment is covered, especially when the condition is indirectly related to COVID-19?",
+    "What are the implications for claims if the Insured Person or Immediate Family Member was suspected but not confirmed to have COVID-19 at the time of policy application, and how does this suspicion affect coverage?",
+    "How does the policy address claims for COVID-19 related treatments that occur within the 14-day period after the policy's Effective Date, and are there any exceptions or extensions to this exclusion?",
+    "In what scenarios would a breach of safety measures or guidelines lead to claim denial, and how does the policy define such safety measures in relation to COVID-19?",
+    "How does the exclusion of claims without submission of positive PCR test results interact with other documentation requirements for COVID-19 claims, such as medical reports or treatment records?",
+    "What is the policy's stance on coverage for rehabilitation services following COVID-19 treatment, and how do exclusions for rehabilitation centers and nursing homes affect such claims?",
+    "How are claims handled if the Insured Person is diagnosed with COVID-19 shortly after the policy Effective Date but had no symptoms or treatment, considering the 14-day exclusion and asymptomatic diagnosis clauses?",
+    "How does the policy treat claims related to COVID-19 infections in Immediate Family Members at the time of application, and what impact does this have on the Insured Person's coverage?",
+    "What documentation and timing conditions must be met to avoid claim denial under the policy's COVID-19 exclusions, particularly regarding PCR test results, diagnosis timing, and adherence to safety guidelines?"
+  ]
+}

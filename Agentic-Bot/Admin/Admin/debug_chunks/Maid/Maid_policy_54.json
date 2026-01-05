@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Maid_policy_54",
+  "metadata": {
+    "product_name": "Maid",
+    "doc_type": "policy",
+    "source_file": "Maid_policy.md",
+    "chunk_index": 54,
+    "content_length": 844,
+    "is_empty": false
+  },
+  "content": "**Co-Payment**\nA co-payment on the Hospital and Surgical Expenses is applicable as follows:\n\n* **Annual Hospital and Surgical Expenses incurred:** First $15,000\n    * **Co-Payment by You:** 0%\n* **Annual Hospital and Surgical Expenses incurred:** Above $15,000\n    * **Co-Payment by You:** 25%\n\nIn the event Your Maid is admitted to an Overseas Hospital, Singapore Private Hospitals or a higher ward than class B2 or C in a Singapore Government Restructured Hospital, We will apply the following Pro-Ration Factor to the Hospital and Surgical expenses payable.\n\n**Pro-Ration Factor**\n\n* **Type of Ward:** Overseas Hospital or Singapore Private Hospital\n    * **Maximum Payable (% of Hospital and Surgical Expenses):** 30%\n* **Type of Ward:** Singapore Government Restructured Hospital\n    * A1 Class: 40%\n    * A2 Class: 45%\n    * B1 Class: 50%",
+  "questions": [
+    "How does the co-payment structure apply to hospital and surgical expenses incurred annually, and what percentage of co-payment is required for expenses above and below $15,000?",
+    "In what way does the pro-ration factor affect the payable hospital and surgical expenses when your maid is admitted to an overseas hospital compared to a Singapore government restructured hospital?",
+    "What are the maximum payable percentages of hospital and surgical expenses for different ward classes in Singapore government restructured hospitals, and how do these compare to private hospital wards?",
+    "If your maid is admitted to a Singapore private hospital, how does the pro-ration factor limit the reimbursement of hospital and surgical expenses, and how does this interact with the co-payment requirements?",
+    "How would the co-payment and pro-ration factors combine to determine the total amount payable if your maid incurs $20,000 in hospital and surgical expenses in an overseas hospital?",
+    "What is the impact on claim reimbursement if your maid is admitted to a higher ward than class B2 or C in a Singapore government restructured hospital, considering both co-payment and pro-ration factors?",
+    "Are there any differences in the co-payment percentages applied to hospital and surgical expenses incurred within the first $15,000 annually versus those incurred beyond that amount, and how does this affect overall claim amounts?",
+    "How does the policy define the application of the pro-ration factor when your maid is admitted to wards classified as A1, A2, or B1 in Singapore government restructured hospitals?",
+    "In a scenario where hospital and surgical expenses are incurred both overseas and in Singapore private hospitals, how would the pro-ration factor and co-payment clauses interact to determine the payable amount?",
+    "What conditions trigger the application of the pro-ration factor to hospital and surgical expenses, and how does this relate to the type of hospital and ward class your maid is admitted to?",
+    "If your maid is admitted to a Singapore government restructured hospital in a B1 class ward, how much of the hospital and surgical expenses will the insurer pay after applying the pro-ration factor and co-payment?",
+    "How does the policy handle hospital and surgical expenses when your maid is admitted to a ward lower than B2 or C in a Singapore government restructured hospital in terms of pro-ration and co-payment?",
+    "What documentation or evidence might be necessary to verify the ward class and hospital type to correctly apply the pro-ration factor and co-payment in a claim?",
+    "How does the annual limit of $15,000 for hospital and surgical expenses influence the calculation of co-payment, and what happens if expenses span multiple admissions within the policy year?",
+    "In cases where hospital and surgical expenses are incurred in both Singapore private hospitals and government restructured hospitals within the same policy year, how are co-payment and pro-ration factors applied cumulatively?",
+    "What is the rationale behind applying a 0% co-payment for the first $15,000 of hospital and surgical expenses, and how might this affect the insured's out-of-pocket costs in high-expense scenarios?",
+    "How does the pro-ration factor differ between overseas hospitals and Singapore private hospitals, and what implications does this have for claims involving treatment abroad?",
+    "If your maid is admitted to a Singapore government restructured hospital ward classified as A2, what percentage of hospital and surgical expenses will be payable, and how does this interact with the co-payment for expenses exceeding $15,000?",
+    "How would the policy apply co-payment and pro-ration factors if hospital and surgical expenses are incurred exactly at the $15,000 threshold within a policy year?",
+    "Are there any exceptions or special conditions mentioned in the policy regarding the application of co-payment or pro-ration factors for hospital and surgical expenses in specific hospital types or ward classes?"
+  ]
+}

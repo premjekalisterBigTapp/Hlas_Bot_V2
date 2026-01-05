@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Fraud_policy_70",
+  "metadata": {
+    "product_name": "Fraud",
+    "doc_type": "policy",
+    "source_file": "Fraud_policy.md",
+    "chunk_index": 70,
+    "content_length": 887,
+    "is_empty": false
+  },
+  "content": "i. On the date You attain sixty-six (66) years of age;\n   ii. Upon Your Death;\n   iii. We have paid 100% of the Benefit Limit for Accidental Death or Permanent Disablement or;\n   iv. You ceased to be a Singapore Citizen, Singapore Permanent Resident, or expatriate or foreigner who is holding a valid employment pass, work permit, dependent pass, student pass or long term visit pass and who is ordinarily residing in Singapore.\n3. **Cancellation of the Policy**\n   i. This Policy may be cancelled at any time by Us giving fourteen (14) days' notice by email or registered mail to Your last known address Such cancellation shall become effective from the first day of the month following the date of such notice issued and in such event, We will return a pro rata portion of the premium for the unexpired part of the Period of Insurance, provided no claim has been made under the Policy.",
+  "questions": [
+    "How does the policy termination upon reaching age sixty-six interact with the coverage for accidental death or permanent disablement benefits already paid out?",
+    "What are the conditions and implications for policy cancellation by the insurer, including the notice period, method of communication, and refund of premium if no claims have been made?",
+    "In what scenarios does the policy terminate immediately upon the insured's death, and how does this affect any pending claims or benefits?",
+    "How does the policy handle termination if the insured ceases to be a Singapore Citizen, Permanent Resident, or loses valid employment or long-term passes while ordinarily residing in Singapore?",
+    "What happens to the policy coverage and premium if the insurer cancels the policy with a fourteen-day notice but the cancellation becomes effective only from the first day of the following month?",
+    "If the insurer cancels the policy and the insured has made a claim during the period, how does this affect the refund of the premium for the unexpired insurance period?",
+    "How does the policy define the effective date of cancellation when notice is given by email versus registered mail, and what are the implications for the insured's coverage during this period?",
+    "What documentation or proof is required to establish that the insured has ceased to hold a valid employment pass, work permit, dependent pass, student pass, or long-term visit pass for policy termination purposes?",
+    "How does the policy address coverage if the insured attains age sixty-six during an ongoing trip or claim period?",
+    "In the event that 100% of the benefit limit for accidental death or permanent disablement has been paid, how does this trigger policy termination and what are the consequences for any other benefits?",
+    "What are the insurer's obligations regarding premium refunds if the policy is cancelled mid-term and no claims have been made, and how is the pro rata portion calculated?",
+    "How does the policy treat expatriates or foreigners who lose their valid passes but continue to reside outside Singapore in terms of policy termination?",
+    "If the insured dies shortly after the insurer issues a cancellation notice, which event takes precedence for policy termination and claim settlement?",
+    "How does the policy ensure that the insured is properly notified of cancellation, and what recourse does the insured have if they do not receive the email or registered mail?",
+    "What are the implications for coverage if the insured changes residency status but does not notify the insurer, and how might this affect policy termination under clause iv?",
+    "How does the policy handle situations where the insured attains age sixty-six but has an ongoing claim for accidental death or permanent disablement benefits?",
+    "What is the impact on coverage and premium if the insurer cancels the policy but the insured has already paid for the full period of insurance?",
+    "How does the policy define 'ordinarily residing in Singapore' for the purpose of determining termination under clause iv, and what evidence is required?",
+    "If the insured holds multiple valid passes (e.g., work permit and dependent pass) and loses one but not the other, how does this affect policy termination under clause iv?",
+    "How does the policy coordinate termination events such as age attainment, death, benefit exhaustion, and residency status changes to determine the exact termination date?"
+  ]
+}

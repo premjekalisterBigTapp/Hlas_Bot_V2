@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Maid_policy_94",
+  "metadata": {
+    "product_name": "Maid",
+    "doc_type": "policy",
+    "source_file": "Maid_policy.md",
+    "chunk_index": 94,
+    "content_length": 306,
+    "is_empty": false
+  },
+  "content": "**13. Other Insurance**\nIf at the time any claim arises under this Policy there is any other insurance policy effected by or on behalf of You with other insurance company covering the same expenses, We shall not be liable to pay or contribute more than its ratable proportion of any claim for such expense.",
+  "questions": [
+    "How does the policy handle claims when the insured has multiple insurance policies covering the same expenses, and what is meant by 'ratable proportion' in this context?",
+    "In a scenario where two insurance policies cover the same medical expense, how is the claim payment divided between this policy and the other insurer?",
+    "If a claim arises and another insurance policy also covers the same expense, does this policy pay the full amount first and then seek reimbursement, or only pay a proportionate share?",
+    "How does the presence of other insurance policies affect the insured's entitlement to claim benefits under this policy for overlapping expenses?",
+    "What documentation or proof might be required to establish the existence of other insurance policies covering the same expenses when making a claim?",
+    "If the insured fails to disclose other existing insurance policies at the time of claim, how might that impact the claim settlement under this policy?",
+    "Does the policy specify any priority or order of payment when multiple insurance policies cover the same expense, or is payment always shared proportionally?",
+    "How would the policy apply if the other insurance policy has different coverage limits or exclusions for the same expense?",
+    "In cases where the other insurance policy covers expenses not covered by this policy, how does the 'Other Insurance' clause affect claim payments?",
+    "If the insured has multiple policies with overlapping coverage but different insurers, can the insured claim full amounts from each policy separately under this clause?",
+    "How does the 'Other Insurance' clause interact with any general exclusions or specific section exclusions in determining claim liability?",
+    "What happens if the other insurance policy denies the claim for the same expense—does this policy then pay the full amount or still limit to a proportionate share?",
+    "In the event of a dispute between insurers regarding coverage of the same expense, how does this policy's 'Other Insurance' clause guide claim resolution?",
+    "Does the policy provide any guidance on how to calculate the ratable proportion when multiple policies have different coverage limits or deductibles?",
+    "How might the 'Other Insurance' clause affect claims involving pre-existing conditions if those are covered differently across multiple policies?",
+    "If the insured has optional covers or riders on other policies that overlap with this policy's coverage, how is the claim payment coordinated under this clause?",
+    "How does the policy treat claims for expenses partially covered by another insurance policy—does it pay only the uncovered portion or share the total expense proportionally?",
+    "Are there any exceptions or special conditions under which this policy would pay more than its ratable proportion despite the existence of other insurance?",
+    "How does the 'Other Insurance' clause affect claims related to quarantine or COVID-specific expenses if multiple policies provide coverage?",
+    "In the context of this clause, how is the insured's responsibility to inform the insurer about other insurance policies defined, and what are the consequences of non-disclosure?"
+  ]
+}

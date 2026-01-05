@@ -1,0 +1,34 @@
+{
+  "chunk_id": "Car_policy_55",
+  "metadata": {
+    "product_name": "Car",
+    "doc_type": "policy",
+    "source_file": "Car_policy.md",
+    "chunk_index": 55,
+    "content_length": 802,
+    "is_empty": false
+  },
+  "content": "#### 10. Payment before Cover Warranty\n*(Applicable to Policy issued to an individual)*\na. The premium due must be paid to the Us (or the intermediary through whom this Policy or Bond was effected) on or before the effective date (\"the effective date\") or the renewal date of the coverage. Payment shall be deemed to have been effected to Us or the intermediary when one of the following acts takes place:\n   i. Cash or honoured cheque for the premium is handed over to Us or the intermediary;\n   ii. A credit or debit card transaction for the premium is approved by the issuing bank;\n   iii. A payment through an electronic medium including the internet is approved by the relevant party;\n   iv. A credit in favour of Us or the intermediary is made through an electronic medium including the internet.",
+  "questions": [
+    "How does the Payment before Cover Warranty define the acceptable methods and timing of premium payment to ensure coverage is effective on the policy's effective or renewal date?",
+    "In what ways can payment be deemed received by the insurer or intermediary under the Payment before Cover Warranty, and how do these methods affect the start of coverage?",
+    "What are the implications if the premium payment is made after the effective date or renewal date according to the Payment before Cover Warranty, and how might this affect claim eligibility?",
+    "How does the Payment before Cover Warranty apply specifically to policies issued to individuals, and are there any differences if the policy is issued to entities other than individuals?",
+    "If a premium payment is made via a credit card but the transaction is later declined, how does the Payment before Cover Warranty address the validity of coverage starting on the effective date?",
+    "How does the Payment before Cover Warranty interact with the role of intermediaries in premium collection, and what constitutes valid payment through an intermediary?",
+    "What documentation or proof might be required to demonstrate compliance with the Payment before Cover Warranty in the event of a claim?",
+    "How does the Payment before Cover Warranty handle electronic payments made through internet platforms, and what constitutes approval by the relevant party?",
+    "Can a payment made by cheque that is handed over on the effective date but dishonored later still satisfy the Payment before Cover Warranty for coverage to commence?",
+    "How does the Payment before Cover Warranty address scenarios where payment is credited in favor of the insurer through electronic means but the insured has not directly initiated the payment?",
+    "What are the consequences under the Payment before Cover Warranty if the premium is paid on the renewal date but the insurer or intermediary delays processing the payment?",
+    "How does the Payment before Cover Warranty ensure that coverage is not activated prematurely before payment is confirmed, especially with electronic or internet payments?",
+    "In cases where multiple payment attempts are made before the effective date, how does the Payment before Cover Warranty determine which payment secures coverage?",
+    "How does the Payment before Cover Warranty interact with any general policy exclusions related to non-payment or late payment of premiums?",
+    "What is the significance of the Payment before Cover Warranty clause in preventing coverage gaps during policy renewals, and how does it affect continuous coverage?",
+    "How might the Payment before Cover Warranty affect claims arising from incidents occurring on the effective date if premium payment confirmation is delayed?",
+    "Does the Payment before Cover Warranty provide any grace period for premium payment beyond the effective or renewal date, and how does this impact coverage validity?",
+    "How does the Payment before Cover Warranty clause address payments made through intermediaries who may have different processing times or payment acceptance policies?",
+    "In what ways could the Payment before Cover Warranty clause interact with other policy provisions such as automatic extensions or reinstatements of coverage?",
+    "How does the Payment before Cover Warranty clause ensure compliance with regulatory requirements for premium payment timing and methods in travel insurance policies?"
+  ]
+}
